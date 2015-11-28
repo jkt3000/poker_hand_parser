@@ -1,0 +1,3938 @@
+﻿PokerStars Zoom Hand #143045472593:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:42:13 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Player_pit ($4.93 in chips) 
+Seat 2: Dmitry_BV ($5.02 in chips) 
+Seat 3: toppair ($5 in chips) 
+Seat 4: Toblerone199 ($5.31 in chips) 
+Seat 5: A100K53 ($22.67 in chips) 
+Seat 6: Sewa3 ($12.84 in chips) 
+Seat 7: B248R ($1.44 in chips) 
+Seat 8: Olga19857777 ($5 in chips) 
+Seat 9: qwerty4g ($7.67 in chips) 
+Dmitry_BV: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9s 4c]
+Toblerone199: calls $0.05
+A100K53: raises $0.15 to $0.20
+Sewa3: folds 
+B248R: folds 
+Olga19857777: folds 
+qwerty4g: folds 
+Player_pit: folds 
+Dmitry_BV: folds 
+toppair: calls $0.15
+Toblerone199: calls $0.15
+*** FLOP *** [Qc Qd Th]
+toppair: checks 
+Toblerone199: checks 
+A100K53: checks 
+*** TURN *** [Qc Qd Th] [Ah]
+toppair: checks 
+Toblerone199: bets $0.20
+A100K53: folds 
+toppair: folds 
+Uncalled bet ($0.20) returned to Toblerone199
+Toblerone199 collected $0.59 from pot
+Toblerone199: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [Qc Qd Th Ah]
+Seat 1: Player_pit (button) folded before Flop (didn't bet)
+Seat 2: Dmitry_BV (small blind) folded before Flop
+Seat 3: toppair (big blind) folded on the Turn
+Seat 4: Toblerone199 collected ($0.59)
+Seat 5: A100K53 folded on the Turn
+Seat 6: Sewa3 folded before Flop (didn't bet)
+Seat 7: B248R folded before Flop (didn't bet)
+Seat 8: Olga19857777 folded before Flop (didn't bet)
+Seat 9: qwerty4g folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045517975:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:43:04 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: galldam ($2.35 in chips) 
+Seat 2: toppair ($4.80 in chips) 
+Seat 3: kosakpoker ($5 in chips) 
+Seat 4: tigriskem ($14.69 in chips) 
+Seat 5: Olga19857777 ($5 in chips) 
+Seat 6: Los Mashka ($4.78 in chips) 
+Seat 7: alex2-a.a ($4.73 in chips) 
+Seat 8: KRITAYA ($7.70 in chips) 
+Seat 9: AndronDJ ($5 in chips) 
+toppair: posts small blind $0.02
+kosakpoker: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2h Ks]
+tigriskem: folds 
+Olga19857777: folds 
+Los Mashka: folds 
+alex2-a.a: folds 
+KRITAYA: folds 
+AndronDJ: folds 
+galldam: raises $0.25 to $0.30
+toppair: folds 
+kosakpoker: folds 
+Uncalled bet ($0.25) returned to galldam
+galldam collected $0.12 from pot
+galldam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: galldam (button) collected ($0.12)
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: kosakpoker (big blind) folded before Flop
+Seat 4: tigriskem folded before Flop (didn't bet)
+Seat 5: Olga19857777 folded before Flop (didn't bet)
+Seat 6: Los Mashka folded before Flop (didn't bet)
+Seat 7: alex2-a.a folded before Flop (didn't bet)
+Seat 8: KRITAYA folded before Flop (didn't bet)
+Seat 9: AndronDJ folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045542706:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:43:32 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($4.78 in chips) 
+Seat 2: T0mek187 ($8.84 in chips) 
+Seat 3: Krasnopera ($14.85 in chips) 
+Seat 4: booshrut ($5.07 in chips) 
+Seat 5: dma2122 ($3.12 in chips) 
+Seat 6: AlphaYoga ($5.48 in chips) 
+Seat 7: slimline33 ($5.30 in chips) 
+Seat 8: rusya80 ($5.06 in chips) 
+Seat 9: aa654321jx ($6.98 in chips) 
+T0mek187: posts small blind $0.02
+Krasnopera: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [6c 3d]
+booshrut: raises $0.10 to $0.15
+dma2122: folds 
+AlphaYoga: folds 
+slimline33: folds 
+rusya80: folds 
+aa654321jx: folds 
+toppair: folds 
+T0mek187: calls $0.13
+Krasnopera: folds 
+*** FLOP *** [Ts 5h 2d]
+T0mek187: checks 
+booshrut: checks 
+*** TURN *** [Ts 5h 2d] [Tc]
+T0mek187: checks 
+booshrut: checks 
+*** RIVER *** [Ts 5h 2d Tc] [Kh]
+T0mek187: bets $0.50
+booshrut: folds 
+Uncalled bet ($0.50) returned to T0mek187
+T0mek187 collected $0.34 from pot
+T0mek187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ts 5h 2d Tc Kh]
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: T0mek187 (small blind) collected ($0.34)
+Seat 3: Krasnopera (big blind) folded before Flop
+Seat 4: booshrut folded on the River
+Seat 5: dma2122 folded before Flop (didn't bet)
+Seat 6: AlphaYoga folded before Flop (didn't bet)
+Seat 7: slimline33 folded before Flop (didn't bet)
+Seat 8: rusya80 folded before Flop (didn't bet)
+Seat 9: aa654321jx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045552527:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:43:43 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: kuccy1 ($5.35 in chips) 
+Seat 2: Robso88_n ($14.47 in chips) 
+Seat 3: MattyDbag ($2.58 in chips) 
+Seat 4: psiholog2014 ($6.83 in chips) 
+Seat 5: bubsqueak ($2.43 in chips) 
+Seat 6: AleXX Lviv ($5 in chips) 
+Seat 7: Krasnopera ($14.80 in chips) 
+Seat 8: toppair ($4.78 in chips) 
+Seat 9: -Roma04176- ($5.90 in chips) 
+Robso88_n: posts small blind $0.02
+MattyDbag: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [8h Ad]
+psiholog2014: raises $0.07 to $0.12
+bubsqueak: calls $0.12
+AleXX Lviv: folds 
+Krasnopera: folds 
+toppair: calls $0.12
+-Roma04176-: calls $0.12
+kuccy1: folds 
+Robso88_n: folds 
+MattyDbag: folds 
+*** FLOP *** [7c 3s Qd]
+psiholog2014: bets $0.30
+bubsqueak: folds 
+toppair: calls $0.30
+-Roma04176-: folds 
+*** TURN *** [7c 3s Qd] [5h]
+psiholog2014: checks 
+toppair: checks 
+*** RIVER *** [7c 3s Qd 5h] [Ks]
+psiholog2014: bets $0.50
+toppair: folds 
+Uncalled bet ($0.50) returned to psiholog2014
+psiholog2014 collected $1.10 from pot
+psiholog2014: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [7c 3s Qd 5h Ks]
+Seat 1: kuccy1 (button) folded before Flop (didn't bet)
+Seat 2: Robso88_n (small blind) folded before Flop
+Seat 3: MattyDbag (big blind) folded before Flop
+Seat 4: psiholog2014 collected ($1.10)
+Seat 5: bubsqueak folded on the Flop
+Seat 6: AleXX Lviv folded before Flop (didn't bet)
+Seat 7: Krasnopera folded before Flop (didn't bet)
+Seat 8: toppair folded on the River
+Seat 9: -Roma04176- folded on the Flop
+
+
+
+PokerStars Zoom Hand #143045597209:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:44:33 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: pivoivodka ($6.42 in chips) 
+Seat 2: NevermindNsk ($5.04 in chips) 
+Seat 3: Krasnopera ($6.88 in chips) 
+Seat 4: qwerty4g ($8.24 in chips) 
+Seat 5: kuccy1 ($5.35 in chips) 
+Seat 6: Discopumper ($2.01 in chips) 
+Seat 7: toppair ($4.36 in chips) 
+Seat 8: Dmitry_BV ($4.93 in chips) 
+Seat 9: StimOff ($12.34 in chips) 
+NevermindNsk: posts small blind $0.02
+Krasnopera: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2d 8h]
+qwerty4g: folds 
+kuccy1: folds 
+Discopumper: folds 
+toppair: folds 
+Dmitry_BV: folds 
+StimOff: folds 
+pivoivodka: folds 
+NevermindNsk: folds 
+Uncalled bet ($0.03) returned to Krasnopera
+Krasnopera collected $0.04 from pot
+Krasnopera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: pivoivodka (button) folded before Flop (didn't bet)
+Seat 2: NevermindNsk (small blind) folded before Flop
+Seat 3: Krasnopera (big blind) collected ($0.04)
+Seat 4: qwerty4g folded before Flop (didn't bet)
+Seat 5: kuccy1 folded before Flop (didn't bet)
+Seat 6: Discopumper folded before Flop (didn't bet)
+Seat 7: toppair folded before Flop (didn't bet)
+Seat 8: Dmitry_BV folded before Flop (didn't bet)
+Seat 9: StimOff folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045593706:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:44:29 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Zdenyol29 ($5.39 in chips) 
+Seat 2: Touareg2013 ($2.94 in chips) 
+Seat 3: Jancsibacsi ($2.41 in chips) 
+Seat 4: Dr.Charles A ($6.15 in chips) 
+Seat 5: booshrut ($6.63 in chips) 
+Seat 6: NevermindNsk ($5.04 in chips) 
+Seat 7: spirt77 ($5.62 in chips) 
+Seat 8: Kondricky ($5.31 in chips) 
+Seat 9: toppair ($4.36 in chips) 
+Touareg2013: posts small blind $0.02
+Jancsibacsi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jh 6d]
+Dr.Charles A: folds 
+booshrut: folds 
+NevermindNsk: folds 
+spirt77: folds 
+Kondricky: folds 
+toppair: folds 
+Zdenyol29: raises $0.10 to $0.15
+Touareg2013: folds 
+Jancsibacsi: raises $0.32 to $0.47
+Zdenyol29: folds 
+Uncalled bet ($0.32) returned to Jancsibacsi
+Jancsibacsi collected $0.32 from pot
+Jancsibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0 
+Seat 1: Zdenyol29 (button) folded before Flop
+Seat 2: Touareg2013 (small blind) folded before Flop
+Seat 3: Jancsibacsi (big blind) collected ($0.32)
+Seat 4: Dr.Charles A folded before Flop (didn't bet)
+Seat 5: booshrut folded before Flop (didn't bet)
+Seat 6: NevermindNsk folded before Flop (didn't bet)
+Seat 7: spirt77 folded before Flop (didn't bet)
+Seat 8: Kondricky folded before Flop (didn't bet)
+Seat 9: toppair folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045600866:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:44:37 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: bbtondo ($5.29 in chips) 
+Seat 2: OOODiabloOOO ($5.66 in chips) 
+Seat 3: Morgot339 ($5.50 in chips) 
+Seat 4: animackx ($8.87 in chips) 
+Seat 5: AlphaYoga ($5 in chips) 
+Seat 6: toppair ($4.36 in chips) 
+Seat 7: evcice ($6.52 in chips) 
+Seat 8: Ede1wei$$ ($5.48 in chips) 
+Seat 9: elviesa ($5.07 in chips) 
+OOODiabloOOO: posts small blind $0.02
+Morgot339: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [3c Kh]
+animackx: raises $0.07 to $0.12
+AlphaYoga: folds 
+toppair: folds 
+evcice: folds 
+Ede1wei$$: folds 
+elviesa: folds 
+bbtondo: folds 
+OOODiabloOOO: folds 
+Morgot339: folds 
+Uncalled bet ($0.07) returned to animackx
+animackx collected $0.12 from pot
+animackx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: bbtondo (button) folded before Flop (didn't bet)
+Seat 2: OOODiabloOOO (small blind) folded before Flop
+Seat 3: Morgot339 (big blind) folded before Flop
+Seat 4: animackx collected ($0.12)
+Seat 5: AlphaYoga folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: evcice folded before Flop (didn't bet)
+Seat 8: Ede1wei$$ folded before Flop (didn't bet)
+Seat 9: elviesa folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045674297:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:45:58 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($4.95 in chips) 
+Seat 2: PandaIrk ($5 in chips) 
+Seat 3: Mable888 ($1.52 in chips) 
+Seat 4: alexkoro87 ($10.14 in chips) 
+Seat 5: -WinsLucky- ($5 in chips) 
+Seat 6: Gezo666 ($17.04 in chips) 
+Seat 7: Stefan987695 ($5 in chips) 
+Seat 8: I Am Lier ($4.85 in chips) 
+Seat 9: WorldM@ker ($4.54 in chips) 
+PandaIrk: posts small blind $0.02
+Mable888: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jd 3s]
+alexkoro87: raises $0.10 to $0.15
+-WinsLucky-: folds 
+Gezo666: folds 
+Stefan987695: folds 
+I Am Lier: folds 
+WorldM@ker: folds 
+toppair: folds 
+PandaIrk: folds 
+Mable888: folds 
+Uncalled bet ($0.10) returned to alexkoro87
+alexkoro87 collected $0.12 from pot
+alexkoro87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: PandaIrk (small blind) folded before Flop
+Seat 3: Mable888 (big blind) folded before Flop
+Seat 4: alexkoro87 collected ($0.12)
+Seat 5: -WinsLucky- folded before Flop (didn't bet)
+Seat 6: Gezo666 folded before Flop (didn't bet)
+Seat 7: Stefan987695 folded before Flop (didn't bet)
+Seat 8: I Am Lier folded before Flop (didn't bet)
+Seat 9: WorldM@ker folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045678016:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:46:02 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: mamim100 ($10.66 in chips) 
+Seat 2: toppair ($4.95 in chips) 
+Seat 3: Asqalet ($7.09 in chips) 
+Seat 4: Wave737 ($9.28 in chips) 
+Seat 5: Jancsibacsi ($1.18 in chips) 
+Seat 6: Ede1wei$$ ($5 in chips) 
+Seat 7: A100K53 ($22.85 in chips) 
+Seat 8: WorldM@ker ($5.09 in chips) 
+Seat 9: frankcet440 ($6.89 in chips) 
+toppair: posts small blind $0.02
+Asqalet: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kh Jd]
+Wave737: folds 
+Jancsibacsi: folds 
+Ede1wei$$: folds 
+A100K53: raises $0.10 to $0.15
+WorldM@ker: folds 
+frankcet440: folds 
+mamim100: calls $0.15
+toppair: calls $0.13
+Asqalet: folds 
+*** FLOP *** [Qd 5s Ks]
+toppair: checks 
+A100K53: checks 
+mamim100: checks 
+*** TURN *** [Qd 5s Ks] [8h]
+toppair: bets $0.19
+A100K53: calls $0.19
+mamim100: folds 
+*** RIVER *** [Qd 5s Ks 8h] [2d]
+toppair: checks 
+A100K53: checks 
+*** SHOW DOWN ***
+toppair: shows [Kh Jd] (a pair of Kings)
+A100K53: mucks hand 
+toppair collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04 
+Board [Qd 5s Ks 8h 2d]
+Seat 1: mamim100 (button) folded on the Turn
+Seat 2: toppair (small blind) showed [Kh Jd] and won ($0.84) with a pair of Kings
+Seat 3: Asqalet (big blind) folded before Flop
+Seat 4: Wave737 folded before Flop (didn't bet)
+Seat 5: Jancsibacsi folded before Flop (didn't bet)
+Seat 6: Ede1wei$$ folded before Flop (didn't bet)
+Seat 7: A100K53 mucked [Jc As]
+Seat 8: WorldM@ker folded before Flop (didn't bet)
+Seat 9: frankcet440 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045656392:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:45:38 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: qwerty4g ($9.27 in chips) 
+Seat 2: evcice ($6.87 in chips) 
+Seat 3: toppair ($5 in chips) 
+Seat 4: al4enmuj ($7.99 in chips) 
+Seat 5: kuccy1 ($5 in chips) 
+Seat 6: AlphaYoga ($5.05 in chips) 
+Seat 7: alinauta1980 ($1.87 in chips) 
+Seat 8: franciscol ($4.79 in chips) 
+Seat 9: Zdenyol29 ($5.31 in chips) 
+evcice: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [8s Jd]
+al4enmuj: calls $0.05
+kuccy1: folds 
+AlphaYoga: folds 
+alinauta1980: folds 
+franciscol: folds 
+Zdenyol29: raises $0.15 to $0.20
+qwerty4g: folds 
+evcice: folds 
+toppair: folds 
+al4enmuj: calls $0.15
+*** FLOP *** [6s 5h 5s]
+al4enmuj: checks 
+Zdenyol29: bets $0.30
+al4enmuj: calls $0.30
+*** TURN *** [6s 5h 5s] [3s]
+al4enmuj: checks 
+Zdenyol29: bets $0.65
+al4enmuj: calls $0.65
+*** RIVER *** [6s 5h 5s 3s] [9c]
+al4enmuj: checks 
+Zdenyol29: bets $1
+al4enmuj: calls $1
+*** SHOW DOWN ***
+Zdenyol29: shows [Ah Ad] (two pair, Aces and Fives)
+al4enmuj: mucks hand 
+Zdenyol29 collected $4.19 from pot
+*** SUMMARY ***
+Total pot $4.37 | Rake $0.18 
+Board [6s 5h 5s 3s 9c]
+Seat 1: qwerty4g (button) folded before Flop (didn't bet)
+Seat 2: evcice (small blind) folded before Flop
+Seat 3: toppair (big blind) folded before Flop
+Seat 4: al4enmuj mucked [4s 4h]
+Seat 5: kuccy1 folded before Flop (didn't bet)
+Seat 6: AlphaYoga folded before Flop (didn't bet)
+Seat 7: alinauta1980 folded before Flop (didn't bet)
+Seat 8: franciscol folded before Flop (didn't bet)
+Seat 9: Zdenyol29 showed [Ah Ad] and won ($4.19) with two pair, Aces and Fives
+
+
+
+PokerStars Zoom Hand #143045717915:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:46:46 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Forsenboy ($2.50 in chips) 
+Seat 2: Baditiger ($4.83 in chips) 
+Seat 3: VVVV495 ($13.97 in chips) 
+Seat 4: cuzmich500 ($3.36 in chips) 
+Seat 5: A100K53 ($22.51 in chips) 
+Seat 6: bbtondo ($5.93 in chips) 
+Seat 7: alexkoro87 ($8.89 in chips) 
+Seat 8: Toffsla ($10.42 in chips) 
+Seat 9: toppair ($5.45 in chips) 
+Baditiger: posts small blind $0.02
+VVVV495: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4c 9h]
+cuzmich500: raises $0.10 to $0.15
+A100K53: calls $0.15
+bbtondo: folds 
+alexkoro87: folds 
+Toffsla: folds 
+toppair: folds 
+Forsenboy: folds 
+Baditiger: folds 
+VVVV495: calls $0.10
+*** FLOP *** [Qs 8s Jd]
+VVVV495: checks 
+cuzmich500: checks 
+A100K53: checks 
+*** TURN *** [Qs 8s Jd] [Kh]
+VVVV495: checks 
+cuzmich500: checks 
+A100K53: bets $0.22
+VVVV495: calls $0.22
+cuzmich500: folds 
+*** RIVER *** [Qs 8s Jd Kh] [6d]
+VVVV495: checks 
+A100K53: checks 
+*** SHOW DOWN ***
+VVVV495: shows [8d 8c] (three of a kind, Eights)
+A100K53: mucks hand 
+VVVV495 collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04 
+Board [Qs 8s Jd Kh 6d]
+Seat 1: Forsenboy (button) folded before Flop (didn't bet)
+Seat 2: Baditiger (small blind) folded before Flop
+Seat 3: VVVV495 (big blind) showed [8d 8c] and won ($0.87) with three of a kind, Eights
+Seat 4: cuzmich500 folded on the Turn
+Seat 5: A100K53 mucked [Kc Qh]
+Seat 6: bbtondo folded before Flop (didn't bet)
+Seat 7: alexkoro87 folded before Flop (didn't bet)
+Seat 8: Toffsla folded before Flop (didn't bet)
+Seat 9: toppair folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045734857:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:47:05 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: severelle ($9.81 in chips) 
+Seat 2: 3meyGorini4 ($5 in chips) 
+Seat 3: Papar@zzi ($5.80 in chips) 
+Seat 4: knullig ($5.25 in chips) 
+Seat 5: julrtif ($2.02 in chips) 
+Seat 6: Kirill Smoke ($14.72 in chips) 
+Seat 7: toppair ($5.45 in chips) 
+Seat 8: AlphaYoga ($5.61 in chips) 
+Seat 9: emzapata ($3 in chips) 
+3meyGorini4: posts small blind $0.02
+Papar@zzi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ts Qs]
+knullig: folds 
+julrtif: folds 
+Kirill Smoke: folds 
+toppair: calls $0.05
+AlphaYoga: folds 
+emzapata: folds 
+severelle: folds 
+3meyGorini4: folds 
+Papar@zzi: checks 
+*** FLOP *** [Jc 6d 7h]
+Papar@zzi: checks 
+toppair: bets $0.05
+Papar@zzi: calls $0.05
+*** TURN *** [Jc 6d 7h] [9h]
+Papar@zzi: checks 
+toppair: checks 
+*** RIVER *** [Jc 6d 7h 9h] [8h]
+Papar@zzi: bets $0.10
+toppair: raises $0.20 to $0.30
+Papar@zzi: calls $0.20
+*** SHOW DOWN ***
+toppair: shows [Ts Qs] (a straight, Eight to Queen)
+Papar@zzi: mucks hand 
+toppair collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Jc 6d 7h 9h 8h]
+Seat 1: severelle (button) folded before Flop (didn't bet)
+Seat 2: 3meyGorini4 (small blind) folded before Flop
+Seat 3: Papar@zzi (big blind) mucked [7c Td]
+Seat 4: knullig folded before Flop (didn't bet)
+Seat 5: julrtif folded before Flop (didn't bet)
+Seat 6: Kirill Smoke folded before Flop (didn't bet)
+Seat 7: toppair showed [Ts Qs] and won ($0.79) with a straight, Eight to Queen
+Seat 8: AlphaYoga folded before Flop (didn't bet)
+Seat 9: emzapata folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045731461:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:47:01 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Last Samyrai ($8.13 in chips) 
+Seat 2: ombu9 ($6.85 in chips) 
+Seat 3: satoshi48 ($12.15 in chips) 
+Seat 4: julrtif ($2.02 in chips) 
+Seat 5: Krasnodyr ($5.02 in chips) 
+Seat 6: knullig ($5.25 in chips) 
+Seat 7: silvermax33 ($8.67 in chips) 
+Seat 8: toppair ($5.45 in chips) 
+Seat 9: AleXX Lviv ($7.29 in chips) 
+ombu9: posts small blind $0.02
+satoshi48: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4d Kh]
+julrtif: folds 
+Krasnodyr: folds 
+knullig: folds 
+silvermax33: raises $0.10 to $0.15
+toppair: folds 
+AleXX Lviv: raises $0.30 to $0.45
+Last Samyrai: calls $0.45
+ombu9: folds 
+satoshi48: folds 
+silvermax33: folds 
+*** FLOP *** [2d Jh Td]
+AleXX Lviv: checks 
+Last Samyrai: bets $0.58
+AleXX Lviv: calls $0.58
+*** TURN *** [2d Jh Td] [2c]
+AleXX Lviv: checks 
+Last Samyrai: checks 
+*** RIVER *** [2d Jh Td 2c] [2h]
+AleXX Lviv: checks 
+Last Samyrai: bets $1.20
+AleXX Lviv: calls $1.20
+*** SHOW DOWN ***
+Last Samyrai: shows [Kc Ks] (a full house, Deuces full of Kings)
+AleXX Lviv: mucks hand 
+Last Samyrai collected $4.49 from pot
+*** SUMMARY ***
+Total pot $4.68 | Rake $0.19 
+Board [2d Jh Td 2c 2h]
+Seat 1: Last Samyrai (button) showed [Kc Ks] and won ($4.49) with a full house, Deuces full of Kings
+Seat 2: ombu9 (small blind) folded before Flop
+Seat 3: satoshi48 (big blind) folded before Flop
+Seat 4: julrtif folded before Flop (didn't bet)
+Seat 5: Krasnodyr folded before Flop (didn't bet)
+Seat 6: knullig folded before Flop (didn't bet)
+Seat 7: silvermax33 folded before Flop
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: AleXX Lviv mucked [Qh Qs]
+
+
+
+PokerStars Zoom Hand #143045776326:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:47:51 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zene4ka ($6.51 in chips) 
+Seat 2: Lotereyka ($8.57 in chips) 
+Seat 3: elviesa ($5 in chips) 
+Seat 4: 3meyGorini4 ($5 in chips) 
+Seat 5: toppair ($5.84 in chips) 
+Seat 6: mr.frankrijk ($4.93 in chips) 
+Seat 7: -WinsLucky- ($5.12 in chips) 
+Seat 8: Kirill Smoke ($5.26 in chips) 
+Seat 9: Onlyforward3 ($20.33 in chips) 
+Lotereyka: posts small blind $0.02
+elviesa: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ac 9d]
+3meyGorini4: folds 
+toppair: calls $0.05
+mr.frankrijk: folds 
+-WinsLucky-: folds 
+Kirill Smoke: folds 
+Onlyforward3: raises $0.10 to $0.15
+zene4ka: folds 
+Lotereyka: folds 
+elviesa: folds 
+toppair: calls $0.10
+*** FLOP *** [7h Ad 5h]
+toppair: bets $0.17
+Onlyforward3: calls $0.17
+*** TURN *** [7h Ad 5h] [3d]
+toppair: checks 
+Onlyforward3: bets $0.34
+toppair: calls $0.34
+*** RIVER *** [7h Ad 5h 3d] [4s]
+toppair: bets $0.66
+Onlyforward3: calls $0.66
+*** SHOW DOWN ***
+toppair: shows [Ac 9d] (a pair of Aces)
+Onlyforward3: shows [Td As] (a pair of Aces - Ten kicker)
+Onlyforward3 collected $2.60 from pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.11 
+Board [7h Ad 5h 3d 4s]
+Seat 1: zene4ka (button) folded before Flop (didn't bet)
+Seat 2: Lotereyka (small blind) folded before Flop
+Seat 3: elviesa (big blind) folded before Flop
+Seat 4: 3meyGorini4 folded before Flop (didn't bet)
+Seat 5: toppair showed [Ac 9d] and lost with a pair of Aces
+Seat 6: mr.frankrijk folded before Flop (didn't bet)
+Seat 7: -WinsLucky- folded before Flop (didn't bet)
+Seat 8: Kirill Smoke folded before Flop (didn't bet)
+Seat 9: Onlyforward3 showed [Td As] and won ($2.60) with a pair of Aces
+
+
+
+PokerStars Zoom Hand #143045831336:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:48:52 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: booshrut ($8.07 in chips) 
+Seat 2: hangzu001 ($8.36 in chips) 
+Seat 3: dimidruliya ($2.61 in chips) 
+Seat 4: mamim100 ($6.55 in chips) 
+Seat 5: kdtty ($5.01 in chips) 
+Seat 6: toppair ($4.52 in chips) 
+Seat 7: yomotan ($4.87 in chips) 
+Seat 8: kailass ($5.68 in chips) 
+Seat 9: ciobanu8 ($4.54 in chips) 
+hangzu001: posts small blind $0.02
+dimidruliya: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jh Th]
+mamim100: folds 
+kdtty: folds 
+toppair: calls $0.05
+yomotan: folds 
+kailass: folds 
+ciobanu8: folds 
+booshrut: folds 
+hangzu001: folds 
+dimidruliya: checks 
+*** FLOP *** [5c 7s 3s]
+dimidruliya: checks 
+toppair: bets $0.05
+dimidruliya: calls $0.05
+*** TURN *** [5c 7s 3s] [8d]
+dimidruliya: checks 
+toppair: checks 
+*** RIVER *** [5c 7s 3s 8d] [9d]
+dimidruliya: checks 
+toppair: bets $0.21
+dimidruliya: folds 
+Uncalled bet ($0.21) returned to toppair
+toppair collected $0.21 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5c 7s 3s 8d 9d]
+Seat 1: booshrut (button) folded before Flop (didn't bet)
+Seat 2: hangzu001 (small blind) folded before Flop
+Seat 3: dimidruliya (big blind) folded on the River
+Seat 4: mamim100 folded before Flop (didn't bet)
+Seat 5: kdtty folded before Flop (didn't bet)
+Seat 6: toppair collected ($0.21)
+Seat 7: yomotan folded before Flop (didn't bet)
+Seat 8: kailass folded before Flop (didn't bet)
+Seat 9: ciobanu8 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045866087:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:49:31 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: booshrut ($5.85 in chips) 
+Seat 2: qwerty4g ($6.38 in chips) 
+Seat 3: I'mGallardo ($9.81 in chips) 
+Seat 4: toppair ($4.63 in chips) 
+Seat 5: WorldM@ker ($7.62 in chips) 
+Seat 6: 3meyGorini4 ($5 in chips) 
+Seat 7: Olga19857777 ($5.63 in chips) 
+Seat 8: lovandos001 ($1.98 in chips) 
+Seat 9: zene4ka ($6.44 in chips) 
+qwerty4g: posts small blind $0.02
+I'mGallardo: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9c 7h]
+toppair: calls $0.05
+WorldM@ker: folds 
+3meyGorini4: raises $0.27 to $0.32
+Olga19857777 has timed out
+Olga19857777: folds 
+lovandos001: calls $0.32
+zene4ka: folds 
+booshrut: folds 
+qwerty4g: folds 
+I'mGallardo: folds 
+toppair: calls $0.27
+*** FLOP *** [2s 8h Ad]
+toppair: checks 
+3meyGorini4: bets $0.54
+lovandos001: calls $0.54
+toppair: folds 
+*** TURN *** [2s 8h Ad] [9d]
+3meyGorini4: bets $1.11
+lovandos001: raises $0.01 to $1.12 and is all-in
+3meyGorini4: calls $0.01
+*** RIVER *** [2s 8h Ad 9d] [3h]
+*** SHOW DOWN ***
+3meyGorini4: shows [Kd As] (a pair of Aces)
+lovandos001: shows [Ah Ks] (a pair of Aces)
+3meyGorini4 collected $2.09 from pot
+lovandos001 collected $2.08 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.18 
+Board [2s 8h Ad 9d 3h]
+Seat 1: booshrut (button) folded before Flop (didn't bet)
+Seat 2: qwerty4g (small blind) folded before Flop
+Seat 3: I'mGallardo (big blind) folded before Flop
+Seat 4: toppair folded on the Flop
+Seat 5: WorldM@ker folded before Flop (didn't bet)
+Seat 6: 3meyGorini4 showed [Kd As] and won ($2.09) with a pair of Aces
+Seat 7: Olga19857777 folded before Flop (didn't bet)
+Seat 8: lovandos001 showed [Ah Ks] and won ($2.08) with a pair of Aces
+Seat 9: zene4ka folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045921469:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:50:33 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: rusya80 ($5.15 in chips) 
+Seat 2: O-Z_city ($4.83 in chips) 
+Seat 3: toppair ($4.31 in chips) 
+Seat 4: Kutymond ($4.78 in chips) 
+Seat 5: katewen_ka ($5.32 in chips) 
+Seat 6: franciscol ($8.91 in chips) 
+Seat 7: Morgot339 ($5.31 in chips) 
+Seat 8: alinauta1980 ($1.96 in chips) 
+Seat 9: Sexter79 ($7.81 in chips) 
+O-Z_city: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9c 6s]
+Kutymond: folds 
+katewen_ka: folds 
+franciscol: folds 
+Morgot339: folds 
+alinauta1980: folds 
+Sexter79: raises $0.10 to $0.15
+rusya80: raises $0.37 to $0.52
+O-Z_city: folds 
+toppair: folds 
+Sexter79: calls $0.37
+*** FLOP *** [4h Jh 7d]
+Sexter79: checks 
+rusya80: bets $0.55
+Sexter79: raises $1.08 to $1.63
+rusya80: folds 
+Uncalled bet ($1.08) returned to Sexter79
+Sexter79 collected $2.12 from pot
+Sexter79: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.09 
+Board [4h Jh 7d]
+Seat 1: rusya80 (button) folded on the Flop
+Seat 2: O-Z_city (small blind) folded before Flop
+Seat 3: toppair (big blind) folded before Flop
+Seat 4: Kutymond folded before Flop (didn't bet)
+Seat 5: katewen_ka folded before Flop (didn't bet)
+Seat 6: franciscol folded before Flop (didn't bet)
+Seat 7: Morgot339 folded before Flop (didn't bet)
+Seat 8: alinauta1980 folded before Flop (didn't bet)
+Seat 9: Sexter79 collected ($2.12)
+
+
+
+PokerStars Zoom Hand #143045970293:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:51:28 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($4.24 in chips) 
+Seat 2: Tutunn ($3.70 in chips) 
+Seat 3: ofelia74 ($5.53 in chips) 
+Seat 4: qwerty4g ($6.21 in chips) 
+Seat 5: Treew181 ($5.09 in chips) 
+Seat 6: UBERTAKER ($11.19 in chips) 
+Seat 7: AlphaYoga ($5 in chips) 
+Seat 8: Loirinho0815 ($5 in chips) 
+Seat 9: ciobanu8 ($4.49 in chips) 
+Tutunn: posts small blind $0.02
+ofelia74: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Qs 9d]
+qwerty4g: folds 
+Treew181: folds 
+UBERTAKER: folds 
+AlphaYoga: folds 
+Loirinho0815: folds 
+ciobanu8: folds 
+toppair: calls $0.05
+Tutunn: folds 
+ofelia74: checks 
+*** FLOP *** [2c 3s Kh]
+ofelia74: checks 
+toppair: checks 
+*** TURN *** [2c 3s Kh] [Ac]
+ofelia74: bets $0.12
+toppair: folds 
+Uncalled bet ($0.12) returned to ofelia74
+ofelia74 collected $0.12 from pot
+ofelia74: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c 3s Kh Ac]
+Seat 1: toppair (button) folded on the Turn
+Seat 2: Tutunn (small blind) folded before Flop
+Seat 3: ofelia74 (big blind) collected ($0.12)
+Seat 4: qwerty4g folded before Flop (didn't bet)
+Seat 5: Treew181 folded before Flop (didn't bet)
+Seat 6: UBERTAKER folded before Flop (didn't bet)
+Seat 7: AlphaYoga folded before Flop (didn't bet)
+Seat 8: Loirinho0815 folded before Flop (didn't bet)
+Seat 9: ciobanu8 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045995612:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:51:56 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: seshAD ($4.71 in chips) 
+Seat 2: Morgot339 ($5.57 in chips) 
+Seat 3: Chechulin U ($2.25 in chips) 
+Seat 4: waveless ($4.77 in chips) 
+Seat 5: toppair ($4.19 in chips) 
+Seat 6: KRITAYA ($5.30 in chips) 
+Seat 7: Dr.Charles A ($5.33 in chips) 
+Seat 8: rozbor34 ($3.74 in chips) 
+Seat 9: josse45 ($3.04 in chips) 
+Morgot339: posts small blind $0.02
+Chechulin U: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9d 5s]
+waveless: folds 
+toppair: folds 
+KRITAYA: folds 
+Dr.Charles A: folds 
+rozbor34: folds 
+josse45: raises $0.20 to $0.25
+seshAD: folds 
+Morgot339: folds 
+Chechulin U: folds 
+Uncalled bet ($0.20) returned to josse45
+josse45 collected $0.12 from pot
+josse45: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: seshAD (button) folded before Flop (didn't bet)
+Seat 2: Morgot339 (small blind) folded before Flop
+Seat 3: Chechulin U (big blind) folded before Flop
+Seat 4: waveless folded before Flop (didn't bet)
+Seat 5: toppair folded before Flop (didn't bet)
+Seat 6: KRITAYA folded before Flop (didn't bet)
+Seat 7: Dr.Charles A folded before Flop (didn't bet)
+Seat 8: rozbor34 folded before Flop (didn't bet)
+Seat 9: josse45 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143045988178:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:51:48 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: pivoivodka ($7.80 in chips) 
+Seat 2: Asqalet ($9.38 in chips) 
+Seat 3: Baditiger ($4.86 in chips) 
+Seat 4: AlphaYoga ($5 in chips) 
+Seat 5: slimline33 ($5.68 in chips) 
+Seat 6: senya111 ($7.96 in chips) 
+Seat 7: mr.frankrijk ($4.50 in chips) 
+Seat 8: AleXX Lviv ($5.30 in chips) 
+Seat 9: toppair ($4.19 in chips) 
+Asqalet: posts small blind $0.02
+Baditiger: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7s 3h]
+AlphaYoga: folds 
+slimline33: raises $0.10 to $0.15
+senya111: folds 
+mr.frankrijk: folds 
+AleXX Lviv: folds 
+toppair: folds 
+pivoivodka: folds 
+Asqalet: folds 
+Baditiger: folds 
+Uncalled bet ($0.10) returned to slimline33
+slimline33 collected $0.12 from pot
+slimline33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: pivoivodka (button) folded before Flop (didn't bet)
+Seat 2: Asqalet (small blind) folded before Flop
+Seat 3: Baditiger (big blind) folded before Flop
+Seat 4: AlphaYoga folded before Flop (didn't bet)
+Seat 5: slimline33 collected ($0.12)
+Seat 6: senya111 folded before Flop (didn't bet)
+Seat 7: mr.frankrijk folded before Flop (didn't bet)
+Seat 8: AleXX Lviv folded before Flop (didn't bet)
+Seat 9: toppair folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046005456:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:52:07 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: spirt77 ($6.75 in chips) 
+Seat 2: Player_pit ($1.69 in chips) 
+Seat 3: Asqalet ($9.36 in chips) 
+Seat 4: franciscol ($5.99 in chips) 
+Seat 5: -WinsLucky- ($5.39 in chips) 
+Seat 6: toppair ($4.19 in chips) 
+Seat 7: tarasella ($7 in chips) 
+Seat 8: Sexter79 ($4.91 in chips) 
+Seat 9: katewen_ka ($3.84 in chips) 
+Player_pit: posts small blind $0.02
+Asqalet: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kc 3c]
+franciscol: folds 
+-WinsLucky-: folds 
+toppair: folds 
+tarasella: folds 
+Sexter79: folds 
+katewen_ka: folds 
+spirt77: folds 
+Player_pit: folds 
+Uncalled bet ($0.03) returned to Asqalet
+Asqalet collected $0.04 from pot
+Asqalet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: spirt77 (button) folded before Flop (didn't bet)
+Seat 2: Player_pit (small blind) folded before Flop
+Seat 3: Asqalet (big blind) collected ($0.04)
+Seat 4: franciscol folded before Flop (didn't bet)
+Seat 5: -WinsLucky- folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: tarasella folded before Flop (didn't bet)
+Seat 8: Sexter79 folded before Flop (didn't bet)
+Seat 9: katewen_ka folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143045991868:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:51:52 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zene4ka ($5 in chips) 
+Seat 2: bbtondo ($7.37 in chips) 
+Seat 3: Olga19857777 ($5.07 in chips) 
+Seat 4: Gatovski ($7.92 in chips) 
+Seat 5: mr.frankrijk ($5.15 in chips) 
+Seat 6: -WinsLucky- ($5.39 in chips) 
+Seat 7: toppair ($4.19 in chips) 
+Seat 8: Last Samyrai ($5 in chips) 
+Seat 9: Shanajiata ($3.81 in chips) 
+bbtondo: posts small blind $0.02
+Olga19857777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [6d 5s]
+Gatovski: folds 
+mr.frankrijk: folds 
+-WinsLucky-: folds 
+toppair: folds 
+Last Samyrai: folds 
+Shanajiata: calls $0.05
+zene4ka: folds 
+bbtondo: folds 
+Olga19857777: checks 
+*** FLOP *** [7c Ad 4h]
+Olga19857777: checks 
+Shanajiata: bets $0.10
+Olga19857777: calls $0.10
+*** TURN *** [7c Ad 4h] [3s]
+Olga19857777: checks 
+Shanajiata: bets $0.20
+Olga19857777: calls $0.20
+*** RIVER *** [7c Ad 4h 3s] [Td]
+Olga19857777: checks 
+Shanajiata: bets $0.40
+Olga19857777: folds 
+Uncalled bet ($0.40) returned to Shanajiata
+Shanajiata collected $0.69 from pot
+Shanajiata: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [7c Ad 4h 3s Td]
+Seat 1: zene4ka (button) folded before Flop (didn't bet)
+Seat 2: bbtondo (small blind) folded before Flop
+Seat 3: Olga19857777 (big blind) folded on the River
+Seat 4: Gatovski folded before Flop (didn't bet)
+Seat 5: mr.frankrijk folded before Flop (didn't bet)
+Seat 6: -WinsLucky- folded before Flop (didn't bet)
+Seat 7: toppair folded before Flop (didn't bet)
+Seat 8: Last Samyrai folded before Flop (didn't bet)
+Seat 9: Shanajiata collected ($0.69)
+
+
+
+PokerStars Zoom Hand #143046001006:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:52:02 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: PandaIrk ($5 in chips) 
+Seat 2: WooDafug! ($5.02 in chips) 
+Seat 3: Dmitry_BV ($4.81 in chips) 
+Seat 4: goe0408 ($5.11 in chips) 
+Seat 5: cuzmich500 ($2.33 in chips) 
+Seat 6: gandalfxxx ($5.79 in chips) 
+Seat 7: Sexter79 ($4.91 in chips) 
+Seat 8: toppair ($4.19 in chips) 
+Seat 9: -Roma04176- ($5.35 in chips) 
+WooDafug!: posts small blind $0.02
+Dmitry_BV: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Th 5s]
+goe0408: folds 
+cuzmich500: folds 
+gandalfxxx: raises $0.05 to $0.10
+Sexter79: folds 
+toppair: folds 
+-Roma04176-: folds 
+PandaIrk: folds 
+WooDafug!: folds 
+Dmitry_BV: raises $0.05 to $0.15
+gandalfxxx: calls $0.05
+*** FLOP *** [Ac Jh 9c]
+Dmitry_BV: bets $0.20
+gandalfxxx: raises $0.50 to $0.70
+Dmitry_BV: folds 
+Uncalled bet ($0.50) returned to gandalfxxx
+gandalfxxx collected $0.69 from pot
+gandalfxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Ac Jh 9c]
+Seat 1: PandaIrk (button) folded before Flop (didn't bet)
+Seat 2: WooDafug! (small blind) folded before Flop
+Seat 3: Dmitry_BV (big blind) folded on the Flop
+Seat 4: goe0408 folded before Flop (didn't bet)
+Seat 5: cuzmich500 folded before Flop (didn't bet)
+Seat 6: gandalfxxx collected ($0.69)
+Seat 7: Sexter79 folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: -Roma04176- folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046009960:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:52:12 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($4.19 in chips) 
+Seat 2: Last Samyrai ($5 in chips) 
+Seat 3: qwerty4g ($9.67 in chips) 
+Seat 4: krystek0986 ($2.54 in chips) 
+Seat 5: UBERTAKER ($6.72 in chips) 
+Seat 6: jhow_guitar ($3.26 in chips) 
+Seat 7: frankcet440 ($7.13 in chips) 
+Seat 8: Papar@zzi ($5.24 in chips) 
+Seat 9: ofelia74 ($5.60 in chips) 
+Last Samyrai: posts small blind $0.02
+qwerty4g: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ah 5c]
+krystek0986: folds 
+UBERTAKER: folds 
+jhow_guitar: folds 
+frankcet440: folds 
+Papar@zzi: folds 
+ofelia74: raises $0.10 to $0.15
+toppair: calls $0.15
+Last Samyrai: folds 
+qwerty4g: calls $0.10
+*** FLOP *** [7c 2d 6s]
+qwerty4g: checks 
+ofelia74: checks 
+toppair: checks 
+*** TURN *** [7c 2d 6s] [9h]
+qwerty4g: checks 
+ofelia74: checks 
+toppair: checks 
+*** RIVER *** [7c 2d 6s 9h] [3h]
+qwerty4g: bets $0.25
+ofelia74: calls $0.25
+toppair: folds 
+*** SHOW DOWN ***
+qwerty4g: shows [Ks Js] (high card King)
+ofelia74: shows [5s 5h] (a pair of Fives)
+ofelia74 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [7c 2d 6s 9h 3h]
+Seat 1: toppair (button) folded on the River
+Seat 2: Last Samyrai (small blind) folded before Flop
+Seat 3: qwerty4g (big blind) showed [Ks Js] and lost with high card King
+Seat 4: krystek0986 folded before Flop (didn't bet)
+Seat 5: UBERTAKER folded before Flop (didn't bet)
+Seat 6: jhow_guitar folded before Flop (didn't bet)
+Seat 7: frankcet440 folded before Flop (didn't bet)
+Seat 8: Papar@zzi folded before Flop (didn't bet)
+Seat 9: ofelia74 showed [5s 5h] and won ($0.93) with a pair of Fives
+
+
+
+PokerStars Zoom Hand #143045960614:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:51:17 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: dma2122 ($6.61 in chips) 
+Seat 2: toppair ($4.26 in chips) 
+Seat 3: A100K53 ($9.08 in chips) 
+Seat 4: Lotereyka ($12.01 in chips) 
+Seat 5: tarasella ($5.15 in chips) 
+Seat 6: cuzmich500 ($3.06 in chips) 
+Seat 7: Arhonttwo ($5.11 in chips) 
+Seat 8: Robso88_n ($12.95 in chips) 
+Seat 9: ASM1991 ($5.83 in chips) 
+toppair: posts small blind $0.02
+A100K53: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7h 4c]
+Lotereyka: folds 
+tarasella: folds 
+cuzmich500: raises $0.10 to $0.15
+Arhonttwo: calls $0.15
+Robso88_n: folds 
+ASM1991: calls $0.15
+dma2122: calls $0.15
+toppair: folds 
+A100K53: folds 
+*** FLOP *** [2c Kh 8h]
+cuzmich500: checks 
+Arhonttwo: checks 
+ASM1991: checks 
+dma2122: checks 
+*** TURN *** [2c Kh 8h] [5d]
+cuzmich500: checks 
+Arhonttwo: bets $0.32
+ASM1991: folds 
+dma2122: folds 
+cuzmich500: folds 
+Uncalled bet ($0.32) returned to Arhonttwo
+Arhonttwo collected $0.64 from pot
+Arhonttwo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [2c Kh 8h 5d]
+Seat 1: dma2122 (button) folded on the Turn
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: A100K53 (big blind) folded before Flop
+Seat 4: Lotereyka folded before Flop (didn't bet)
+Seat 5: tarasella folded before Flop (didn't bet)
+Seat 6: cuzmich500 folded on the Turn
+Seat 7: Arhonttwo collected ($0.64)
+Seat 8: Robso88_n folded before Flop (didn't bet)
+Seat 9: ASM1991 folded on the Turn
+
+
+
+PokerStars Zoom Hand #143046058034:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:53:06 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: KROK 25 ($4.92 in chips) 
+Seat 2: WorldM@ker ($5.32 in chips) 
+Seat 3: toppair ($4.04 in chips) 
+Seat 4: omkakz ($4.85 in chips) 
+Seat 5: kdtty ($5.42 in chips) 
+Seat 6: zene4ka ($6.41 in chips) 
+Seat 7: Cybergod2001 ($5.17 in chips) 
+Seat 8: T0mek187 ($8.74 in chips) 
+Seat 9: Dr.Charles A ($5.24 in chips) 
+WorldM@ker: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kh 4h]
+omkakz: folds 
+kdtty: folds 
+zene4ka: folds 
+Cybergod2001: folds 
+T0mek187: folds 
+Dr.Charles A: folds 
+KROK 25: folds 
+WorldM@ker: folds 
+Uncalled bet ($0.03) returned to toppair
+toppair collected $0.04 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: KROK 25 (button) folded before Flop (didn't bet)
+Seat 2: WorldM@ker (small blind) folded before Flop
+Seat 3: toppair (big blind) collected ($0.04)
+Seat 4: omkakz folded before Flop (didn't bet)
+Seat 5: kdtty folded before Flop (didn't bet)
+Seat 6: zene4ka folded before Flop (didn't bet)
+Seat 7: Cybergod2001 folded before Flop (didn't bet)
+Seat 8: T0mek187 folded before Flop (didn't bet)
+Seat 9: Dr.Charles A folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046068935:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:53:18 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: mr.frankrijk ($4.30 in chips) 
+Seat 2: Olga19857777 ($5.54 in chips) 
+Seat 3: Kirill Smoke ($2.49 in chips) 
+Seat 4: qwerty4g ($9.27 in chips) 
+Seat 5: toppair ($4.06 in chips) 
+Seat 6: ciobanu8 ($5.47 in chips) 
+Seat 7: dma2122 ($6.86 in chips) 
+Seat 8: gamedore ($5.24 in chips) 
+Seat 9: rusya80 ($3.61 in chips) 
+Olga19857777: posts small blind $0.02
+Kirill Smoke: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ad 9c]
+qwerty4g: folds 
+toppair: calls $0.05
+ciobanu8: folds 
+dma2122: folds 
+gamedore: calls $0.05
+rusya80: folds 
+mr.frankrijk: folds 
+Olga19857777: folds 
+Kirill Smoke: checks 
+*** FLOP *** [6c Js Jh]
+Kirill Smoke: bets $0.11
+toppair: folds 
+gamedore: folds 
+Uncalled bet ($0.11) returned to Kirill Smoke
+Kirill Smoke collected $0.16 from pot
+Kirill Smoke: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6c Js Jh]
+Seat 1: mr.frankrijk (button) folded before Flop (didn't bet)
+Seat 2: Olga19857777 (small blind) folded before Flop
+Seat 3: Kirill Smoke (big blind) collected ($0.16)
+Seat 4: qwerty4g folded before Flop (didn't bet)
+Seat 5: toppair folded on the Flop
+Seat 6: ciobanu8 folded before Flop (didn't bet)
+Seat 7: dma2122 folded before Flop (didn't bet)
+Seat 8: gamedore folded on the Flop
+Seat 9: rusya80 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046086877:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:53:38 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: omkakz ($4.85 in chips) 
+Seat 2: hangzu001 ($7.53 in chips) 
+Seat 3: AlphaYoga ($7.29 in chips) 
+Seat 4: Dmitry_BV ($4.44 in chips) 
+Seat 5: seshAD ($4.23 in chips) 
+Seat 6: webber0116 ($7.01 in chips) 
+Seat 7: ombu9 ($3.95 in chips) 
+Seat 8: toppair ($4.01 in chips) 
+Seat 9: KRITAYA ($5 in chips) 
+hangzu001: posts small blind $0.02
+AlphaYoga: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [3d 5d]
+Dmitry_BV: folds 
+seshAD: folds 
+webber0116: raises $0.10 to $0.15
+ombu9: folds 
+toppair: folds 
+KRITAYA: calls $0.15
+omkakz: folds 
+hangzu001: folds 
+AlphaYoga: folds 
+*** FLOP *** [7s 7d Ah]
+webber0116: bets $0.25
+KRITAYA: calls $0.25
+*** TURN *** [7s 7d Ah] [Tc]
+webber0116: bets $0.60
+KRITAYA: folds 
+Uncalled bet ($0.60) returned to webber0116
+webber0116 collected $0.83 from pot
+webber0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [7s 7d Ah Tc]
+Seat 1: omkakz (button) folded before Flop (didn't bet)
+Seat 2: hangzu001 (small blind) folded before Flop
+Seat 3: AlphaYoga (big blind) folded before Flop
+Seat 4: Dmitry_BV folded before Flop (didn't bet)
+Seat 5: seshAD folded before Flop (didn't bet)
+Seat 6: webber0116 collected ($0.83)
+Seat 7: ombu9 folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: KRITAYA folded on the Turn
+
+
+
+PokerStars Zoom Hand #143046236195:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:56:42 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Nuevo9 ($5.27 in chips) 
+Seat 2: toppair ($4.01 in chips) 
+Seat 3: I'mGallardo ($7.04 in chips) 
+Seat 4: zene4ka ($5 in chips) 
+Seat 5: PILU2209 ($12.51 in chips) 
+Seat 6: elviesa ($5 in chips) 
+Seat 7: tarasella ($7.95 in chips) 
+Seat 8: Arhonttwo ($5.07 in chips) 
+Seat 9: -WinsLucky- ($5.32 in chips) 
+toppair: posts small blind $0.02
+I'mGallardo: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ks 3c]
+zene4ka: folds 
+PILU2209: folds 
+elviesa: folds 
+tarasella: folds 
+Arhonttwo: folds 
+-WinsLucky-: folds 
+Nuevo9: folds 
+toppair: calls $0.03
+I'mGallardo: checks 
+*** FLOP *** [2h 7c 5h]
+toppair: checks 
+I'mGallardo: checks 
+*** TURN *** [2h 7c 5h] [5s]
+toppair: checks 
+I'mGallardo: checks 
+*** RIVER *** [2h 7c 5h 5s] [7d]
+toppair: bets $0.05
+I'mGallardo: folds 
+Uncalled bet ($0.05) returned to toppair
+toppair collected $0.10 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2h 7c 5h 5s 7d]
+Seat 1: Nuevo9 (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) collected ($0.10)
+Seat 3: I'mGallardo (big blind) folded on the River
+Seat 4: zene4ka folded before Flop (didn't bet)
+Seat 5: PILU2209 folded before Flop (didn't bet)
+Seat 6: elviesa folded before Flop (didn't bet)
+Seat 7: tarasella folded before Flop (didn't bet)
+Seat 8: Arhonttwo folded before Flop (didn't bet)
+Seat 9: -WinsLucky- folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046228318:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:56:31 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: qwerty4g ($10.81 in chips) 
+Seat 2: cuzmich500 ($2.78 in chips) 
+Seat 3: tarasella ($5.07 in chips) 
+Seat 4: Sombrinol ($4.73 in chips) 
+Seat 5: Krassulkin ($2.41 in chips) 
+Seat 6: hangzu001 ($7.21 in chips) 
+Seat 7: toppair ($4.01 in chips) 
+Seat 8: PandaIrk ($7.84 in chips) 
+Seat 9: alex2-a.a ($5.12 in chips) 
+cuzmich500: posts small blind $0.02
+tarasella: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4d 9d]
+Sombrinol: folds 
+Krassulkin: folds 
+hangzu001: folds 
+toppair: folds 
+PandaIrk: raises $0.10 to $0.15
+alex2-a.a: folds 
+qwerty4g: folds 
+cuzmich500 has timed out
+cuzmich500: folds 
+tarasella: calls $0.10
+*** FLOP *** [Ad 8s Jc]
+tarasella: checks 
+PandaIrk: bets $0.20
+tarasella: folds 
+Uncalled bet ($0.20) returned to PandaIrk
+PandaIrk collected $0.31 from pot
+PandaIrk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ad 8s Jc]
+Seat 1: qwerty4g (button) folded before Flop (didn't bet)
+Seat 2: cuzmich500 (small blind) folded before Flop
+Seat 3: tarasella (big blind) folded on the Flop
+Seat 4: Sombrinol folded before Flop (didn't bet)
+Seat 5: Krassulkin folded before Flop (didn't bet)
+Seat 6: hangzu001 folded before Flop (didn't bet)
+Seat 7: toppair folded before Flop (didn't bet)
+Seat 8: PandaIrk collected ($0.31)
+Seat 9: alex2-a.a folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046263816:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:57:20 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zbyszek07 ($6.29 in chips) 
+Seat 2: BryanFinch22 ($2.41 in chips) 
+Seat 3: aiana2005 ($4.83 in chips) 
+Seat 4: Sombrinol ($4.93 in chips) 
+Seat 5: bbtondo ($8.10 in chips) 
+Seat 6: katewen_ka ($5.42 in chips) 
+Seat 7: PandaIrk ($8 in chips) 
+Seat 8: szucsimami ($5 in chips) 
+Seat 9: toppair ($4.06 in chips) 
+BryanFinch22: posts small blind $0.02
+aiana2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9h 9s]
+Sombrinol: folds 
+bbtondo: folds 
+katewen_ka: folds 
+PandaIrk: raises $0.10 to $0.15
+szucsimami: folds 
+toppair: calls $0.15
+zbyszek07: folds 
+BryanFinch22: calls $0.13
+aiana2005: folds 
+*** FLOP *** [Kc Qc 8c]
+BryanFinch22: checks 
+PandaIrk: checks 
+toppair: checks 
+*** TURN *** [Kc Qc 8c] [5c]
+BryanFinch22: checks 
+PandaIrk: checks 
+toppair: bets $0.15
+BryanFinch22: folds 
+PandaIrk: folds 
+Uncalled bet ($0.15) returned to toppair
+toppair collected $0.48 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kc Qc 8c 5c]
+Seat 1: zbyszek07 (button) folded before Flop (didn't bet)
+Seat 2: BryanFinch22 (small blind) folded on the Turn
+Seat 3: aiana2005 (big blind) folded before Flop
+Seat 4: Sombrinol folded before Flop (didn't bet)
+Seat 5: bbtondo folded before Flop (didn't bet)
+Seat 6: katewen_ka folded before Flop (didn't bet)
+Seat 7: PandaIrk folded on the Turn
+Seat 8: szucsimami folded before Flop (didn't bet)
+Seat 9: toppair collected ($0.48)
+
+
+
+PokerStars Zoom Hand #143046301454:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:58:11 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: floe11 ($5.24 in chips) 
+Seat 2: redst4r ($7 in chips) 
+Seat 3: jiuhu ($2.73 in chips) 
+Seat 4: ombu9 ($12.40 in chips) 
+Seat 5: toppair ($4.39 in chips) 
+Seat 6: Y Romanich ($2.44 in chips) 
+Seat 7: Morgot339 ($5 in chips) 
+Seat 8: AdamLaw33 ($4.93 in chips) 
+Seat 9: webber0116 ($8.98 in chips) 
+redst4r: posts small blind $0.02
+jiuhu: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jd 7d]
+ombu9: folds 
+toppair: calls $0.05
+Y Romanich: folds 
+Morgot339: folds 
+AdamLaw33: folds 
+webber0116: folds 
+floe11: raises $0.15 to $0.20
+redst4r: folds 
+jiuhu: raises $2.53 to $2.73 and is all-in
+toppair: folds 
+floe11: folds 
+Uncalled bet ($2.53) returned to jiuhu
+jiuhu collected $0.47 from pot
+jiuhu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0 
+Seat 1: floe11 (button) folded before Flop
+Seat 2: redst4r (small blind) folded before Flop
+Seat 3: jiuhu (big blind) collected ($0.47)
+Seat 4: ombu9 folded before Flop (didn't bet)
+Seat 5: toppair folded before Flop
+Seat 6: Y Romanich folded before Flop (didn't bet)
+Seat 7: Morgot339 folded before Flop (didn't bet)
+Seat 8: AdamLaw33 folded before Flop (didn't bet)
+Seat 9: webber0116 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046321382:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:58:38 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: mr.frankrijk ($5.45 in chips) 
+Seat 2: ron989898 ($4.85 in chips) 
+Seat 3: toppair ($4.32 in chips) 
+Seat 4: tigriskem ($15.31 in chips) 
+Seat 5: yomotan ($5.15 in chips) 
+Seat 6: Krasnodyr ($7.58 in chips) 
+Seat 7: kdtty ($6.28 in chips) 
+Seat 8: aurelia1993 ($3.82 in chips) 
+Seat 9: Dullhead2 ($1.34 in chips) 
+ron989898: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2s 4c]
+tigriskem: raises $0.05 to $0.10
+yomotan: folds 
+Krasnodyr: folds 
+kdtty: folds 
+aurelia1993: folds 
+Dullhead2: folds 
+mr.frankrijk: folds 
+ron989898: folds 
+toppair: folds 
+Uncalled bet ($0.05) returned to tigriskem
+tigriskem collected $0.12 from pot
+tigriskem: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: mr.frankrijk (button) folded before Flop (didn't bet)
+Seat 2: ron989898 (small blind) folded before Flop
+Seat 3: toppair (big blind) folded before Flop
+Seat 4: tigriskem collected ($0.12)
+Seat 5: yomotan folded before Flop (didn't bet)
+Seat 6: Krasnodyr folded before Flop (didn't bet)
+Seat 7: kdtty folded before Flop (didn't bet)
+Seat 8: aurelia1993 folded before Flop (didn't bet)
+Seat 9: Dullhead2 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046318406:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:58:34 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zene4ka ($5.16 in chips) 
+Seat 2: toppair ($4.34 in chips) 
+Seat 3: franciscol ($4.32 in chips) 
+Seat 4: Treew181 ($6.89 in chips) 
+Seat 5: Zdenyol29 ($10.33 in chips) 
+Seat 6: yomotan ($5.15 in chips) 
+Seat 7: migver ($5.07 in chips) 
+Seat 8: pokerbudg ($5.08 in chips) 
+Seat 9: valau9 ($4.93 in chips) 
+toppair: posts small blind $0.02
+franciscol: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7s 2d]
+Treew181 has timed out
+Treew181: folds 
+Zdenyol29: folds 
+yomotan: folds 
+migver: folds 
+pokerbudg: folds 
+valau9: raises $0.05 to $0.10
+zene4ka: folds 
+toppair: folds 
+franciscol: folds 
+Uncalled bet ($0.05) returned to valau9
+valau9 collected $0.12 from pot
+valau9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: zene4ka (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: franciscol (big blind) folded before Flop
+Seat 4: Treew181 folded before Flop (didn't bet)
+Seat 5: Zdenyol29 folded before Flop (didn't bet)
+Seat 6: yomotan folded before Flop (didn't bet)
+Seat 7: migver folded before Flop (didn't bet)
+Seat 8: pokerbudg folded before Flop (didn't bet)
+Seat 9: valau9 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143046297659:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:58:06 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: slimline33 ($7.34 in chips) 
+Seat 2: MattyDbag ($10.15 in chips) 
+Seat 3: AlphaYoga ($5.10 in chips) 
+Seat 4: WooDafug! ($5 in chips) 
+Seat 5: Loirinho0815 ($6.58 in chips) 
+Seat 6: toppair ($4.39 in chips) 
+Seat 7: gamedore ($8.62 in chips) 
+Seat 8: fullPower160 ($5.07 in chips) 
+Seat 9: Sexter79 ($5.26 in chips) 
+MattyDbag: posts small blind $0.02
+AlphaYoga: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4d 2h]
+WooDafug!: folds 
+Loirinho0815: folds 
+toppair: folds 
+gamedore: folds 
+fullPower160: raises $0.13 to $0.18
+Sexter79: folds 
+slimline33: folds 
+MattyDbag: folds 
+AlphaYoga: raises $0.38 to $0.56
+fullPower160: calls $0.38
+*** FLOP *** [Qc 4s 3s]
+AlphaYoga: checks 
+fullPower160: bets $0.60
+AlphaYoga: calls $0.60
+*** TURN *** [Qc 4s 3s] [3h]
+AlphaYoga: checks 
+fullPower160: checks 
+*** RIVER *** [Qc 4s 3s 3h] [7s]
+AlphaYoga: checks 
+fullPower160: checks 
+*** SHOW DOWN ***
+AlphaYoga: shows [Kh As] (a pair of Threes)
+fullPower160: shows [5c 5s] (two pair, Fives and Threes)
+fullPower160 collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.10 
+Board [Qc 4s 3s 3h 7s]
+Seat 1: slimline33 (button) folded before Flop (didn't bet)
+Seat 2: MattyDbag (small blind) folded before Flop
+Seat 3: AlphaYoga (big blind) showed [Kh As] and lost with a pair of Threes
+Seat 4: WooDafug! folded before Flop (didn't bet)
+Seat 5: Loirinho0815 folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: gamedore folded before Flop (didn't bet)
+Seat 8: fullPower160 showed [5c 5s] and won ($2.24) with two pair, Fives and Threes
+Seat 9: Sexter79 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046325792:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:58:44 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Dullhead2 ($1.34 in chips) 
+Seat 2: fullPower160 ($5.14 in chips) 
+Seat 3: Evgiley ($5 in chips) 
+Seat 4: waveless ($4.50 in chips) 
+Seat 5: aurelia1993 ($3.82 in chips) 
+Seat 6: floe11 ($5 in chips) 
+Seat 7: -WinsLucky- ($5 in chips) 
+Seat 8: pivoivodka ($8.32 in chips) 
+Seat 9: toppair ($4.27 in chips) 
+fullPower160: posts small blind $0.02
+Evgiley: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jh 8h]
+waveless: folds 
+aurelia1993: folds 
+floe11: folds 
+-WinsLucky-: raises $0.10 to $0.15
+pivoivodka: folds 
+toppair: calls $0.15
+Dullhead2: folds 
+fullPower160: folds 
+Evgiley: folds 
+*** FLOP *** [3s 7c 8c]
+-WinsLucky-: checks 
+toppair: checks 
+*** TURN *** [3s 7c 8c] [9h]
+-WinsLucky-: checks 
+toppair: bets $0.17
+-WinsLucky-: calls $0.17
+*** RIVER *** [3s 7c 8c 9h] [9c]
+-WinsLucky-: checks 
+toppair: checks 
+*** SHOW DOWN ***
+-WinsLucky-: shows [Tc Qc] (a flush, Queen high)
+toppair: mucks hand 
+-WinsLucky- collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03 
+Board [3s 7c 8c 9h 9c]
+Seat 1: Dullhead2 (button) folded before Flop (didn't bet)
+Seat 2: fullPower160 (small blind) folded before Flop
+Seat 3: Evgiley (big blind) folded before Flop
+Seat 4: waveless folded before Flop (didn't bet)
+Seat 5: aurelia1993 folded before Flop (didn't bet)
+Seat 6: floe11 folded before Flop (didn't bet)
+Seat 7: -WinsLucky- showed [Tc Qc] and won ($0.68) with a flush, Queen high
+Seat 8: pivoivodka folded before Flop (didn't bet)
+Seat 9: toppair mucked [Jh 8h]
+
+
+
+PokerStars Zoom Hand #143046361865:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:59:33 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Cazacioc ($5 in chips) 
+Seat 2: Dr.Charles A ($5.76 in chips) 
+Seat 3: LEROYPARKER ($4.26 in chips) 
+Seat 4: domin1907 ($4.95 in chips) 
+Seat 5: WooDafug! ($5 in chips) 
+Seat 6: slimline33 ($5.23 in chips) 
+Seat 7: toppair ($3.95 in chips) 
+Seat 8: mrl_orlandi ($2.85 in chips) 
+Seat 9: mr.frankrijk ($5 in chips) 
+Dr.Charles A: posts small blind $0.02
+LEROYPARKER: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Js Kd]
+domin1907: folds 
+WooDafug!: folds 
+slimline33: folds 
+toppair: calls $0.05
+mrl_orlandi: folds 
+mr.frankrijk: calls $0.05
+Cazacioc: folds 
+Dr.Charles A: folds 
+LEROYPARKER: raises $0.17 to $0.22
+toppair: calls $0.17
+mr.frankrijk: calls $0.17
+*** FLOP *** [Ts 4s 3s]
+LEROYPARKER has timed out
+LEROYPARKER: checks 
+toppair: checks 
+mr.frankrijk: checks 
+*** TURN *** [Ts 4s 3s] [8h]
+LEROYPARKER: checks 
+toppair: checks 
+mr.frankrijk: checks 
+*** RIVER *** [Ts 4s 3s 8h] [7d]
+LEROYPARKER: checks 
+toppair: checks 
+mr.frankrijk: checks 
+*** SHOW DOWN ***
+LEROYPARKER: shows [Kh As] (high card Ace)
+toppair: mucks hand 
+mr.frankrijk: shows [9h 9c] (a pair of Nines)
+mr.frankrijk collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03 
+Board [Ts 4s 3s 8h 7d]
+Seat 1: Cazacioc (button) folded before Flop (didn't bet)
+Seat 2: Dr.Charles A (small blind) folded before Flop
+Seat 3: LEROYPARKER (big blind) showed [Kh As] and lost with high card Ace
+Seat 4: domin1907 folded before Flop (didn't bet)
+Seat 5: WooDafug! folded before Flop (didn't bet)
+Seat 6: slimline33 folded before Flop (didn't bet)
+Seat 7: toppair mucked [Js Kd]
+Seat 8: mrl_orlandi folded before Flop (didn't bet)
+Seat 9: mr.frankrijk showed [9h 9c] and won ($0.65) with a pair of Nines
+
+
+
+PokerStars Zoom Hand #143046435150:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:01:08 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($3.73 in chips) 
+Seat 2: Baditiger ($4.68 in chips) 
+Seat 3: Tutunn ($10.07 in chips) 
+Seat 4: Dullhead2 ($1.16 in chips) 
+Seat 5: Nuevo9 ($5 in chips) 
+Seat 6: lexa174 ($5 in chips) 
+Seat 7: jiuhu ($4 in chips) 
+Seat 8: aurelia1993 ($4.35 in chips) 
+Seat 9: Sombrinol ($4.51 in chips) 
+Baditiger: posts small blind $0.02
+Tutunn: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kh 9s]
+Dullhead2: folds 
+Nuevo9: folds 
+lexa174: folds 
+jiuhu: folds 
+aurelia1993: folds 
+Sombrinol: folds 
+toppair: calls $0.05
+Baditiger: calls $0.03
+Tutunn: checks 
+*** FLOP *** [Qs 6h 2c]
+Baditiger: checks 
+Tutunn: checks 
+toppair: checks 
+*** TURN *** [Qs 6h 2c] [8s]
+Baditiger: checks 
+Tutunn: bets $0.10
+toppair: folds 
+Baditiger: folds 
+Uncalled bet ($0.10) returned to Tutunn
+Tutunn collected $0.14 from pot
+Tutunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qs 6h 2c 8s]
+Seat 1: toppair (button) folded on the Turn
+Seat 2: Baditiger (small blind) folded on the Turn
+Seat 3: Tutunn (big blind) collected ($0.14)
+Seat 4: Dullhead2 folded before Flop (didn't bet)
+Seat 5: Nuevo9 folded before Flop (didn't bet)
+Seat 6: lexa174 folded before Flop (didn't bet)
+Seat 7: jiuhu folded before Flop (didn't bet)
+Seat 8: aurelia1993 folded before Flop (didn't bet)
+Seat 9: Sombrinol folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046467637:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:01:47 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: yomotan ($5.06 in chips) 
+Seat 2: Sexter79 ($4.48 in chips) 
+Seat 3: realEltales ($13.71 in chips) 
+Seat 4: toppair ($3.68 in chips) 
+Seat 5: AGALAR 13 ($10.39 in chips) 
+Seat 6: ron989898 ($6.67 in chips) 
+Seat 7: AndronDJ ($5.88 in chips) 
+Seat 8: Baditiger ($4.64 in chips) 
+Seat 9: AleXX Lviv ($7.13 in chips) 
+Sexter79: posts small blind $0.02
+realEltales: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [As Kh]
+toppair: raises $0.10 to $0.15
+AGALAR 13: folds 
+ron989898: folds 
+AndronDJ: folds 
+Baditiger: folds 
+AleXX Lviv: folds 
+yomotan: folds 
+Sexter79: folds 
+realEltales: folds 
+Uncalled bet ($0.10) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: yomotan (button) folded before Flop (didn't bet)
+Seat 2: Sexter79 (small blind) folded before Flop
+Seat 3: realEltales (big blind) folded before Flop
+Seat 4: toppair collected ($0.12)
+Seat 5: AGALAR 13 folded before Flop (didn't bet)
+Seat 6: ron989898 folded before Flop (didn't bet)
+Seat 7: AndronDJ folded before Flop (didn't bet)
+Seat 8: Baditiger folded before Flop (didn't bet)
+Seat 9: AleXX Lviv folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046481740:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:03 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Treew181 ($7.12 in chips) 
+Seat 2: Cybergod2001 ($5.17 in chips) 
+Seat 3: dimcik ($5 in chips) 
+Seat 4: Gatovski ($10.65 in chips) 
+Seat 5: VDTropic ($5.73 in chips) 
+Seat 6: Sexter79 ($9.41 in chips) 
+Seat 7: Tutunn ($4.43 in chips) 
+Seat 8: toppair ($3.75 in chips) 
+Seat 9: aswerd54 ($5 in chips) 
+Cybergod2001: posts small blind $0.02
+dimcik: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4c 9h]
+Gatovski: folds 
+VDTropic: folds 
+Sexter79: folds 
+Tutunn: folds 
+toppair: folds 
+aswerd54: folds 
+Treew181: folds 
+Cybergod2001: folds 
+Uncalled bet ($0.03) returned to dimcik
+dimcik collected $0.04 from pot
+dimcik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Treew181 (button) folded before Flop (didn't bet)
+Seat 2: Cybergod2001 (small blind) folded before Flop
+Seat 3: dimcik (big blind) collected ($0.04)
+Seat 4: Gatovski folded before Flop (didn't bet)
+Seat 5: VDTropic folded before Flop (didn't bet)
+Seat 6: Sexter79 folded before Flop (didn't bet)
+Seat 7: Tutunn folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: aswerd54 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046487769:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:10 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: AlphaYoga ($6.16 in chips) 
+Seat 2: spirt77 ($5 in chips) 
+Seat 3: Anderu9 ($4.57 in chips) 
+Seat 4: toppair ($3.75 in chips) 
+Seat 5: BorisRazor54 ($4.39 in chips) 
+Seat 6: mr.frankrijk ($4.59 in chips) 
+Seat 7: AleUzzh ($5.99 in chips) 
+Seat 8: Serious233 ($7.96 in chips) 
+Seat 9: Noobsy1337 ($4.67 in chips) 
+spirt77: posts small blind $0.02
+Anderu9: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9c 5s]
+toppair: folds 
+BorisRazor54: folds 
+mr.frankrijk: folds 
+AleUzzh: folds 
+Serious233: folds 
+Noobsy1337: folds 
+AlphaYoga: raises $0.10 to $0.15
+spirt77: folds 
+Anderu9: folds 
+Uncalled bet ($0.10) returned to AlphaYoga
+AlphaYoga collected $0.12 from pot
+AlphaYoga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: AlphaYoga (button) collected ($0.12)
+Seat 2: spirt77 (small blind) folded before Flop
+Seat 3: Anderu9 (big blind) folded before Flop
+Seat 4: toppair folded before Flop (didn't bet)
+Seat 5: BorisRazor54 folded before Flop (didn't bet)
+Seat 6: mr.frankrijk folded before Flop (didn't bet)
+Seat 7: AleUzzh folded before Flop (didn't bet)
+Seat 8: Serious233 folded before Flop (didn't bet)
+Seat 9: Noobsy1337 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046493077:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:16 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Kirill Smoke ($4.62 in chips) 
+Seat 2: Krasnopera ($6.97 in chips) 
+Seat 3: Wave737 ($13.34 in chips) 
+Seat 4: Jancsibacsi ($1.73 in chips) 
+Seat 5: lexa174 ($5 in chips) 
+Seat 6: aiana2005 ($5.01 in chips) 
+Seat 7: severelle ($5 in chips) 
+Seat 8: Dr.Charles A ($15.88 in chips) 
+Seat 9: toppair ($3.75 in chips) 
+Krasnopera: posts small blind $0.02
+Wave737: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [5d 2s]
+Jancsibacsi: folds 
+lexa174: folds 
+aiana2005: folds 
+severelle: folds 
+Dr.Charles A: folds 
+toppair: folds 
+Kirill Smoke: folds 
+Krasnopera: folds 
+Uncalled bet ($0.03) returned to Wave737
+Wave737 collected $0.04 from pot
+Wave737: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kirill Smoke (button) folded before Flop (didn't bet)
+Seat 2: Krasnopera (small blind) folded before Flop
+Seat 3: Wave737 (big blind) collected ($0.04)
+Seat 4: Jancsibacsi folded before Flop (didn't bet)
+Seat 5: lexa174 folded before Flop (didn't bet)
+Seat 6: aiana2005 folded before Flop (didn't bet)
+Seat 7: severelle folded before Flop (didn't bet)
+Seat 8: Dr.Charles A folded before Flop (didn't bet)
+Seat 9: toppair folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046515157:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:41 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Sombrinol ($4.17 in chips) 
+Seat 2: toppair ($3.75 in chips) 
+Seat 3: waveless ($7.85 in chips) 
+Seat 4: Slov45 ($4.65 in chips) 
+Seat 5: Eug3n19 ($6.67 in chips) 
+Seat 6: DimonMart ($10.83 in chips) 
+Seat 7: Wave737 ($13.36 in chips) 
+Seat 8: VDTropic ($5.36 in chips) 
+Seat 9: lovandos001 ($1.56 in chips) 
+toppair: posts small blind $0.02
+waveless: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7s Qs]
+Slov45: folds 
+Eug3n19: folds 
+DimonMart: folds 
+Wave737: folds 
+VDTropic: folds 
+lovandos001: folds 
+Sombrinol: folds 
+toppair: calls $0.03
+waveless: raises $0.10 to $0.15
+toppair: folds 
+Uncalled bet ($0.10) returned to waveless
+waveless collected $0.10 from pot
+waveless: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Sombrinol (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: waveless (big blind) collected ($0.10)
+Seat 4: Slov45 folded before Flop (didn't bet)
+Seat 5: Eug3n19 folded before Flop (didn't bet)
+Seat 6: DimonMart folded before Flop (didn't bet)
+Seat 7: Wave737 folded before Flop (didn't bet)
+Seat 8: VDTropic folded before Flop (didn't bet)
+Seat 9: lovandos001 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046529555:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:57 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($3.70 in chips) 
+Seat 2: markzoom6894 ($13.04 in chips) 
+Seat 3: DimonMart ($10.83 in chips) 
+Seat 4: aa654321jx ($5.05 in chips) 
+Seat 5: I'mGallardo ($5.98 in chips) 
+Seat 6: Last Samyrai ($7.04 in chips) 
+Seat 7: Dmitry_BV ($5.18 in chips) 
+Seat 8: lovandos001 ($1.56 in chips) 
+Seat 9: goe0408 ($5.18 in chips) 
+markzoom6894: posts small blind $0.02
+DimonMart: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Tc Ac]
+aa654321jx: folds 
+I'mGallardo: folds 
+Last Samyrai: folds 
+Dmitry_BV: folds 
+lovandos001: calls $0.05
+goe0408: folds 
+toppair: raises $0.15 to $0.20
+markzoom6894: folds 
+DimonMart: calls $0.15
+lovandos001: folds 
+*** FLOP *** [Jh 9c 8h]
+DimonMart: checks 
+toppair: bets $0.20
+DimonMart: folds 
+Uncalled bet ($0.20) returned to toppair
+toppair collected $0.45 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Jh 9c 8h]
+Seat 1: toppair (button) collected ($0.45)
+Seat 2: markzoom6894 (small blind) folded before Flop
+Seat 3: DimonMart (big blind) folded on the Flop
+Seat 4: aa654321jx folded before Flop (didn't bet)
+Seat 5: I'mGallardo folded before Flop (didn't bet)
+Seat 6: Last Samyrai folded before Flop (didn't bet)
+Seat 7: Dmitry_BV folded before Flop (didn't bet)
+Seat 8: lovandos001 folded before Flop
+Seat 9: goe0408 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046504172:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:02:28 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: lexa174 ($5.26 in chips) 
+Seat 2: evgenbeishar ($5.11 in chips) 
+Seat 3: Anderu9 ($5.65 in chips) 
+Seat 4: Cybergod2001 ($5.15 in chips) 
+Seat 5: aiana2005 ($4.39 in chips) 
+Seat 6: toppair ($3.75 in chips) 
+Seat 7: gamedore ($9.79 in chips) 
+Seat 8: severelle ($5 in chips) 
+Seat 9: dem_al100 ($5.80 in chips) 
+evgenbeishar: posts small blind $0.02
+Anderu9: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4c Th]
+Cybergod2001: folds 
+aiana2005: folds 
+toppair: folds 
+gamedore: folds 
+severelle: folds 
+dem_al100: raises $0.10 to $0.15
+lexa174: folds 
+evgenbeishar is disconnected 
+evgenbeishar has timed out while disconnected
+evgenbeishar: folds 
+Anderu9: folds 
+Uncalled bet ($0.10) returned to dem_al100
+dem_al100 collected $0.12 from pot
+dem_al100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: lexa174 (button) folded before Flop (didn't bet)
+Seat 2: evgenbeishar (small blind) folded before Flop
+Seat 3: Anderu9 (big blind) folded before Flop
+Seat 4: Cybergod2001 folded before Flop (didn't bet)
+Seat 5: aiana2005 folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: gamedore folded before Flop (didn't bet)
+Seat 8: severelle folded before Flop (didn't bet)
+Seat 9: dem_al100 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143046554336:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:03:25 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: dimcik ($4.85 in chips) 
+Seat 2: Dailed17 ($4 in chips) 
+Seat 3: toppair ($3.95 in chips) 
+Seat 4: Toffsla ($6.45 in chips) 
+Seat 5: Alaska_Virgo ($2.85 in chips) 
+Seat 6: Morgot339 ($5.29 in chips) 
+Seat 7: booshrut ($5 in chips) 
+Seat 8: Gezo666 ($18.36 in chips) 
+Seat 9: VVVV495 ($7.18 in chips) 
+Dailed17: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [5h 5s]
+Toffsla: folds 
+Alaska_Virgo: folds 
+Morgot339: raises $0.10 to $0.15
+booshrut: folds 
+Gezo666: folds 
+VVVV495: folds 
+dimcik: folds 
+Dailed17: folds 
+toppair: calls $0.10
+*** FLOP *** [4h Th 9c]
+toppair: checks 
+Morgot339: bets $0.20
+toppair: calls $0.20
+*** TURN *** [4h Th 9c] [6d]
+toppair: checks 
+Morgot339: bets $0.34
+toppair: calls $0.34
+*** RIVER *** [4h Th 9c 6d] [Qd]
+toppair: bets $0.67
+Morgot339: folds 
+Uncalled bet ($0.67) returned to toppair
+toppair collected $1.34 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [4h Th 9c 6d Qd]
+Seat 1: dimcik (button) folded before Flop (didn't bet)
+Seat 2: Dailed17 (small blind) folded before Flop
+Seat 3: toppair (big blind) collected ($1.34)
+Seat 4: Toffsla folded before Flop (didn't bet)
+Seat 5: Alaska_Virgo folded before Flop (didn't bet)
+Seat 6: Morgot339 folded on the River
+Seat 7: booshrut folded before Flop (didn't bet)
+Seat 8: Gezo666 folded before Flop (didn't bet)
+Seat 9: VVVV495 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046600966:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:04:16 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Dr.Charles A ($5.84 in chips) 
+Seat 2: Kutymond ($4.78 in chips) 
+Seat 3: LEROYPARKER ($3.33 in chips) 
+Seat 4: Dmitry_BV ($4.38 in chips) 
+Seat 5: O-Z_city ($4.86 in chips) 
+Seat 6: webber0116 ($4.68 in chips) 
+Seat 7: Arhonttwo ($5.25 in chips) 
+Seat 8: toppair ($4.60 in chips) 
+Seat 9: Banjo ($5 in chips) 
+Kutymond: posts small blind $0.02
+LEROYPARKER: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [3d 5h]
+Dmitry_BV: folds 
+O-Z_city: folds 
+webber0116: folds 
+Arhonttwo: folds 
+toppair: folds 
+Banjo: folds 
+Dr.Charles A: folds 
+Kutymond: raises $0.05 to $0.10
+LEROYPARKER: folds 
+Uncalled bet ($0.05) returned to Kutymond
+Kutymond collected $0.10 from pot
+Kutymond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dr.Charles A (button) folded before Flop (didn't bet)
+Seat 2: Kutymond (small blind) collected ($0.10)
+Seat 3: LEROYPARKER (big blind) folded before Flop
+Seat 4: Dmitry_BV folded before Flop (didn't bet)
+Seat 5: O-Z_city folded before Flop (didn't bet)
+Seat 6: webber0116 folded before Flop (didn't bet)
+Seat 7: Arhonttwo folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: Banjo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046597441:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:04:12 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: EDCHEL999 ($1.47 in chips) 
+Seat 2: DIMARIK503 ($2.45 in chips) 
+Seat 3: DimonMart ($10.61 in chips) 
+Seat 4: OMARO977 ($5.23 in chips) 
+Seat 5: kosakpoker ($4.95 in chips) 
+Seat 6: Pokerjoeml ($5 in chips) 
+Seat 7: toppair ($4.60 in chips) 
+Seat 8: AndronDJ ($6.11 in chips) 
+Seat 9: mb135 ($5.84 in chips) 
+DIMARIK503: posts small blind $0.02
+DimonMart: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [6h Jd]
+OMARO977: folds 
+kosakpoker: raises $0.10 to $0.15
+Pokerjoeml: folds 
+toppair: folds 
+AndronDJ: folds 
+mb135: raises $0.25 to $0.40
+EDCHEL999: calls $0.40
+DIMARIK503: folds 
+DimonMart: folds 
+kosakpoker: folds 
+*** FLOP *** [3d 8h Kh]
+mb135: checks 
+EDCHEL999: bets $1.07 and is all-in
+mb135: calls $1.07
+*** TURN *** [3d 8h Kh] [6d]
+*** RIVER *** [3d 8h Kh 6d] [8d]
+*** SHOW DOWN ***
+mb135: shows [Jh Jc] (two pair, Jacks and Eights)
+EDCHEL999: shows [Tc Ac] (a pair of Eights)
+mb135 collected $3.03 from pot
+*** SUMMARY ***
+Total pot $3.16 | Rake $0.13 
+Board [3d 8h Kh 6d 8d]
+Seat 1: EDCHEL999 (button) showed [Tc Ac] and lost with a pair of Eights
+Seat 2: DIMARIK503 (small blind) folded before Flop
+Seat 3: DimonMart (big blind) folded before Flop
+Seat 4: OMARO977 folded before Flop (didn't bet)
+Seat 5: kosakpoker folded before Flop
+Seat 6: Pokerjoeml folded before Flop (didn't bet)
+Seat 7: toppair folded before Flop (didn't bet)
+Seat 8: AndronDJ folded before Flop (didn't bet)
+Seat 9: mb135 showed [Jh Jc] and won ($3.03) with two pair, Jacks and Eights
+
+
+
+PokerStars Zoom Hand #143046606452:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:04:22 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: gamedore ($9.48 in chips) 
+Seat 2: zene4ka ($5.41 in chips) 
+Seat 3: kdtty ($5.12 in chips) 
+Seat 4: -WinsLucky- ($5.09 in chips) 
+Seat 5: toppair ($4.60 in chips) 
+Seat 6: Last Samyrai ($5 in chips) 
+Seat 7: booshrut ($5.83 in chips) 
+Seat 8: Dragon fait ($3.96 in chips) 
+Seat 9: albann87 ($6.18 in chips) 
+zene4ka: posts small blind $0.02
+kdtty: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Qs Kd]
+-WinsLucky-: folds 
+toppair: calls $0.05
+Last Samyrai: raises $0.15 to $0.20
+booshrut: folds 
+Dragon fait: folds 
+albann87: calls $0.20
+gamedore: folds 
+zene4ka: raises $0.50 to $0.70
+kdtty: folds 
+toppair: calls $0.65
+Last Samyrai: folds 
+albann87: calls $0.50
+*** FLOP *** [9s Ts Ac]
+zene4ka: checks 
+toppair: checks 
+albann87: bets $0.90
+zene4ka: folds 
+toppair: calls $0.90
+*** TURN *** [9s Ts Ac] [6h]
+toppair: checks 
+albann87: bets $1.55
+toppair: calls $1.55
+*** RIVER *** [9s Ts Ac 6h] [8s]
+toppair: bets $1.45 and is all-in
+albann87: calls $1.45
+*** SHOW DOWN ***
+toppair: shows [Qs Kd] (high card Ace)
+albann87: shows [Tc Td] (three of a kind, Tens)
+albann87 collected $9.73 from pot
+*** SUMMARY ***
+Total pot $10.15 | Rake $0.42 
+Board [9s Ts Ac 6h 8s]
+Seat 1: gamedore (button) folded before Flop (didn't bet)
+Seat 2: zene4ka (small blind) folded on the Flop
+Seat 3: kdtty (big blind) folded before Flop
+Seat 4: -WinsLucky- folded before Flop (didn't bet)
+Seat 5: toppair showed [Qs Kd] and lost with high card Ace
+Seat 6: Last Samyrai folded before Flop
+Seat 7: booshrut folded before Flop (didn't bet)
+Seat 8: Dragon fait folded before Flop (didn't bet)
+Seat 9: albann87 showed [Tc Td] and won ($9.73) with three of a kind, Tens
+
+
+
+PokerStars Zoom Hand #143046689232:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:05:53 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zorin44 ($5.05 in chips) 
+Seat 2: rusya80 ($3.23 in chips) 
+Seat 3: R.F.I.P ($17.30 in chips) 
+Seat 4: toppair ($5 in chips) 
+Seat 5: Krasnodyr ($6.37 in chips) 
+Seat 6: Toffsla ($13.30 in chips) 
+Seat 7: Krassulkin ($2.21 in chips) 
+Seat 8: tarasella ($5.47 in chips) 
+Seat 9: cuzmich500 ($2.25 in chips) 
+rusya80: posts small blind $0.02
+R.F.I.P: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7h 6h]
+toppair: calls $0.05
+Krasnodyr: folds 
+Toffsla: folds 
+Krassulkin: folds 
+tarasella: folds 
+cuzmich500: folds 
+zorin44: raises $0.15 to $0.20
+rusya80: folds 
+R.F.I.P: folds 
+toppair: calls $0.15
+*** FLOP *** [8c 5s 2c]
+toppair: bets $0.20
+zorin44: calls $0.20
+*** TURN *** [8c 5s 2c] [7c]
+toppair: checks 
+zorin44: checks 
+*** RIVER *** [8c 5s 2c 7c] [5h]
+toppair: checks 
+zorin44: checks 
+*** SHOW DOWN ***
+toppair: shows [7h 6h] (two pair, Sevens and Fives)
+zorin44: mucks hand 
+toppair collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [8c 5s 2c 7c 5h]
+Seat 1: zorin44 (button) mucked [Ks As]
+Seat 2: rusya80 (small blind) folded before Flop
+Seat 3: R.F.I.P (big blind) folded before Flop
+Seat 4: toppair showed [7h 6h] and won ($0.83) with two pair, Sevens and Fives
+Seat 5: Krasnodyr folded before Flop (didn't bet)
+Seat 6: Toffsla folded before Flop (didn't bet)
+Seat 7: Krassulkin folded before Flop (didn't bet)
+Seat 8: tarasella folded before Flop (didn't bet)
+Seat 9: cuzmich500 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046731080:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:06:39 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Krasnopera ($18.94 in chips) 
+Seat 2: AleXX Lviv ($5 in chips) 
+Seat 3: lexa174 ($5.14 in chips) 
+Seat 4: toppair ($5.43 in chips) 
+Seat 5: -WinsLucky- ($5.51 in chips) 
+Seat 6: mamim100 ($9.97 in chips) 
+Seat 7: Cazacioc ($5.12 in chips) 
+Seat 8: AndronDJ ($6.71 in chips) 
+Seat 9: ASM1991 ($5 in chips) 
+AleXX Lviv: posts small blind $0.02
+lexa174: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [3c 6d]
+toppair: folds 
+-WinsLucky-: folds 
+mamim100: folds 
+Cazacioc: folds 
+AndronDJ: folds 
+ASM1991: folds 
+Krasnopera: folds 
+AleXX Lviv: folds 
+Uncalled bet ($0.03) returned to lexa174
+lexa174 collected $0.04 from pot
+lexa174: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Krasnopera (button) folded before Flop (didn't bet)
+Seat 2: AleXX Lviv (small blind) folded before Flop
+Seat 3: lexa174 (big blind) collected ($0.04)
+Seat 4: toppair folded before Flop (didn't bet)
+Seat 5: -WinsLucky- folded before Flop (didn't bet)
+Seat 6: mamim100 folded before Flop (didn't bet)
+Seat 7: Cazacioc folded before Flop (didn't bet)
+Seat 8: AndronDJ folded before Flop (didn't bet)
+Seat 9: ASM1991 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046736725:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:06:45 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Morgot339 ($6.70 in chips) 
+Seat 2: toppair ($5.43 in chips) 
+Seat 3: Last Samyrai ($5 in chips) 
+Seat 4: Guilap ($5 in chips) 
+Seat 5: DIMARIK503 ($2.13 in chips) 
+Seat 6: VDTropic ($5.21 in chips) 
+Seat 7: mr.frankrijk ($6.57 in chips) 
+Seat 8: Anisik64 ($4.93 in chips) 
+Seat 9: Anderu9 ($5.77 in chips) 
+toppair: posts small blind $0.02
+Last Samyrai: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jh Js]
+Guilap: folds 
+DIMARIK503: folds 
+VDTropic: raises $0.10 to $0.15
+mr.frankrijk: folds 
+Anisik64: folds 
+Anderu9: folds 
+Morgot339: folds 
+toppair: calls $0.13
+Last Samyrai: folds 
+*** FLOP *** [As 2h Ks]
+toppair: bets $0.15
+VDTropic: folds 
+Uncalled bet ($0.15) returned to toppair
+toppair collected $0.34 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [As 2h Ks]
+Seat 1: Morgot339 (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) collected ($0.34)
+Seat 3: Last Samyrai (big blind) folded before Flop
+Seat 4: Guilap folded before Flop (didn't bet)
+Seat 5: DIMARIK503 folded before Flop (didn't bet)
+Seat 6: VDTropic folded on the Flop
+Seat 7: mr.frankrijk folded before Flop (didn't bet)
+Seat 8: Anisik64 folded before Flop (didn't bet)
+Seat 9: Anderu9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046775967:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:07:28 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zene4ka ($5 in chips) 
+Seat 2: spirt77 ($5.89 in chips) 
+Seat 3: toppair ($5.62 in chips) 
+Seat 4: frankcet440 ($6.94 in chips) 
+Seat 5: vid1954 ($3.70 in chips) 
+Seat 6: seshAD ($8.49 in chips) 
+Seat 7: Morgot339 ($5.32 in chips) 
+Seat 8: GuiCP ($5.30 in chips) 
+Seat 9: domin1907 ($5.02 in chips) 
+spirt77: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Tc 6s]
+frankcet440: folds 
+vid1954: folds 
+seshAD: folds 
+Morgot339: folds 
+GuiCP: folds 
+domin1907: raises $0.05 to $0.10
+zene4ka: folds 
+spirt77: folds 
+toppair: folds 
+Uncalled bet ($0.05) returned to domin1907
+domin1907 collected $0.12 from pot
+domin1907: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: zene4ka (button) folded before Flop (didn't bet)
+Seat 2: spirt77 (small blind) folded before Flop
+Seat 3: toppair (big blind) folded before Flop
+Seat 4: frankcet440 folded before Flop (didn't bet)
+Seat 5: vid1954 folded before Flop (didn't bet)
+Seat 6: seshAD folded before Flop (didn't bet)
+Seat 7: Morgot339 folded before Flop (didn't bet)
+Seat 8: GuiCP folded before Flop (didn't bet)
+Seat 9: domin1907 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143046761403:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:07:12 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($5.62 in chips) 
+Seat 2: s0siris ($6.45 in chips) 
+Seat 3: franciscol ($7.52 in chips) 
+Seat 4: domin1907 ($5 in chips) 
+Seat 5: tarasella ($5.61 in chips) 
+Seat 6: sodastereo ($5.09 in chips) 
+Seat 7: LEROYPARKER ($6.74 in chips) 
+Seat 8: gandalfxxx ($5.37 in chips) 
+Seat 9: AndronDJ ($5.39 in chips) 
+s0siris: posts small blind $0.02
+franciscol: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [6h 4d]
+domin1907: folds 
+tarasella: folds 
+sodastereo: folds 
+LEROYPARKER: folds 
+gandalfxxx: raises $0.10 to $0.15
+AndronDJ: calls $0.15
+toppair: folds 
+s0siris: folds 
+franciscol: folds 
+*** FLOP *** [Ah Kc 4c]
+gandalfxxx: checks 
+AndronDJ: checks 
+*** TURN *** [Ah Kc 4c] [5c]
+gandalfxxx: checks 
+AndronDJ: bets $0.24
+gandalfxxx: folds 
+Uncalled bet ($0.24) returned to AndronDJ
+AndronDJ collected $0.35 from pot
+AndronDJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Ah Kc 4c 5c]
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: s0siris (small blind) folded before Flop
+Seat 3: franciscol (big blind) folded before Flop
+Seat 4: domin1907 folded before Flop (didn't bet)
+Seat 5: tarasella folded before Flop (didn't bet)
+Seat 6: sodastereo folded before Flop (didn't bet)
+Seat 7: LEROYPARKER folded before Flop (didn't bet)
+Seat 8: gandalfxxx folded on the Turn
+Seat 9: AndronDJ collected ($0.35)
+
+
+
+PokerStars Zoom Hand #143046794186:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:07:48 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: YURA ZAS ($5.03 in chips) 
+Seat 2: -WinsLucky- ($5 in chips) 
+Seat 3: zbyszek07 ($4.46 in chips) 
+Seat 4: severelle ($5.07 in chips) 
+Seat 5: Sombrinol ($11.35 in chips) 
+Seat 6: GuiCP ($8.90 in chips) 
+Seat 7: Eug3n19 ($5.62 in chips) 
+Seat 8: webber0116 ($5.22 in chips) 
+Seat 9: toppair ($5.57 in chips) 
+-WinsLucky-: posts small blind $0.02
+zbyszek07: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [9c Qc]
+severelle: folds 
+Sombrinol: folds 
+GuiCP: folds 
+Eug3n19: folds 
+webber0116: folds 
+toppair: raises $0.05 to $0.10
+YURA ZAS: folds 
+-WinsLucky-: folds 
+zbyszek07: folds 
+Uncalled bet ($0.05) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: YURA ZAS (button) folded before Flop (didn't bet)
+Seat 2: -WinsLucky- (small blind) folded before Flop
+Seat 3: zbyszek07 (big blind) folded before Flop
+Seat 4: severelle folded before Flop (didn't bet)
+Seat 5: Sombrinol folded before Flop (didn't bet)
+Seat 6: GuiCP folded before Flop (didn't bet)
+Seat 7: Eug3n19 folded before Flop (didn't bet)
+Seat 8: webber0116 folded before Flop (didn't bet)
+Seat 9: toppair collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143046789552:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:07:43 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: pytachok1990 ($5.07 in chips) 
+Seat 2: Banjo ($5.01 in chips) 
+Seat 3: sophia3 ($5 in chips) 
+Seat 4: OMARO977 ($5.19 in chips) 
+Seat 5: lexa174 ($5 in chips) 
+Seat 6: Anderu9 ($4.19 in chips) 
+Seat 7: spirt77 ($5 in chips) 
+Seat 8: toppair ($5.57 in chips) 
+Seat 9: DASDIX ($5 in chips) 
+Banjo: posts small blind $0.02
+sophia3: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2s 6c]
+OMARO977: folds 
+lexa174: folds 
+Anderu9: folds 
+spirt77: folds 
+toppair: folds 
+DASDIX: raises $0.07 to $0.12
+pytachok1990: folds 
+Banjo: folds 
+sophia3: folds 
+Uncalled bet ($0.07) returned to DASDIX
+DASDIX collected $0.12 from pot
+DASDIX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: pytachok1990 (button) folded before Flop (didn't bet)
+Seat 2: Banjo (small blind) folded before Flop
+Seat 3: sophia3 (big blind) folded before Flop
+Seat 4: OMARO977 folded before Flop (didn't bet)
+Seat 5: lexa174 folded before Flop (didn't bet)
+Seat 6: Anderu9 folded before Flop (didn't bet)
+Seat 7: spirt77 folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: DASDIX collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143046805873:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:08:01 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: waveless ($7.68 in chips) 
+Seat 2: cuzmich500 ($7.25 in chips) 
+Seat 3: VDTropic ($5.41 in chips) 
+Seat 4: higasi ($2.84 in chips) 
+Seat 5: severelle ($5.07 in chips) 
+Seat 6: Anderu9 ($5.65 in chips) 
+Seat 7: toppair ($5.64 in chips) 
+Seat 8: Baditiger ($4.39 in chips) 
+Seat 9: DASDIX ($5.10 in chips) 
+cuzmich500: posts small blind $0.02
+VDTropic: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kc 6c]
+higasi: folds 
+severelle: raises $0.11 to $0.16
+Anderu9: folds 
+toppair: calls $0.16
+Baditiger: folds 
+DASDIX: folds 
+waveless: calls $0.16
+cuzmich500: folds 
+VDTropic: folds 
+*** FLOP *** [Ts Ks 5h]
+severelle: bets $0.39
+toppair: calls $0.39
+waveless: calls $0.39
+*** TURN *** [Ts Ks 5h] [8s]
+severelle: checks 
+toppair: checks 
+waveless: checks 
+*** RIVER *** [Ts Ks 5h 8s] [2h]
+severelle: checks 
+toppair: checks 
+waveless: checks 
+*** SHOW DOWN ***
+severelle: shows [8d 8h] (three of a kind, Eights)
+toppair: mucks hand 
+waveless: mucks hand 
+severelle collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.72 | Rake $0.07 
+Board [Ts Ks 5h 8s 2h]
+Seat 1: waveless (button) mucked [Kh Qh]
+Seat 2: cuzmich500 (small blind) folded before Flop
+Seat 3: VDTropic (big blind) folded before Flop
+Seat 4: higasi folded before Flop (didn't bet)
+Seat 5: severelle showed [8d 8h] and won ($1.65) with three of a kind, Eights
+Seat 6: Anderu9 folded before Flop (didn't bet)
+Seat 7: toppair mucked [Kc 6c]
+Seat 8: Baditiger folded before Flop (didn't bet)
+Seat 9: DASDIX folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046842244:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:08:41 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Bettowinpro ($4.01 in chips) 
+Seat 2: yuris53 ($2.23 in chips) 
+Seat 3: Krassulkin ($4.08 in chips) 
+Seat 4: Serious233 ($4.45 in chips) 
+Seat 5: YURA ZAS ($5.08 in chips) 
+Seat 6: toppair ($5.09 in chips) 
+Seat 7: DimonMart ($12.10 in chips) 
+Seat 8: kiwadk ($4.09 in chips) 
+Seat 9: Banjo ($5 in chips) 
+yuris53: posts small blind $0.02
+Krassulkin: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2s 5d]
+Serious233: folds 
+YURA ZAS: folds 
+toppair: folds 
+DimonMart has timed out
+DimonMart: folds 
+kiwadk: folds 
+Banjo: folds 
+Bettowinpro: raises $0.10 to $0.15
+yuris53: calls $0.13
+Krassulkin: raises $0.35 to $0.50
+Bettowinpro: folds 
+yuris53: folds 
+Uncalled bet ($0.35) returned to Krassulkin
+Krassulkin collected $0.45 from pot
+Krassulkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: Bettowinpro (button) folded before Flop
+Seat 2: yuris53 (small blind) folded before Flop
+Seat 3: Krassulkin (big blind) collected ($0.45)
+Seat 4: Serious233 folded before Flop (didn't bet)
+Seat 5: YURA ZAS folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: DimonMart folded before Flop (didn't bet)
+Seat 8: kiwadk folded before Flop (didn't bet)
+Seat 9: Banjo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046846648:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:08:46 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: kdtty ($5.52 in chips) 
+Seat 2: Dmitry_BV ($5.73 in chips) 
+Seat 3: PandaIrk ($6.26 in chips) 
+Seat 4: Bengelchen63 ($1.62 in chips) 
+Seat 5: Kirill Smoke ($4.84 in chips) 
+Seat 6: Y Romanich ($3.13 in chips) 
+Seat 7: -WinsLucky- ($5 in chips) 
+Seat 8: xdnight ($4.88 in chips) 
+Seat 9: toppair ($5.09 in chips) 
+Dmitry_BV: posts small blind $0.02
+PandaIrk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Js 9h]
+Bengelchen63: folds 
+Kirill Smoke: raises $0.09 to $0.14
+Y Romanich: folds 
+-WinsLucky-: folds 
+xdnight: folds 
+toppair: calls $0.14
+kdtty: folds 
+Dmitry_BV: folds 
+PandaIrk: calls $0.09
+*** FLOP *** [3d 3h 3s]
+PandaIrk: checks 
+Kirill Smoke: checks 
+toppair: checks 
+*** TURN *** [3d 3h 3s] [4c]
+PandaIrk: bets $0.30
+Kirill Smoke: folds 
+toppair: folds 
+Uncalled bet ($0.30) returned to PandaIrk
+PandaIrk collected $0.42 from pot
+PandaIrk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [3d 3h 3s 4c]
+Seat 1: kdtty (button) folded before Flop (didn't bet)
+Seat 2: Dmitry_BV (small blind) folded before Flop
+Seat 3: PandaIrk (big blind) collected ($0.42)
+Seat 4: Bengelchen63 folded before Flop (didn't bet)
+Seat 5: Kirill Smoke folded on the Turn
+Seat 6: Y Romanich folded before Flop (didn't bet)
+Seat 7: -WinsLucky- folded before Flop (didn't bet)
+Seat 8: xdnight folded before Flop (didn't bet)
+Seat 9: toppair folded on the Turn
+
+
+
+PokerStars Zoom Hand #143046888162:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:09:32 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Loirinho0815 ($8.82 in chips) 
+Seat 2: petarpan10 ($6.45 in chips) 
+Seat 3: seshAD ($3 in chips) 
+Seat 4: franciscol ($9.25 in chips) 
+Seat 5: hartssss ($3.39 in chips) 
+Seat 6: PandaIrk ($6.54 in chips) 
+Seat 7: toppair ($4.95 in chips) 
+Seat 8: Puvluha ($5.50 in chips) 
+Seat 9: Dullhead2 ($1.03 in chips) 
+petarpan10: posts small blind $0.02
+seshAD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kd 9h]
+franciscol: folds 
+hartssss: folds 
+PandaIrk: raises $0.10 to $0.15
+toppair: folds 
+Puvluha: folds 
+Dullhead2: folds 
+Loirinho0815: folds 
+petarpan10: folds 
+seshAD: folds 
+Uncalled bet ($0.10) returned to PandaIrk
+PandaIrk collected $0.12 from pot
+PandaIrk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Loirinho0815 (button) folded before Flop (didn't bet)
+Seat 2: petarpan10 (small blind) folded before Flop
+Seat 3: seshAD (big blind) folded before Flop
+Seat 4: franciscol folded before Flop (didn't bet)
+Seat 5: hartssss folded before Flop (didn't bet)
+Seat 6: PandaIrk collected ($0.12)
+Seat 7: toppair folded before Flop (didn't bet)
+Seat 8: Puvluha folded before Flop (didn't bet)
+Seat 9: Dullhead2 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046884650:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:09:28 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Papar@zzi ($8.31 in chips) 
+Seat 2: Sexter79 ($5.01 in chips) 
+Seat 3: Sewa3 ($10.27 in chips) 
+Seat 4: sasasani ($2.40 in chips) 
+Seat 5: toppair ($4.95 in chips) 
+Seat 6: pokersvi ($5 in chips) 
+Seat 7: spirt77 ($5 in chips) 
+Seat 8: arrogancki ($1.60 in chips) 
+Seat 9: albann87 ($5 in chips) 
+Sexter79: posts small blind $0.02
+Sewa3: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2c Qs]
+sasasani: folds 
+toppair: folds 
+pokersvi: folds 
+spirt77: folds 
+arrogancki: raises $0.12 to $0.17
+albann87: folds 
+Papar@zzi: folds 
+Sexter79: folds 
+Sewa3: folds 
+Uncalled bet ($0.12) returned to arrogancki
+arrogancki collected $0.12 from pot
+arrogancki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Papar@zzi (button) folded before Flop (didn't bet)
+Seat 2: Sexter79 (small blind) folded before Flop
+Seat 3: Sewa3 (big blind) folded before Flop
+Seat 4: sasasani folded before Flop (didn't bet)
+Seat 5: toppair folded before Flop (didn't bet)
+Seat 6: pokersvi folded before Flop (didn't bet)
+Seat 7: spirt77 folded before Flop (didn't bet)
+Seat 8: arrogancki collected ($0.12)
+Seat 9: albann87 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046891619:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:09:36 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($4.95 in chips) 
+Seat 2: spirt77 ($5.16 in chips) 
+Seat 3: fullPower160 ($6.54 in chips) 
+Seat 4: mamim100 ($5.57 in chips) 
+Seat 5: pokersvi ($5 in chips) 
+Seat 6: psiholog2014 ($5.36 in chips) 
+Seat 7: Nuevo9 ($5.37 in chips) 
+Seat 8: Tutunn ($2.85 in chips) 
+Seat 9: petarpan10 ($6.43 in chips) 
+spirt77: posts small blind $0.02
+fullPower160: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [3h 6s]
+mamim100: folds 
+pokersvi: folds 
+psiholog2014: folds 
+Nuevo9: folds 
+Tutunn: folds 
+petarpan10: folds 
+toppair: folds 
+spirt77: folds 
+Uncalled bet ($0.03) returned to fullPower160
+fullPower160 collected $0.04 from pot
+fullPower160: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: spirt77 (small blind) folded before Flop
+Seat 3: fullPower160 (big blind) collected ($0.04)
+Seat 4: mamim100 folded before Flop (didn't bet)
+Seat 5: pokersvi folded before Flop (didn't bet)
+Seat 6: psiholog2014 folded before Flop (didn't bet)
+Seat 7: Nuevo9 folded before Flop (didn't bet)
+Seat 8: Tutunn folded before Flop (didn't bet)
+Seat 9: petarpan10 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046895374:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:09:40 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Arhonttwo ($5 in chips) 
+Seat 2: toppair ($4.95 in chips) 
+Seat 3: Gezo666 ($20.74 in chips) 
+Seat 4: AndronDJ ($6.82 in chips) 
+Seat 5: I'mGallardo ($5.63 in chips) 
+Seat 6: jzazik ($6.07 in chips) 
+Seat 7: yomotan ($7.52 in chips) 
+Seat 8: -WinsLucky- ($5.25 in chips) 
+Seat 9: trraction ($4.93 in chips) 
+toppair: posts small blind $0.02
+Gezo666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7d 9c]
+AndronDJ: folds 
+I'mGallardo: folds 
+jzazik: folds 
+yomotan: folds 
+-WinsLucky-: folds 
+trraction: folds 
+Arhonttwo: raises $0.10 to $0.15
+toppair: folds 
+Gezo666: raises $0.40 to $0.55
+Arhonttwo: folds 
+Uncalled bet ($0.40) returned to Gezo666
+Gezo666 collected $0.32 from pot
+Gezo666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0 
+Seat 1: Arhonttwo (button) folded before Flop
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: Gezo666 (big blind) collected ($0.32)
+Seat 4: AndronDJ folded before Flop (didn't bet)
+Seat 5: I'mGallardo folded before Flop (didn't bet)
+Seat 6: jzazik folded before Flop (didn't bet)
+Seat 7: yomotan folded before Flop (didn't bet)
+Seat 8: -WinsLucky- folded before Flop (didn't bet)
+Seat 9: trraction folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046898855:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:09:44 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Sombrinol ($5.06 in chips) 
+Seat 2: gamedore ($5 in chips) 
+Seat 3: toppair ($4.93 in chips) 
+Seat 4: I'mGallardo ($5.63 in chips) 
+Seat 5: Last Samyrai ($6.83 in chips) 
+Seat 6: GuiCP ($5.46 in chips) 
+Seat 7: Evgiley ($1.69 in chips) 
+Seat 8: napo089 ($13.24 in chips) 
+Seat 9: SavaToN ($5 in chips) 
+gamedore: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Qd 9d]
+I'mGallardo: folds 
+Last Samyrai: folds 
+GuiCP: folds 
+Evgiley: folds 
+napo089: calls $0.05
+SavaToN: folds 
+Sombrinol: folds 
+gamedore: folds 
+toppair: checks 
+*** FLOP *** [8s 5c 4h]
+toppair: checks 
+napo089: checks 
+*** TURN *** [8s 5c 4h] [4s]
+toppair: checks 
+napo089: checks 
+*** RIVER *** [8s 5c 4h 4s] [Kc]
+toppair: checks 
+napo089: checks 
+*** SHOW DOWN ***
+toppair: shows [Qd 9d] (a pair of Fours)
+napo089: shows [Td Ah] (a pair of Fours - Ace kicker)
+napo089 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 5c 4h 4s Kc]
+Seat 1: Sombrinol (button) folded before Flop (didn't bet)
+Seat 2: gamedore (small blind) folded before Flop
+Seat 3: toppair (big blind) showed [Qd 9d] and lost with a pair of Fours
+Seat 4: I'mGallardo folded before Flop (didn't bet)
+Seat 5: Last Samyrai folded before Flop (didn't bet)
+Seat 6: GuiCP folded before Flop (didn't bet)
+Seat 7: Evgiley folded before Flop (didn't bet)
+Seat 8: napo089 showed [Td Ah] and won ($0.12) with a pair of Fours
+Seat 9: SavaToN folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046917777:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:10:05 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: A100K53 ($23.16 in chips) 
+Seat 2: Baditiger ($4.74 in chips) 
+Seat 3: mamim100 ($11.29 in chips) 
+Seat 4: elviesa ($6.30 in chips) 
+Seat 5: zene4ka ($5 in chips) 
+Seat 6: Sexter79 ($4.51 in chips) 
+Seat 7: AleXX Lviv ($5.48 in chips) 
+Seat 8: toppair ($4.88 in chips) 
+Seat 9: napo089 ($13.31 in chips) 
+Baditiger: posts small blind $0.02
+mamim100: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Ad Kc]
+elviesa: folds 
+zene4ka: folds 
+Sexter79: folds 
+AleXX Lviv: folds 
+toppair: raises $0.15 to $0.20
+napo089: folds 
+A100K53: calls $0.20
+Baditiger: calls $0.18
+mamim100: folds 
+*** FLOP *** [8h 6s 5d]
+Baditiger: bets $0.27
+toppair: folds 
+A100K53: folds 
+Uncalled bet ($0.27) returned to Baditiger
+Baditiger collected $0.62 from pot
+Baditiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8h 6s 5d]
+Seat 1: A100K53 (button) folded on the Flop
+Seat 2: Baditiger (small blind) collected ($0.62)
+Seat 3: mamim100 (big blind) folded before Flop
+Seat 4: elviesa folded before Flop (didn't bet)
+Seat 5: zene4ka folded before Flop (didn't bet)
+Seat 6: Sexter79 folded before Flop (didn't bet)
+Seat 7: AleXX Lviv folded before Flop (didn't bet)
+Seat 8: toppair folded on the Flop
+Seat 9: napo089 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046954309:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:10:46 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Baditiger ($5.16 in chips) 
+Seat 2: Bengelchen63 ($1.66 in chips) 
+Seat 3: Rrripl ($12.67 in chips) 
+Seat 4: Balboa442 ($8.11 in chips) 
+Seat 5: zorin44 ($5.20 in chips) 
+Seat 6: toppair ($4.68 in chips) 
+Seat 7: sasasani ($3.45 in chips) 
+Seat 8: Krasnopera ($12.28 in chips) 
+Seat 9: severelle ($6.02 in chips) 
+Bengelchen63: posts small blind $0.02
+Rrripl: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [8s 5c]
+Balboa442: raises $0.10 to $0.15
+zorin44: folds 
+toppair: folds 
+sasasani: folds 
+Krasnopera: folds 
+severelle: folds 
+Baditiger: folds 
+Bengelchen63: folds 
+Rrripl: folds 
+Uncalled bet ($0.10) returned to Balboa442
+Balboa442 collected $0.12 from pot
+Balboa442: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Baditiger (button) folded before Flop (didn't bet)
+Seat 2: Bengelchen63 (small blind) folded before Flop
+Seat 3: Rrripl (big blind) folded before Flop
+Seat 4: Balboa442 collected ($0.12)
+Seat 5: zorin44 folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: sasasani folded before Flop (didn't bet)
+Seat 8: Krasnopera folded before Flop (didn't bet)
+Seat 9: severelle folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143046959777:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:10:52 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: petarpan10 ($6.29 in chips) 
+Seat 2: waveless ($7.52 in chips) 
+Seat 3: Asqalet ($10.52 in chips) 
+Seat 4: fullPower160 ($5.49 in chips) 
+Seat 5: toppair ($4.68 in chips) 
+Seat 6: elviesa ($6.25 in chips) 
+Seat 7: Sewa3 ($11.38 in chips) 
+Seat 8: gandalfxxx ($5 in chips) 
+Seat 9: maxxus83 ($4.31 in chips) 
+waveless: posts small blind $0.02
+Asqalet: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2d 2c]
+fullPower160: folds 
+toppair: calls $0.05
+elviesa: folds 
+Sewa3: folds 
+gandalfxxx: folds 
+maxxus83: calls $0.05
+petarpan10: folds 
+waveless: folds 
+Asqalet: checks 
+*** FLOP *** [4s 3h 3s]
+Asqalet: checks 
+toppair: bets $0.10
+maxxus83: calls $0.10
+Asqalet: calls $0.10
+*** TURN *** [4s 3h 3s] [4h]
+Asqalet: checks 
+toppair: checks 
+maxxus83: checks 
+*** RIVER *** [4s 3h 3s 4h] [9s]
+Asqalet: bets $0.10
+toppair: folds 
+maxxus83: calls $0.10
+*** SHOW DOWN ***
+Asqalet: shows [7c 7d] (two pair, Sevens and Fours)
+maxxus83: mucks hand 
+Asqalet collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [4s 3h 3s 4h 9s]
+Seat 1: petarpan10 (button) folded before Flop (didn't bet)
+Seat 2: waveless (small blind) folded before Flop
+Seat 3: Asqalet (big blind) showed [7c 7d] and won ($0.64) with two pair, Sevens and Fours
+Seat 4: fullPower160 folded before Flop (didn't bet)
+Seat 5: toppair folded on the River
+Seat 6: elviesa folded before Flop (didn't bet)
+Seat 7: Sewa3 folded before Flop (didn't bet)
+Seat 8: gandalfxxx folded before Flop (didn't bet)
+Seat 9: maxxus83 mucked [Ah Jd]
+
+
+
+PokerStars Zoom Hand #143047002649:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:11:40 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: jiuhu ($3.62 in chips) 
+Seat 2: sodastereo ($4.34 in chips) 
+Seat 3: DomingoJeff ($5 in chips) 
+Seat 4: toppair ($4.53 in chips) 
+Seat 5: PandaIrk ($5 in chips) 
+Seat 6: Asqalet ($10.91 in chips) 
+Seat 7: yomotan ($7.50 in chips) 
+Seat 8: albann87 ($6.37 in chips) 
+Seat 9: hangzu001 ($14.45 in chips) 
+sodastereo: posts small blind $0.02
+DomingoJeff: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [8s Jh]
+toppair: folds 
+PandaIrk: folds 
+Asqalet: folds 
+yomotan: folds 
+albann87: folds 
+hangzu001: folds 
+jiuhu: folds 
+sodastereo: folds 
+Uncalled bet ($0.03) returned to DomingoJeff
+DomingoJeff collected $0.04 from pot
+DomingoJeff: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jiuhu (button) folded before Flop (didn't bet)
+Seat 2: sodastereo (small blind) folded before Flop
+Seat 3: DomingoJeff (big blind) collected ($0.04)
+Seat 4: toppair folded before Flop (didn't bet)
+Seat 5: PandaIrk folded before Flop (didn't bet)
+Seat 6: Asqalet folded before Flop (didn't bet)
+Seat 7: yomotan folded before Flop (didn't bet)
+Seat 8: albann87 folded before Flop (didn't bet)
+Seat 9: hangzu001 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047007198:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:11:45 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: dimidruliya ($2.33 in chips) 
+Seat 2: Aritakaruka ($4.63 in chips) 
+Seat 3: alexkoro87 ($5.18 in chips) 
+Seat 4: toppair ($4.53 in chips) 
+Seat 5: Baditiger ($4.17 in chips) 
+Seat 6: OMARO977 ($5.75 in chips) 
+Seat 7: Krasnopera ($7.76 in chips) 
+Seat 8: PandaIrk ($5 in chips) 
+Seat 9: GuiCP ($5.46 in chips) 
+Aritakaruka: posts small blind $0.02
+alexkoro87: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2c Qs]
+toppair: folds 
+Baditiger: raises $0.10 to $0.15
+OMARO977: folds 
+Krasnopera: folds 
+PandaIrk: folds 
+GuiCP: folds 
+dimidruliya: folds 
+Aritakaruka: folds 
+alexkoro87: folds 
+Uncalled bet ($0.10) returned to Baditiger
+Baditiger collected $0.12 from pot
+Baditiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: dimidruliya (button) folded before Flop (didn't bet)
+Seat 2: Aritakaruka (small blind) folded before Flop
+Seat 3: alexkoro87 (big blind) folded before Flop
+Seat 4: toppair folded before Flop (didn't bet)
+Seat 5: Baditiger collected ($0.12)
+Seat 6: OMARO977 folded before Flop (didn't bet)
+Seat 7: Krasnopera folded before Flop (didn't bet)
+Seat 8: PandaIrk folded before Flop (didn't bet)
+Seat 9: GuiCP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047015195:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:11:54 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Loirinho0815 ($8.69 in chips) 
+Seat 2: seshAD ($4.14 in chips) 
+Seat 3: SandroVM ($4.91 in chips) 
+Seat 4: Tutunn ($3.20 in chips) 
+Seat 5: mr.frankrijk ($4.57 in chips) 
+Seat 6: Dmitry_BV ($5 in chips) 
+Seat 7: toppair ($4.53 in chips) 
+Seat 8: booshrut ($6.19 in chips) 
+Seat 9: mamim100 ($10.94 in chips) 
+seshAD: posts small blind $0.02
+SandroVM: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Qs Qd]
+Tutunn: folds 
+mr.frankrijk: folds 
+Dmitry_BV: folds 
+toppair: raises $0.10 to $0.15
+booshrut: folds 
+mamim100: folds 
+Loirinho0815: folds 
+seshAD: folds 
+SandroVM: folds 
+Uncalled bet ($0.10) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Loirinho0815 (button) folded before Flop (didn't bet)
+Seat 2: seshAD (small blind) folded before Flop
+Seat 3: SandroVM (big blind) folded before Flop
+Seat 4: Tutunn folded before Flop (didn't bet)
+Seat 5: mr.frankrijk folded before Flop (didn't bet)
+Seat 6: Dmitry_BV folded before Flop (didn't bet)
+Seat 7: toppair collected ($0.12)
+Seat 8: booshrut folded before Flop (didn't bet)
+Seat 9: mamim100 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047010745:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:11:49 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: 3meyGorini4 ($5.25 in chips) 
+Seat 2: aa654321jx ($16.71 in chips) 
+Seat 3: Papar@zzi ($6.98 in chips) 
+Seat 4: toppair ($4.53 in chips) 
+Seat 5: MattyDbag ($4.85 in chips) 
+Seat 6: Gatovski ($15.77 in chips) 
+Seat 7: pytachok1990 ($5.92 in chips) 
+Seat 8: Justi84 ($2.64 in chips) 
+Seat 9: dimidruliya ($2.10 in chips) 
+aa654321jx: posts small blind $0.02
+Papar@zzi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jd 3d]
+toppair: folds 
+MattyDbag: raises $0.10 to $0.15
+Gatovski: folds 
+pytachok1990: folds 
+Justi84: folds 
+dimidruliya: folds 
+3meyGorini4: folds 
+aa654321jx: folds 
+Papar@zzi: folds 
+Uncalled bet ($0.10) returned to MattyDbag
+MattyDbag collected $0.12 from pot
+MattyDbag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: 3meyGorini4 (button) folded before Flop (didn't bet)
+Seat 2: aa654321jx (small blind) folded before Flop
+Seat 3: Papar@zzi (big blind) folded before Flop
+Seat 4: toppair folded before Flop (didn't bet)
+Seat 5: MattyDbag collected ($0.12)
+Seat 6: Gatovski folded before Flop (didn't bet)
+Seat 7: pytachok1990 folded before Flop (didn't bet)
+Seat 8: Justi84 folded before Flop (didn't bet)
+Seat 9: dimidruliya folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047027774:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:12:08 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: AndronDJ ($5.65 in chips) 
+Seat 2: elviesa ($5.15 in chips) 
+Seat 3: toppair ($4.60 in chips) 
+Seat 4: GuiCP ($8.85 in chips) 
+Seat 5: BorisRazor54 ($9.68 in chips) 
+Seat 6: tarasella ($5.80 in chips) 
+Seat 7: albann87 ($6.32 in chips) 
+Seat 8: Kirill Smoke ($14.33 in chips) 
+Seat 9: mr.picpoc ($7.61 in chips) 
+elviesa: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4c Kc]
+GuiCP: folds 
+BorisRazor54: folds 
+tarasella: raises $0.10 to $0.15
+albann87: folds 
+Kirill Smoke: folds 
+mr.picpoc: calls $0.15
+AndronDJ: calls $0.15
+elviesa: folds 
+toppair: calls $0.10
+*** FLOP *** [3s Ks 8h]
+toppair: checks 
+tarasella: checks 
+mr.picpoc: checks 
+AndronDJ: checks 
+*** TURN *** [3s Ks 8h] [Kh]
+toppair: bets $0.20
+tarasella: folds 
+mr.picpoc: folds 
+AndronDJ: calls $0.20
+*** RIVER *** [3s Ks 8h Kh] [5s]
+toppair: bets $0.49
+AndronDJ: folds 
+Uncalled bet ($0.49) returned to toppair
+toppair collected $0.98 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [3s Ks 8h Kh 5s]
+Seat 1: AndronDJ (button) folded on the River
+Seat 2: elviesa (small blind) folded before Flop
+Seat 3: toppair (big blind) collected ($0.98)
+Seat 4: GuiCP folded before Flop (didn't bet)
+Seat 5: BorisRazor54 folded before Flop (didn't bet)
+Seat 6: tarasella folded on the Turn
+Seat 7: albann87 folded before Flop (didn't bet)
+Seat 8: Kirill Smoke folded before Flop (didn't bet)
+Seat 9: mr.picpoc folded on the Turn
+
+
+
+PokerStars Zoom Hand #143047071249:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:12:56 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: SandroVM ($4.56 in chips) 
+Seat 2: toppair ($5.23 in chips) 
+Seat 3: Kirill Smoke ($9.69 in chips) 
+Seat 4: albann87 ($5 in chips) 
+Seat 5: Player_pit ($2.93 in chips) 
+Seat 6: tkrommer ($9.73 in chips) 
+Seat 7: AleXX Lviv ($5.09 in chips) 
+Seat 8: PandaIrk ($6.18 in chips) 
+Seat 9: Asqalet ($10.88 in chips) 
+toppair: posts small blind $0.02
+Kirill Smoke: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7d As]
+albann87: folds 
+Player_pit: folds 
+tkrommer: raises $0.10 to $0.15
+AleXX Lviv: folds 
+PandaIrk: calls $0.15
+Asqalet: folds 
+SandroVM: folds 
+toppair: calls $0.13
+Kirill Smoke: folds 
+*** FLOP *** [Qc 4s 6d]
+toppair: checks 
+tkrommer: bets $0.30
+PandaIrk: folds 
+toppair: folds 
+Uncalled bet ($0.30) returned to tkrommer
+tkrommer collected $0.48 from pot
+tkrommer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qc 4s 6d]
+Seat 1: SandroVM (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) folded on the Flop
+Seat 3: Kirill Smoke (big blind) folded before Flop
+Seat 4: albann87 folded before Flop (didn't bet)
+Seat 5: Player_pit folded before Flop (didn't bet)
+Seat 6: tkrommer collected ($0.48)
+Seat 7: AleXX Lviv folded before Flop (didn't bet)
+Seat 8: PandaIrk folded on the Flop
+Seat 9: Asqalet folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047102407:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:13:31 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($5.08 in chips) 
+Seat 2: webber0116 ($4.61 in chips) 
+Seat 3: VoVa_Chill ($5.19 in chips) 
+Seat 4: yomotan ($6.20 in chips) 
+Seat 5: AleXX Lviv ($5.15 in chips) 
+Seat 6: proceder ($5.11 in chips) 
+Seat 7: LAMBI991 ($4.52 in chips) 
+Seat 8: ofelia74 ($5 in chips) 
+Seat 9: aa654321jx ($13.20 in chips) 
+webber0116: posts small blind $0.02
+VoVa_Chill: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [5h Td]
+yomotan: folds 
+AleXX Lviv: folds 
+proceder: folds 
+LAMBI991: folds 
+ofelia74: folds 
+aa654321jx: raises $0.10 to $0.15
+toppair: folds 
+webber0116: folds 
+VoVa_Chill: folds 
+Uncalled bet ($0.10) returned to aa654321jx
+aa654321jx collected $0.12 from pot
+aa654321jx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: webber0116 (small blind) folded before Flop
+Seat 3: VoVa_Chill (big blind) folded before Flop
+Seat 4: yomotan folded before Flop (didn't bet)
+Seat 5: AleXX Lviv folded before Flop (didn't bet)
+Seat 6: proceder folded before Flop (didn't bet)
+Seat 7: LAMBI991 folded before Flop (didn't bet)
+Seat 8: ofelia74 folded before Flop (didn't bet)
+Seat 9: aa654321jx collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143047140022:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:14:14 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: s0siris ($12.56 in chips) 
+Seat 2: yasha123 ($8.35 in chips) 
+Seat 3: -WinsLucky- ($5.20 in chips) 
+Seat 4: seshAD ($6.08 in chips) 
+Seat 5: UBERTAKER ($5 in chips) 
+Seat 6: mr.frankrijk ($2.73 in chips) 
+Seat 7: AlphaYoga ($5 in chips) 
+Seat 8: 3meyGorini4 ($5.11 in chips) 
+Seat 9: toppair ($5.08 in chips) 
+yasha123: posts small blind $0.02
+-WinsLucky-: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Kc 4c]
+seshAD: folds 
+UBERTAKER: folds 
+mr.frankrijk: folds 
+AlphaYoga: folds 
+3meyGorini4: folds 
+toppair: raises $0.10 to $0.15
+s0siris: folds 
+yasha123: folds 
+-WinsLucky-: folds 
+Uncalled bet ($0.10) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: s0siris (button) folded before Flop (didn't bet)
+Seat 2: yasha123 (small blind) folded before Flop
+Seat 3: -WinsLucky- (big blind) folded before Flop
+Seat 4: seshAD folded before Flop (didn't bet)
+Seat 5: UBERTAKER folded before Flop (didn't bet)
+Seat 6: mr.frankrijk folded before Flop (didn't bet)
+Seat 7: AlphaYoga folded before Flop (didn't bet)
+Seat 8: 3meyGorini4 folded before Flop (didn't bet)
+Seat 9: toppair collected ($0.12)
+
+
+
+PokerStars Zoom Hand #143047154384:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:14:30 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: DASDIX ($5.53 in chips) 
+Seat 2: Cazacioc ($5 in chips) 
+Seat 3: 44LLM ($5 in chips) 
+Seat 4: Cybergod2001 ($5.10 in chips) 
+Seat 5: ASM1991 ($6.69 in chips) 
+Seat 6: Anderu9 ($4.75 in chips) 
+Seat 7: kailass ($6.23 in chips) 
+Seat 8: toppair ($5.15 in chips) 
+Seat 9: Lentilka6666 ($7.11 in chips) 
+Cazacioc: posts small blind $0.02
+44LLM: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7s 2d]
+Cybergod2001: raises $0.10 to $0.15
+ASM1991: calls $0.15
+Anderu9: folds 
+kailass: folds 
+toppair: folds 
+Lentilka6666: folds 
+DASDIX: folds 
+Cazacioc: folds 
+44LLM: folds 
+*** FLOP *** [4c 5h 8h]
+Cybergod2001: bets $0.20
+ASM1991: calls $0.20
+*** TURN *** [4c 5h 8h] [7d]
+Cybergod2001: bets $0.50
+ASM1991: calls $0.50
+*** RIVER *** [4c 5h 8h 7d] [8d]
+Cybergod2001: checks 
+ASM1991: bets $0.93
+Cybergod2001: folds 
+Uncalled bet ($0.93) returned to ASM1991
+ASM1991 collected $1.70 from pot
+ASM1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.07 
+Board [4c 5h 8h 7d 8d]
+Seat 1: DASDIX (button) folded before Flop (didn't bet)
+Seat 2: Cazacioc (small blind) folded before Flop
+Seat 3: 44LLM (big blind) folded before Flop
+Seat 4: Cybergod2001 folded on the River
+Seat 5: ASM1991 collected ($1.70)
+Seat 6: Anderu9 folded before Flop (didn't bet)
+Seat 7: kailass folded before Flop (didn't bet)
+Seat 8: toppair folded before Flop (didn't bet)
+Seat 9: Lentilka6666 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047157832:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:14:34 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: O-Z_city ($17.24 in chips) 
+Seat 2: Last Samyrai ($6.32 in chips) 
+Seat 3: UBERTAKER ($5 in chips) 
+Seat 4: NevermindNsk ($6.45 in chips) 
+Seat 5: Cold1977 ($1.85 in chips) 
+Seat 6: toppair ($5.15 in chips) 
+Seat 7: aa654321jx ($16.57 in chips) 
+Seat 8: Asqalet ($9.53 in chips) 
+Seat 9: pokersvi ($5 in chips) 
+Last Samyrai: posts small blind $0.02
+UBERTAKER: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [5s 9s]
+NevermindNsk: folds 
+Cold1977: folds 
+toppair: calls $0.05
+aa654321jx: calls $0.05
+Asqalet: folds 
+pokersvi: folds 
+O-Z_city: folds 
+Last Samyrai: folds 
+UBERTAKER: checks 
+*** FLOP *** [4c 6d 5c]
+UBERTAKER: checks 
+toppair: checks 
+aa654321jx: checks 
+*** TURN *** [4c 6d 5c] [Jc]
+UBERTAKER: checks 
+toppair: checks 
+aa654321jx: checks 
+*** RIVER *** [4c 6d 5c Jc] [Js]
+UBERTAKER: bets $0.10
+toppair: folds 
+aa654321jx: folds 
+Uncalled bet ($0.10) returned to UBERTAKER
+UBERTAKER collected $0.16 from pot
+UBERTAKER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4c 6d 5c Jc Js]
+Seat 1: O-Z_city (button) folded before Flop (didn't bet)
+Seat 2: Last Samyrai (small blind) folded before Flop
+Seat 3: UBERTAKER (big blind) collected ($0.16)
+Seat 4: NevermindNsk folded before Flop (didn't bet)
+Seat 5: Cold1977 folded before Flop (didn't bet)
+Seat 6: toppair folded on the River
+Seat 7: aa654321jx folded on the River
+Seat 8: Asqalet folded before Flop (didn't bet)
+Seat 9: pokersvi folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047221031:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:15:40 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: mrl_orlandi ($3.37 in chips) 
+Seat 2: ofelia74 ($5 in chips) 
+Seat 3: AleXX Lviv ($5.01 in chips) 
+Seat 4: toppair ($5.10 in chips) 
+Seat 5: Puvluha ($5.35 in chips) 
+Seat 6: NevermindNsk ($5.65 in chips) 
+Seat 7: jzazik ($5.66 in chips) 
+Seat 8: sophia3 ($5.10 in chips) 
+Seat 9: sodastereo ($4.51 in chips) 
+ofelia74: posts small blind $0.02
+AleXX Lviv: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jd Js]
+toppair: raises $0.10 to $0.15
+Puvluha: folds 
+NevermindNsk: folds 
+jzazik: folds 
+sophia3: folds 
+sodastereo: folds 
+mrl_orlandi: folds 
+ofelia74: folds 
+AleXX Lviv: folds 
+Uncalled bet ($0.10) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: mrl_orlandi (button) folded before Flop (didn't bet)
+Seat 2: ofelia74 (small blind) folded before Flop
+Seat 3: AleXX Lviv (big blind) folded before Flop
+Seat 4: toppair collected ($0.12)
+Seat 5: Puvluha folded before Flop (didn't bet)
+Seat 6: NevermindNsk folded before Flop (didn't bet)
+Seat 7: jzazik folded before Flop (didn't bet)
+Seat 8: sophia3 folded before Flop (didn't bet)
+Seat 9: sodastereo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047236141:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:15:56 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Asqalet ($10.94 in chips) 
+Seat 2: zhukevychv ($4.95 in chips) 
+Seat 3: NevermindNsk ($5.56 in chips) 
+Seat 4: yasha123 ($5.03 in chips) 
+Seat 5: KRITAYA ($5.05 in chips) 
+Seat 6: rusya80 ($4.14 in chips) 
+Seat 7: Balboa442 ($5 in chips) 
+Seat 8: FIV 300 ($5.38 in chips) 
+Seat 9: toppair ($5.17 in chips) 
+zhukevychv: posts small blind $0.02
+NevermindNsk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [7h 8h]
+yasha123: raises $0.05 to $0.10
+KRITAYA: folds 
+rusya80: folds 
+Balboa442: folds 
+FIV 300: folds 
+toppair: calls $0.10
+Asqalet: folds 
+zhukevychv: folds 
+NevermindNsk: folds 
+*** FLOP *** [2d 5h Ah]
+yasha123: checks 
+toppair: bets $0.15
+yasha123: folds 
+Uncalled bet ($0.15) returned to toppair
+toppair collected $0.26 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2d 5h Ah]
+Seat 1: Asqalet (button) folded before Flop (didn't bet)
+Seat 2: zhukevychv (small blind) folded before Flop
+Seat 3: NevermindNsk (big blind) folded before Flop
+Seat 4: yasha123 folded on the Flop
+Seat 5: KRITAYA folded before Flop (didn't bet)
+Seat 6: rusya80 folded before Flop (didn't bet)
+Seat 7: Balboa442 folded before Flop (didn't bet)
+Seat 8: FIV 300 folded before Flop (didn't bet)
+Seat 9: toppair collected ($0.26)
+
+
+
+PokerStars Zoom Hand #143047262507:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:16:23 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: toppair ($5.33 in chips) 
+Seat 2: UBERTAKER ($10.79 in chips) 
+Seat 3: zorin44 ($5 in chips) 
+Seat 4: proceder ($5.26 in chips) 
+Seat 5: FIV 300 ($5.38 in chips) 
+Seat 6: seshAD ($4.71 in chips) 
+Seat 7: pytachok1990 ($5 in chips) 
+Seat 8: BEHT-AM ($5.15 in chips) 
+Seat 9: Toffsla ($13.18 in chips) 
+UBERTAKER: posts small blind $0.02
+zorin44: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [6c Kc]
+proceder: folds 
+FIV 300: folds 
+seshAD: folds 
+pytachok1990: folds 
+BEHT-AM: folds 
+Toffsla: folds 
+toppair: raises $0.05 to $0.10
+UBERTAKER: folds 
+zorin44: folds 
+Uncalled bet ($0.05) returned to toppair
+toppair collected $0.12 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: toppair (button) collected ($0.12)
+Seat 2: UBERTAKER (small blind) folded before Flop
+Seat 3: zorin44 (big blind) folded before Flop
+Seat 4: proceder folded before Flop (didn't bet)
+Seat 5: FIV 300 folded before Flop (didn't bet)
+Seat 6: seshAD folded before Flop (didn't bet)
+Seat 7: pytachok1990 folded before Flop (didn't bet)
+Seat 8: BEHT-AM folded before Flop (didn't bet)
+Seat 9: Toffsla folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047284226:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:16:45 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Last Samyrai ($6.32 in chips) 
+Seat 2: frankcet440 ($4.63 in chips) 
+Seat 3: toppair ($5.40 in chips) 
+Seat 4: NevermindNsk ($5.51 in chips) 
+Seat 5: Krasnopera ($19.74 in chips) 
+Seat 6: dimidruliya ($1.81 in chips) 
+Seat 7: spirt77 ($5 in chips) 
+Seat 8: VDTropic ($7.39 in chips) 
+Seat 9: Kirill Smoke ($13.01 in chips) 
+frankcet440: posts small blind $0.02
+toppair: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [5h 6d]
+NevermindNsk: folds 
+Krasnopera: folds 
+dimidruliya: folds 
+spirt77: raises $0.10 to $0.15
+VDTropic: folds 
+Kirill Smoke: folds 
+Last Samyrai: folds 
+frankcet440: folds 
+toppair: calls $0.10
+*** FLOP *** [Td Ad As]
+toppair: checks 
+spirt77: bets $0.15
+toppair: folds 
+Uncalled bet ($0.15) returned to spirt77
+spirt77 collected $0.31 from pot
+spirt77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Td Ad As]
+Seat 1: Last Samyrai (button) folded before Flop (didn't bet)
+Seat 2: frankcet440 (small blind) folded before Flop
+Seat 3: toppair (big blind) folded on the Flop
+Seat 4: NevermindNsk folded before Flop (didn't bet)
+Seat 5: Krasnopera folded before Flop (didn't bet)
+Seat 6: dimidruliya folded before Flop (didn't bet)
+Seat 7: spirt77 collected ($0.31)
+Seat 8: VDTropic folded before Flop (didn't bet)
+Seat 9: Kirill Smoke folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047310135:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:17:12 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: Balboa442 ($4.46 in chips) 
+Seat 2: franciscol ($3.64 in chips) 
+Seat 3: kdtty ($5.46 in chips) 
+Seat 4: KRITAYA ($5.75 in chips) 
+Seat 5: O-Z_city ($6.95 in chips) 
+Seat 6: toppair ($5.25 in chips) 
+Seat 7: fullPower160 ($5.99 in chips) 
+Seat 8: zene4ka ($5.50 in chips) 
+Seat 9: AleXX Lviv ($5.32 in chips) 
+franciscol: posts small blind $0.02
+kdtty: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [Jh 2d]
+KRITAYA: folds 
+O-Z_city: folds 
+toppair: folds 
+fullPower160: folds 
+zene4ka: folds 
+AleXX Lviv: folds 
+Balboa442: folds 
+franciscol: folds 
+Uncalled bet ($0.03) returned to kdtty
+kdtty collected $0.04 from pot
+kdtty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Balboa442 (button) folded before Flop (didn't bet)
+Seat 2: franciscol (small blind) folded before Flop
+Seat 3: kdtty (big blind) collected ($0.04)
+Seat 4: KRITAYA folded before Flop (didn't bet)
+Seat 5: O-Z_city folded before Flop (didn't bet)
+Seat 6: toppair folded before Flop (didn't bet)
+Seat 7: fullPower160 folded before Flop (didn't bet)
+Seat 8: zene4ka folded before Flop (didn't bet)
+Seat 9: AleXX Lviv folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #143047314973:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:17:17 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: ASM1991 ($6.09 in chips) 
+Seat 2: toppair ($5.25 in chips) 
+Seat 3: pokersvi ($5 in chips) 
+Seat 4: Krasnopera ($7.70 in chips) 
+Seat 5: trraction ($4.93 in chips) 
+Seat 6: zene4ka ($5.50 in chips) 
+Seat 7: Last Samyrai ($6.32 in chips) 
+Seat 8: vrcsin ($8.34 in chips) 
+Seat 9: mamim100 ($10.71 in chips) 
+toppair: posts small blind $0.02
+pokersvi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [4h Td]
+Krasnopera: folds 
+trraction: folds 
+zene4ka: folds 
+Last Samyrai: folds 
+vrcsin: raises $0.10 to $0.15
+mamim100: calls $0.15
+ASM1991: folds 
+toppair: folds 
+pokersvi: folds 
+*** FLOP *** [Qd Ad 9c]
+vrcsin: checks 
+mamim100: checks 
+*** TURN *** [Qd Ad 9c] [5c]
+vrcsin: checks 
+mamim100: bets $0.20
+vrcsin: folds 
+Uncalled bet ($0.20) returned to mamim100
+mamim100 collected $0.35 from pot
+mamim100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Qd Ad 9c 5c]
+Seat 1: ASM1991 (button) folded before Flop (didn't bet)
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: pokersvi (big blind) folded before Flop
+Seat 4: Krasnopera folded before Flop (didn't bet)
+Seat 5: trraction folded before Flop (didn't bet)
+Seat 6: zene4ka folded before Flop (didn't bet)
+Seat 7: Last Samyrai folded before Flop (didn't bet)
+Seat 8: vrcsin folded on the Turn
+Seat 9: mamim100 collected ($0.35)
+
+
+
+PokerStars Zoom Hand #143047318879:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 14:17:21 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: zhukevychv ($5.48 in chips) 
+Seat 2: AleXX Lviv ($5.32 in chips) 
+Seat 3: Sexter79 ($4.88 in chips) 
+Seat 4: franciscol ($3.62 in chips) 
+Seat 5: gandalfxxx ($5 in chips) 
+Seat 6: Mika1610 ($4.85 in chips) 
+Seat 7: serugan16 ($6.92 in chips) 
+Seat 8: toppair ($5.23 in chips) 
+Seat 9: sodastereo ($4.56 in chips) 
+AleXX Lviv: posts small blind $0.02
+Sexter79: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [8h Td]
+franciscol: folds 
+gandalfxxx: folds 
+Mika1610: folds 
+serugan16: folds 
+toppair: calls $0.05
+sodastereo: raises $0.15 to $0.20
+zhukevychv: folds 
+AleXX Lviv: folds 
+Sexter79: calls $0.15
+toppair: calls $0.15
+*** FLOP *** [Ac Ts 3d]
+Sexter79: checks 
+toppair: checks 
+sodastereo: checks 
+*** TURN *** [Ac Ts 3d] [5d]
+Sexter79: checks 
+toppair: checks 
+sodastereo: bets $0.35
+Sexter79: folds 
+toppair: folds 
+Uncalled bet ($0.35) returned to sodastereo
+sodastereo collected $0.59 from pot
+sodastereo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [Ac Ts 3d 5d]
+Seat 1: zhukevychv (button) folded before Flop (didn't bet)
+Seat 2: AleXX Lviv (small blind) folded before Flop
+Seat 3: Sexter79 (big blind) folded on the Turn
+Seat 4: franciscol folded before Flop (didn't bet)
+Seat 5: gandalfxxx folded before Flop (didn't bet)
+Seat 6: Mika1610 folded before Flop (didn't bet)
+Seat 7: serugan16 folded before Flop (didn't bet)
+Seat 8: toppair folded on the Turn
+Seat 9: sodastereo collected ($0.59)
+
+
+

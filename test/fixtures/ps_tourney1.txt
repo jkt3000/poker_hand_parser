@@ -1,0 +1,1133 @@
+﻿PokerStars Hand #143332350645: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2015/11/04 20:14:04 ET
+Table '1370571394 3' 9-max Seat #1 is the button
+Seat 1: toppair (1500 in chips) 
+Seat 2: mar46cell (1500 in chips) 
+Seat 3: Duh.RAR (1500 in chips) 
+Seat 4: nick zic (1500 in chips) 
+Seat 5: sbp81 (1500 in chips) 
+Seat 6: RLVV30 (1500 in chips) 
+Seat 7: brantapia (1500 in chips) 
+Seat 8: Marcomxpx (1500 in chips) 
+Seat 9: ecolife (1500 in chips) 
+toppair: posts the ante 3
+mar46cell: posts the ante 3
+Duh.RAR: posts the ante 3
+nick zic: posts the ante 3
+sbp81: posts the ante 3
+RLVV30: posts the ante 3
+brantapia: posts the ante 3
+Marcomxpx: posts the ante 3
+ecolife: posts the ante 3
+mar46cell: posts small blind 10
+Duh.RAR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to toppair [Qd Tc]
+nick zic: folds 
+sbp81: raises 77 to 97
+RLVV30: folds 
+brantapia: folds 
+Marcomxpx: folds 
+ecolife: raises 163 to 260
+toppair: folds 
+mar46cell: folds 
+Duh.RAR: calls 240
+sbp81: raises 817 to 1077
+ecolife: raises 420 to 1497 and is all-in
+Duh.RAR: folds 
+sbp81: calls 420 and is all-in
+*** FLOP *** [Kd Ac 6h]
+*** TURN *** [Kd Ac 6h] [4c]
+*** RIVER *** [Kd Ac 6h 4c] [Jd]
+*** SHOW DOWN ***
+sbp81: shows [Qc Qh] (a pair of Queens)
+ecolife: shows [Jc Js] (three of a kind, Jacks)
+ecolife collected 3291 from pot
+sbp81 finished the tournament in 45th place
+*** SUMMARY ***
+Total pot 3291 | Rake 0 
+Board [Kd Ac 6h 4c Jd]
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 2: mar46cell (small blind) folded before Flop
+Seat 3: Duh.RAR (big blind) folded before Flop
+Seat 4: nick zic folded before Flop (didn't bet)
+Seat 5: sbp81 showed [Qc Qh] and lost with a pair of Queens
+Seat 6: RLVV30 folded before Flop (didn't bet)
+Seat 7: brantapia folded before Flop (didn't bet)
+Seat 8: Marcomxpx folded before Flop (didn't bet)
+Seat 9: ecolife showed [Jc Js] and won (3291) with three of a kind, Jacks
+
+
+
+PokerStars Hand #143332391801: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2015/11/04 20:15:23 ET
+Table '1370571394 3' 9-max Seat #2 is the button
+Seat 1: toppair (1497 in chips) 
+Seat 2: mar46cell (1487 in chips) 
+Seat 3: Duh.RAR (1237 in chips) 
+Seat 4: nick zic (1497 in chips) 
+Seat 6: RLVV30 (1497 in chips) 
+Seat 7: brantapia (1497 in chips) 
+Seat 8: Marcomxpx (1497 in chips) 
+Seat 9: ecolife (3291 in chips) 
+toppair: posts the ante 3
+mar46cell: posts the ante 3
+Duh.RAR: posts the ante 3
+nick zic: posts the ante 3
+RLVV30: posts the ante 3
+brantapia: posts the ante 3
+Marcomxpx: posts the ante 3
+ecolife: posts the ante 3
+Duh.RAR: posts small blind 10
+nick zic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to toppair [Ks 5d]
+RLVV30: folds 
+brantapia: raises 30 to 50
+Marcomxpx: folds 
+ecolife: folds 
+toppair: folds 
+mar46cell: calls 50
+Duh.RAR: calls 40
+nick zic: calls 30
+*** FLOP *** [Qc 6c 7h]
+Duh.RAR: bets 224
+nick zic: calls 224
+brantapia: folds 
+mar46cell: folds 
+*** TURN *** [Qc 6c 7h] [Td]
+Duh.RAR: bets 960 and is all-in
+nick zic: calls 960
+*** RIVER *** [Qc 6c 7h Td] [Jh]
+*** SHOW DOWN ***
+Duh.RAR: shows [6h 3d] (a pair of Sixes)
+nick zic: shows [Jc Qh] (two pair, Queens and Jacks)
+nick zic collected 2592 from pot
+Duh.RAR finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 2592 | Rake 0 
+Board [Qc 6c 7h Td Jh]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: mar46cell (button) folded on the Flop
+Seat 3: Duh.RAR (small blind) showed [6h 3d] and lost with a pair of Sixes
+Seat 4: nick zic (big blind) showed [Jc Qh] and won (2592) with two pair, Queens and Jacks
+Seat 6: RLVV30 folded before Flop (didn't bet)
+Seat 7: brantapia folded on the Flop
+Seat 8: Marcomxpx folded before Flop (didn't bet)
+Seat 9: ecolife folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143332422625: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2015/11/04 20:16:21 ET
+Table '1370571394 3' 9-max Seat #4 is the button
+Seat 1: toppair (1494 in chips) 
+Seat 2: mar46cell (1434 in chips) 
+Seat 4: nick zic (2852 in chips) 
+Seat 6: RLVV30 (1494 in chips) 
+Seat 7: brantapia (1444 in chips) 
+Seat 8: Marcomxpx (1494 in chips) 
+Seat 9: ecolife (3288 in chips) 
+toppair: posts the ante 3
+mar46cell: posts the ante 3
+nick zic: posts the ante 3
+RLVV30: posts the ante 3
+brantapia: posts the ante 3
+Marcomxpx: posts the ante 3
+ecolife: posts the ante 3
+RLVV30: posts small blind 10
+brantapia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to toppair [2s 4s]
+Marcomxpx: folds 
+ecolife: folds 
+toppair: calls 20
+mar46cell: calls 20
+nick zic: folds 
+RLVV30: folds 
+brantapia: checks 
+*** FLOP *** [5c Jc 8c]
+brantapia: checks 
+toppair: checks 
+mar46cell: checks 
+*** TURN *** [5c Jc 8c] [9h]
+brantapia: checks 
+toppair: checks 
+mar46cell: checks 
+*** RIVER *** [5c Jc 8c 9h] [As]
+brantapia: checks 
+toppair: checks 
+mar46cell: bets 200
+brantapia: folds 
+toppair: folds 
+Uncalled bet (200) returned to mar46cell
+mar46cell collected 91 from pot
+*** SUMMARY ***
+Total pot 91 | Rake 0 
+Board [5c Jc 8c 9h As]
+Seat 1: toppair folded on the River
+Seat 2: mar46cell collected (91)
+Seat 4: nick zic (button) folded before Flop (didn't bet)
+Seat 6: RLVV30 (small blind) folded before Flop
+Seat 7: brantapia (big blind) folded on the River
+Seat 8: Marcomxpx folded before Flop (didn't bet)
+Seat 9: ecolife folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143332494983: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2015/11/04 20:18:40 ET
+Table '1370571394 4' 9-max Seat #7 is the button
+Seat 1: toppair (1471 in chips) 
+Seat 3: Dawez (2898 in chips) 
+Seat 4: rimtis (1767 in chips) 
+Seat 7: JotaSalva (4507 in chips) 
+Seat 8: dGnAk (1346 in chips) 
+Seat 9: raposaoxxx (1488 in chips) 
+toppair: posts the ante 3
+Dawez: posts the ante 3
+rimtis: posts the ante 3
+JotaSalva: posts the ante 3
+dGnAk: posts the ante 3
+raposaoxxx: posts the ante 3
+dGnAk: posts small blind 10
+raposaoxxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to toppair [9d Tc]
+toppair: calls 20
+Dawez: folds 
+rimtis: folds 
+JotaSalva: folds 
+dGnAk: folds 
+raposaoxxx: checks 
+*** FLOP *** [8c 9h 4c]
+raposaoxxx: checks 
+toppair: bets 27
+raposaoxxx: calls 27
+*** TURN *** [8c 9h 4c] [Qc]
+raposaoxxx: checks 
+toppair: checks 
+*** RIVER *** [8c 9h 4c Qc] [Kc]
+raposaoxxx: checks 
+toppair: bets 61
+raposaoxxx: folds 
+Uncalled bet (61) returned to toppair
+toppair collected 122 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [8c 9h 4c Qc Kc]
+Seat 1: toppair collected (122)
+Seat 3: Dawez folded before Flop (didn't bet)
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 7: JotaSalva (button) folded before Flop (didn't bet)
+Seat 8: dGnAk (small blind) folded before Flop
+Seat 9: raposaoxxx (big blind) folded on the River
+
+
+
+PokerStars Hand #143332523014: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2015/11/04 20:19:34 ET
+Table '1370571394 4' 9-max Seat #8 is the button
+Seat 1: toppair (1543 in chips) 
+Seat 3: Dawez (2895 in chips) 
+Seat 4: rimtis (1764 in chips) 
+Seat 5: LILLS LUCK (2995 in chips) 
+Seat 7: JotaSalva (4504 in chips) 
+Seat 8: dGnAk (1333 in chips) 
+Seat 9: raposaoxxx (1438 in chips) 
+toppair: posts the ante 4
+Dawez: posts the ante 4
+rimtis: posts the ante 4
+LILLS LUCK: posts the ante 4
+JotaSalva: posts the ante 4
+dGnAk: posts the ante 4
+raposaoxxx: posts the ante 4
+raposaoxxx: posts small blind 15
+toppair: posts big blind 30
+*** HOLE CARDS ***
+Dealt to toppair [Tc 7s]
+Dawez: calls 30
+rimtis: folds 
+LILLS LUCK: calls 30
+JotaSalva: folds 
+dGnAk: folds 
+raposaoxxx: folds 
+toppair: checks 
+*** FLOP *** [8h Kd 9d]
+toppair: bets 66
+Dawez: calls 66
+LILLS LUCK: folds 
+*** TURN *** [8h Kd 9d] [Js]
+toppair: checks 
+Dawez: checks 
+*** RIVER *** [8h Kd 9d Js] [Qs]
+toppair: bets 265
+Dawez: folds 
+Uncalled bet (265) returned to toppair
+toppair collected 265 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot 265 | Rake 0 
+Board [8h Kd 9d Js Qs]
+Seat 1: toppair (big blind) collected (265)
+Seat 3: Dawez folded on the River
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK folded on the Flop
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk (button) folded before Flop (didn't bet)
+Seat 9: raposaoxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #143332548421: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2015/11/04 20:20:24 ET
+Table '1370571394 4' 9-max Seat #9 is the button
+Seat 1: toppair (1708 in chips) 
+Seat 3: Dawez (2795 in chips) 
+Seat 4: rimtis (1760 in chips) 
+Seat 5: LILLS LUCK (2961 in chips) 
+Seat 7: JotaSalva (4500 in chips) 
+Seat 8: dGnAk (1329 in chips) 
+Seat 9: raposaoxxx (1419 in chips) 
+toppair: posts the ante 4
+Dawez: posts the ante 4
+rimtis: posts the ante 4
+LILLS LUCK: posts the ante 4
+JotaSalva: posts the ante 4
+dGnAk: posts the ante 4
+raposaoxxx: posts the ante 4
+toppair: posts small blind 15
+Dawez: posts big blind 30
+*** HOLE CARDS ***
+Dealt to toppair [Kc 6d]
+rimtis: raises 37 to 67
+LILLS LUCK: calls 67
+JotaSalva: folds 
+dGnAk: folds 
+raposaoxxx: calls 67
+toppair: calls 52
+Dawez: calls 37
+*** FLOP *** [5d 9c Kh]
+toppair: checks 
+Dawez: checks 
+rimtis: checks 
+LILLS LUCK: bets 150
+raposaoxxx: folds 
+toppair: calls 150
+Dawez: folds 
+rimtis: folds 
+*** TURN *** [5d 9c Kh] [3c]
+toppair: checks 
+LILLS LUCK: checks 
+*** RIVER *** [5d 9c Kh 3c] [2h]
+toppair: checks 
+LILLS LUCK: bets 663
+toppair: calls 663
+*** SHOW DOWN ***
+LILLS LUCK: shows [Ah 8h] (high card Ace)
+toppair: shows [Kc 6d] (a pair of Kings)
+toppair collected 1989 from pot
+*** SUMMARY ***
+Total pot 1989 | Rake 0 
+Board [5d 9c Kh 3c 2h]
+Seat 1: toppair (small blind) showed [Kc 6d] and won (1989) with a pair of Kings
+Seat 3: Dawez (big blind) folded on the Flop
+Seat 4: rimtis folded on the Flop
+Seat 5: LILLS LUCK showed [Ah 8h] and lost with high card Ace
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: raposaoxxx (button) folded on the Flop
+
+
+
+PokerStars Hand #143332593233: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2015/11/04 20:21:52 ET
+Table '1370571394 4' 9-max Seat #1 is the button
+Seat 1: toppair (2813 in chips) 
+Seat 3: Dawez (2724 in chips) 
+Seat 4: rimtis (1689 in chips) 
+Seat 5: LILLS LUCK (2077 in chips) 
+Seat 7: JotaSalva (4496 in chips) 
+Seat 8: dGnAk (1325 in chips) 
+Seat 9: raposaoxxx (1348 in chips) 
+toppair: posts the ante 4
+Dawez: posts the ante 4
+rimtis: posts the ante 4
+LILLS LUCK: posts the ante 4
+JotaSalva: posts the ante 4
+dGnAk: posts the ante 4
+raposaoxxx: posts the ante 4
+Dawez: posts small blind 15
+rimtis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to toppair [4s Qc]
+LILLS LUCK: raises 120 to 150
+JotaSalva: folds 
+dGnAk: folds 
+raposaoxxx: folds 
+toppair: folds 
+Dawez: calls 135
+rimtis: folds 
+*** FLOP *** [7h 8s 2s]
+Dawez: bets 30
+LILLS LUCK: raises 418 to 448
+Dawez: calls 418
+*** TURN *** [7h 8s 2s] [Ah]
+Dawez: checks 
+LILLS LUCK: bets 150
+Dawez: calls 150
+*** RIVER *** [7h 8s 2s Ah] [Kd]
+Dawez: checks 
+LILLS LUCK: bets 1325 and is all-in
+Dawez: folds 
+Uncalled bet (1325) returned to LILLS LUCK
+LILLS LUCK collected 1554 from pot
+*** SUMMARY ***
+Total pot 1554 | Rake 0 
+Board [7h 8s 2s Ah Kd]
+Seat 1: toppair (button) folded before Flop (didn't bet)
+Seat 3: Dawez (small blind) folded on the River
+Seat 4: rimtis (big blind) folded before Flop
+Seat 5: LILLS LUCK collected (1554)
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: raposaoxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143332617678: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2015/11/04 20:22:40 ET
+Table '1370571394 4' 9-max Seat #3 is the button
+Seat 1: toppair (2809 in chips) 
+Seat 2: JCAJ03 (1453 in chips) 
+Seat 3: Dawez (1972 in chips) 
+Seat 4: rimtis (1655 in chips) 
+Seat 5: LILLS LUCK (2879 in chips) 
+Seat 6: Pugghwe (1473 in chips) 
+Seat 7: JotaSalva (4492 in chips) 
+Seat 8: dGnAk (1321 in chips) 
+Seat 9: raposaoxxx (1344 in chips) 
+toppair: posts the ante 4
+JCAJ03: posts the ante 4
+Dawez: posts the ante 4
+rimtis: posts the ante 4
+LILLS LUCK: posts the ante 4
+Pugghwe: posts the ante 4
+JotaSalva: posts the ante 4
+dGnAk: posts the ante 4
+raposaoxxx: posts the ante 4
+rimtis: posts small blind 15
+LILLS LUCK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to toppair [2c Jc]
+Pugghwe: folds 
+JotaSalva: raises 60 to 90
+dGnAk: folds 
+raposaoxxx: calls 90
+toppair: folds 
+JCAJ03: calls 90
+Dawez: folds 
+rimtis: calls 75
+LILLS LUCK: calls 60
+*** FLOP *** [5h 9c 5s]
+rimtis: checks 
+LILLS LUCK: checks 
+JotaSalva: bets 300
+raposaoxxx: calls 300
+JCAJ03: folds 
+rimtis: folds 
+LILLS LUCK: calls 300
+*** TURN *** [5h 9c 5s] [3d]
+LILLS LUCK: checks 
+JotaSalva: bets 750
+raposaoxxx: raises 200 to 950 and is all-in
+LILLS LUCK: raises 750 to 1700
+JotaSalva: raises 2398 to 4098 and is all-in
+LILLS LUCK: calls 785 and is all-in
+Uncalled bet (1613) returned to JotaSalva
+*** RIVER *** [5h 9c 5s 3d] [2s]
+*** SHOW DOWN ***
+LILLS LUCK: shows [Jd 5d] (three of a kind, Fives)
+JotaSalva: shows [Ah Ad] (two pair, Aces and Fives)
+LILLS LUCK collected 3070 from side pot
+raposaoxxx: shows [Kd Ks] (two pair, Kings and Fives)
+LILLS LUCK collected 4236 from main pot
+raposaoxxx finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 7306 Main pot 4236. Side pot 3070. | Rake 0 
+Board [5h 9c 5s 3d 2s]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded on the Flop
+Seat 3: Dawez (button) folded before Flop (didn't bet)
+Seat 4: rimtis (small blind) folded on the Flop
+Seat 5: LILLS LUCK (big blind) showed [Jd 5d] and won (7306) with three of a kind, Fives
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva showed [Ah Ad] and lost with two pair, Aces and Fives
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: raposaoxxx showed [Kd Ks] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #143332674586: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2015/11/04 20:24:32 ET
+Table '1370571394 4' 9-max Seat #4 is the button
+Seat 1: toppair (2805 in chips) 
+Seat 2: JCAJ03 (1359 in chips) 
+Seat 3: Dawez (1968 in chips) 
+Seat 4: rimtis (1561 in chips) 
+Seat 5: LILLS LUCK (7306 in chips) 
+Seat 6: Pugghwe (1469 in chips) 
+Seat 7: JotaSalva (1613 in chips) 
+Seat 8: dGnAk (1317 in chips) 
+toppair: posts the ante 6
+JCAJ03: posts the ante 6
+Dawez: posts the ante 6
+rimtis: posts the ante 6
+LILLS LUCK: posts the ante 6
+Pugghwe: posts the ante 6
+JotaSalva: posts the ante 6
+dGnAk: posts the ante 6
+LILLS LUCK: posts small blind 25
+Pugghwe: posts big blind 50
+*** HOLE CARDS ***
+Dealt to toppair [Qs 9d]
+JotaSalva: raises 1557 to 1607 and is all-in
+dGnAk: folds 
+toppair: folds 
+JCAJ03: folds 
+Dawez: folds 
+rimtis: folds 
+LILLS LUCK: folds 
+Pugghwe: folds 
+Uncalled bet (1557) returned to JotaSalva
+JotaSalva collected 173 from pot
+JotaSalva: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: Dawez folded before Flop (didn't bet)
+Seat 4: rimtis (button) folded before Flop (didn't bet)
+Seat 5: LILLS LUCK (small blind) folded before Flop
+Seat 6: Pugghwe (big blind) folded before Flop
+Seat 7: JotaSalva collected (173)
+Seat 8: dGnAk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143332691008: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2015/11/04 20:25:04 ET
+Table '1370571394 4' 9-max Seat #5 is the button
+Seat 1: toppair (2799 in chips) 
+Seat 2: JCAJ03 (1353 in chips) 
+Seat 3: Dawez (1962 in chips) 
+Seat 4: rimtis (1555 in chips) 
+Seat 5: LILLS LUCK (7275 in chips) 
+Seat 6: Pugghwe (1413 in chips) 
+Seat 7: JotaSalva (1730 in chips) 
+Seat 8: dGnAk (1311 in chips) 
+toppair: posts the ante 6
+JCAJ03: posts the ante 6
+Dawez: posts the ante 6
+rimtis: posts the ante 6
+LILLS LUCK: posts the ante 6
+Pugghwe: posts the ante 6
+JotaSalva: posts the ante 6
+dGnAk: posts the ante 6
+Pugghwe: posts small blind 25
+JotaSalva: posts big blind 50
+*** HOLE CARDS ***
+Dealt to toppair [7h 2s]
+dGnAk: folds 
+toppair: folds 
+JCAJ03: folds 
+Dawez: folds 
+rimtis: folds 
+LILLS LUCK: raises 50 to 100
+Pugghwe: folds 
+JotaSalva: raises 1624 to 1724 and is all-in
+LILLS LUCK: folds 
+Uncalled bet (1624) returned to JotaSalva
+JotaSalva collected 273 from pot
+JotaSalva: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: Dawez folded before Flop (didn't bet)
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK (button) folded before Flop
+Seat 6: Pugghwe (small blind) folded before Flop
+Seat 7: JotaSalva (big blind) collected (273)
+Seat 8: dGnAk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143332708891: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2015/11/04 20:25:40 ET
+Table '1370571394 4' 9-max Seat #6 is the button
+Seat 1: toppair (2793 in chips) 
+Seat 2: JCAJ03 (1347 in chips) 
+Seat 3: Dawez (1956 in chips) 
+Seat 4: rimtis (1549 in chips) 
+Seat 5: LILLS LUCK (7169 in chips) 
+Seat 6: Pugghwe (1382 in chips) 
+Seat 7: JotaSalva (1897 in chips) 
+Seat 8: dGnAk (1305 in chips) 
+toppair: posts the ante 6
+JCAJ03: posts the ante 6
+Dawez: posts the ante 6
+rimtis: posts the ante 6
+LILLS LUCK: posts the ante 6
+Pugghwe: posts the ante 6
+JotaSalva: posts the ante 6
+dGnAk: posts the ante 6
+JotaSalva: posts small blind 25
+dGnAk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to toppair [7d 6s]
+toppair: folds 
+JCAJ03: folds 
+Dawez: raises 50 to 100
+rimtis: folds 
+LILLS LUCK: raises 400 to 500
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: folds 
+Dawez: calls 400
+*** FLOP *** [6d 8s 8d]
+Dawez: checks 
+LILLS LUCK: bets 600
+Dawez: folds 
+Uncalled bet (600) returned to LILLS LUCK
+LILLS LUCK collected 1123 from pot
+*** SUMMARY ***
+Total pot 1123 | Rake 0 
+Board [6d 8s 8d]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: Dawez folded on the Flop
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK collected (1123)
+Seat 6: Pugghwe (button) folded before Flop (didn't bet)
+Seat 7: JotaSalva (small blind) folded before Flop
+Seat 8: dGnAk (big blind) folded before Flop
+
+
+
+PokerStars Hand #143332737448: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2015/11/04 20:26:37 ET
+Table '1370571394 4' 9-max Seat #7 is the button
+Seat 1: toppair (2787 in chips) 
+Seat 2: JCAJ03 (1341 in chips) 
+Seat 3: Dawez (1450 in chips) 
+Seat 4: rimtis (1543 in chips) 
+Seat 5: LILLS LUCK (7786 in chips) 
+Seat 6: Pugghwe (1376 in chips) 
+Seat 7: JotaSalva (1866 in chips) 
+Seat 8: dGnAk (1249 in chips) 
+toppair: posts the ante 6
+JCAJ03: posts the ante 6
+Dawez: posts the ante 6
+rimtis: posts the ante 6
+LILLS LUCK: posts the ante 6
+Pugghwe: posts the ante 6
+JotaSalva: posts the ante 6
+dGnAk: posts the ante 6
+dGnAk: posts small blind 25
+toppair: posts big blind 50
+*** HOLE CARDS ***
+Dealt to toppair [7h Ah]
+JCAJ03: folds 
+Dawez: calls 50
+rimtis: folds 
+LILLS LUCK: calls 50
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: calls 25
+toppair: checks 
+*** FLOP *** [7c Kc 7d]
+dGnAk: checks 
+toppair: bets 99
+Dawez: calls 99
+JCAJ03 is disconnected 
+LILLS LUCK: raises 201 to 300
+dGnAk: folds 
+toppair: calls 201
+Dawez: calls 201
+*** TURN *** [7c Kc 7d] [5s]
+toppair: bets 459
+Dawez: calls 459
+LILLS LUCK: folds 
+*** RIVER *** [7c Kc 7d 5s] [4c]
+toppair: bets 1033
+Dawez: calls 635 and is all-in
+Uncalled bet (398) returned to toppair
+*** SHOW DOWN ***
+toppair: shows [7h Ah] (three of a kind, Sevens)
+Dawez: shows [Ks Jd] (two pair, Kings and Sevens)
+toppair collected 3336 from pot
+Dawez finished the tournament in 30th place
+*** SUMMARY ***
+Total pot 3336 | Rake 0 
+Board [7c Kc 7d 5s 4c]
+Seat 1: toppair (big blind) showed [7h Ah] and won (3336) with three of a kind, Sevens
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: Dawez showed [Ks Jd] and lost with two pair, Kings and Sevens
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK folded on the Turn
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva (button) folded before Flop (didn't bet)
+Seat 8: dGnAk (small blind) folded on the Flop
+
+
+
+PokerStars Hand #143332784874: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2015/11/04 20:28:11 ET
+Table '1370571394 4' 9-max Seat #8 is the button
+Seat 1: toppair (4673 in chips) 
+Seat 2: JCAJ03 (1335 in chips) 
+Seat 4: rimtis (1537 in chips) 
+Seat 5: LILLS LUCK (7430 in chips) 
+Seat 6: Pugghwe (1370 in chips) 
+Seat 7: JotaSalva (1860 in chips) 
+Seat 8: dGnAk (1193 in chips) 
+toppair: posts the ante 6
+JCAJ03: posts the ante 6
+rimtis: posts the ante 6
+LILLS LUCK: posts the ante 6
+Pugghwe: posts the ante 6
+JotaSalva: posts the ante 6
+dGnAk: posts the ante 6
+toppair: posts small blind 25
+JCAJ03: posts big blind 50
+*** HOLE CARDS ***
+Dealt to toppair [Ad Td]
+rimtis: folds 
+LILLS LUCK: folds 
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: calls 50
+toppair: calls 25
+JCAJ03: checks 
+*** FLOP *** [Kd 4h 7c]
+toppair: bets 76
+JCAJ03: folds 
+dGnAk: calls 76
+*** TURN *** [Kd 4h 7c] [4c]
+toppair: checks 
+dGnAk: checks 
+*** RIVER *** [Kd 4h 7c 4c] [6c]
+toppair: bets 137
+dGnAk: folds 
+Uncalled bet (137) returned to toppair
+toppair collected 344 from pot
+toppair: doesn't show hand 
+*** SUMMARY ***
+Total pot 344 | Rake 0 
+Board [Kd 4h 7c 4c 6c]
+Seat 1: toppair (small blind) collected (344)
+Seat 2: JCAJ03 (big blind) folded on the Flop
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK folded before Flop (didn't bet)
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk (button) folded on the River
+
+
+
+PokerStars Hand #143332828517: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2015/11/04 20:29:38 ET
+Table '1370571394 4' 9-max Seat #1 is the button
+Seat 1: toppair (4885 in chips) 
+Seat 2: JCAJ03 (1279 in chips) 
+Seat 3: zetaco (3290 in chips) 
+Seat 4: rimtis (1531 in chips) 
+Seat 5: LILLS LUCK (7424 in chips) 
+Seat 6: Pugghwe (1364 in chips) 
+Seat 7: JotaSalva (1854 in chips) 
+Seat 8: dGnAk (1061 in chips) 
+Seat 9: Pedrofelix00 (5207 in chips) 
+toppair: posts the ante 10
+JCAJ03: posts the ante 10
+zetaco: posts the ante 10
+rimtis: posts the ante 10
+LILLS LUCK: posts the ante 10
+Pugghwe: posts the ante 10
+JotaSalva: posts the ante 10
+dGnAk: posts the ante 10
+Pedrofelix00: posts the ante 10
+JCAJ03: posts small blind 40
+zetaco: posts big blind 80
+*** HOLE CARDS ***
+Dealt to toppair [7d 9c]
+rimtis: folds 
+LILLS LUCK: raises 80 to 160
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: folds 
+Pedrofelix00: calls 160
+toppair: calls 160
+JCAJ03: raises 1109 to 1269 and is all-in
+zetaco: folds 
+LILLS LUCK: calls 1109
+Pedrofelix00: folds 
+toppair: folds 
+*** FLOP *** [3h 3s 4s]
+*** TURN *** [3h 3s 4s] [7h]
+*** RIVER *** [3h 3s 4s 7h] [4h]
+*** SHOW DOWN ***
+JCAJ03: shows [Tc Ac] (two pair, Fours and Threes)
+LILLS LUCK: shows [2d 2s] (two pair, Fours and Threes - lower kicker)
+JCAJ03 collected 3028 from pot
+*** SUMMARY ***
+Total pot 3028 | Rake 0 
+Board [3h 3s 4s 7h 4h]
+Seat 1: toppair (button) folded before Flop
+Seat 2: JCAJ03 (small blind) showed [Tc Ac] and won (3028) with two pair, Fours and Threes
+Seat 3: zetaco (big blind) folded before Flop
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK showed [2d 2s] and lost with two pair, Fours and Threes
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: Pedrofelix00 folded before Flop
+
+
+
+PokerStars Hand #143332867205: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2015/11/04 20:30:55 ET
+Table '1370571394 4' 9-max Seat #2 is the button
+Seat 1: toppair (4715 in chips) 
+Seat 2: JCAJ03 (3028 in chips) 
+Seat 3: zetaco (3200 in chips) 
+Seat 4: rimtis (1521 in chips) 
+Seat 5: LILLS LUCK (6145 in chips) 
+Seat 6: Pugghwe (1354 in chips) 
+Seat 7: JotaSalva (1844 in chips) 
+Seat 8: dGnAk (1051 in chips) 
+Seat 9: Pedrofelix00 (5037 in chips) 
+toppair: posts the ante 10
+JCAJ03: posts the ante 10
+zetaco: posts the ante 10
+rimtis: posts the ante 10
+LILLS LUCK: posts the ante 10
+Pugghwe: posts the ante 10
+JotaSalva: posts the ante 10
+dGnAk: posts the ante 10
+Pedrofelix00: posts the ante 10
+zetaco: posts small blind 40
+rimtis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to toppair [Js Kc]
+LILLS LUCK: folds 
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: folds 
+Pedrofelix00: raises 80 to 160
+toppair: calls 160
+JCAJ03: folds 
+zetaco: calls 120
+rimtis: folds 
+*** FLOP *** [Td 3d 6d]
+zetaco: checks 
+Pedrofelix00: bets 240
+toppair: folds 
+zetaco: raises 240 to 480
+Pedrofelix00: calls 240
+*** TURN *** [Td 3d 6d] [7s]
+zetaco: checks 
+Pedrofelix00: checks 
+*** RIVER *** [Td 3d 6d 7s] [9s]
+zetaco: bets 960
+Pedrofelix00: calls 960
+*** SHOW DOWN ***
+zetaco: shows [Kd Jd] (a flush, King high)
+Pedrofelix00: mucks hand 
+zetaco collected 3530 from pot
+*** SUMMARY ***
+Total pot 3530 | Rake 0 
+Board [Td 3d 6d 7s 9s]
+Seat 1: toppair folded on the Flop
+Seat 2: JCAJ03 (button) folded before Flop (didn't bet)
+Seat 3: zetaco (small blind) showed [Kd Jd] and won (3530) with a flush, King high
+Seat 4: rimtis (big blind) folded before Flop
+Seat 5: LILLS LUCK folded before Flop (didn't bet)
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: Pedrofelix00 mucked [Jc 9d]
+
+
+
+PokerStars Hand #143332900436: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2015/11/04 20:32:02 ET
+Table '1370571394 4' 9-max Seat #3 is the button
+Seat 1: toppair (4545 in chips) 
+Seat 2: JCAJ03 (3018 in chips) 
+Seat 3: zetaco (5120 in chips) 
+Seat 4: rimtis (1431 in chips) 
+Seat 5: LILLS LUCK (6135 in chips) 
+Seat 6: Pugghwe (1344 in chips) 
+Seat 7: JotaSalva (1834 in chips) 
+Seat 8: dGnAk (1041 in chips) 
+Seat 9: Pedrofelix00 (3427 in chips) 
+toppair: posts the ante 10
+JCAJ03: posts the ante 10
+zetaco: posts the ante 10
+rimtis: posts the ante 10
+LILLS LUCK: posts the ante 10
+Pugghwe: posts the ante 10
+JotaSalva: posts the ante 10
+dGnAk: posts the ante 10
+Pedrofelix00: posts the ante 10
+rimtis: posts small blind 40
+LILLS LUCK: posts big blind 80
+*** HOLE CARDS ***
+Dealt to toppair [Th Kh]
+Pugghwe: folds 
+JotaSalva: folds 
+dGnAk: folds 
+Pedrofelix00: calls 80
+toppair: raises 80 to 160
+JCAJ03: folds 
+zetaco: folds 
+rimtis: folds 
+LILLS LUCK: calls 80
+Pedrofelix00: raises 3257 to 3417 and is all-in
+toppair: calls 3257
+LILLS LUCK: folds 
+*** FLOP *** [Jh 6s 3c]
+*** TURN *** [Jh 6s 3c] [7c]
+*** RIVER *** [Jh 6s 3c 7c] [9h]
+*** SHOW DOWN ***
+Pedrofelix00: shows [Qc Ac] (high card Ace)
+toppair: shows [Th Kh] (high card King)
+Pedrofelix00 collected 7124 from pot
+*** SUMMARY ***
+Total pot 7124 | Rake 0 
+Board [Jh 6s 3c 7c 9h]
+Seat 1: toppair showed [Th Kh] and lost with high card King
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: zetaco (button) folded before Flop (didn't bet)
+Seat 4: rimtis (small blind) folded before Flop
+Seat 5: LILLS LUCK (big blind) folded before Flop
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 8: dGnAk folded before Flop (didn't bet)
+Seat 9: Pedrofelix00 showed [Qc Ac] and won (7124) with high card Ace
+
+
+
+PokerStars Hand #143332931556: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2015/11/04 20:33:04 ET
+Table '1370571394 4' 9-max Seat #4 is the button
+Seat 1: toppair (1118 in chips) 
+Seat 2: JCAJ03 (3008 in chips) 
+Seat 3: zetaco (5110 in chips) 
+Seat 4: rimtis (1381 in chips) 
+Seat 5: LILLS LUCK (5965 in chips) 
+Seat 6: Pugghwe (1334 in chips) 
+Seat 7: JotaSalva (1824 in chips) 
+Seat 9: Pedrofelix00 (7124 in chips) 
+toppair: posts the ante 10
+JCAJ03: posts the ante 10
+zetaco: posts the ante 10
+rimtis: posts the ante 10
+LILLS LUCK: posts the ante 10
+Pugghwe: posts the ante 10
+JotaSalva: posts the ante 10
+Pedrofelix00: posts the ante 10
+LILLS LUCK: posts small blind 40
+Pugghwe: posts big blind 80
+*** HOLE CARDS ***
+Dealt to toppair [6h 8c]
+JotaSalva: folds 
+Pedrofelix00: calls 80
+toppair: folds 
+JCAJ03: folds 
+zetaco: folds 
+rimtis: raises 100 to 180
+LILLS LUCK: calls 140
+Pugghwe: folds 
+Pedrofelix00: calls 100
+*** FLOP *** [4d 5c Jh]
+LILLS LUCK: checks 
+Pedrofelix00: bets 240
+rimtis: calls 240
+LILLS LUCK: calls 240
+*** TURN *** [4d 5c Jh] [6d]
+LILLS LUCK: checks 
+Pedrofelix00: checks 
+rimtis: bets 951 and is all-in
+LILLS LUCK: calls 951
+Pedrofelix00: folds 
+*** RIVER *** [4d 5c Jh 6d] [3c]
+*** SHOW DOWN ***
+LILLS LUCK: shows [4h 8h] (a pair of Fours)
+rimtis: shows [Js Jd] (three of a kind, Jacks)
+rimtis collected 3322 from pot
+*** SUMMARY ***
+Total pot 3322 | Rake 0 
+Board [4d 5c Jh 6d 3c]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: zetaco folded before Flop (didn't bet)
+Seat 4: rimtis (button) showed [Js Jd] and won (3322) with three of a kind, Jacks
+Seat 5: LILLS LUCK (small blind) showed [4h 8h] and lost with a pair of Fours
+Seat 6: Pugghwe (big blind) folded before Flop
+Seat 7: JotaSalva folded before Flop (didn't bet)
+Seat 9: Pedrofelix00 folded on the Turn
+
+
+
+PokerStars Hand #143332967788: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2015/11/04 20:34:18 ET
+Table '1370571394 4' 9-max Seat #5 is the button
+Seat 1: toppair (1108 in chips) 
+Seat 2: JCAJ03 (2998 in chips) 
+Seat 3: zetaco (5100 in chips) 
+Seat 4: rimtis (3322 in chips) 
+Seat 5: LILLS LUCK (4584 in chips) 
+Seat 6: Pugghwe (1244 in chips) 
+Seat 7: JotaSalva (1814 in chips) 
+Seat 9: Pedrofelix00 (6694 in chips) 
+toppair: posts the ante 15
+JCAJ03: posts the ante 15
+zetaco: posts the ante 15
+rimtis: posts the ante 15
+LILLS LUCK: posts the ante 15
+Pugghwe: posts the ante 15
+JotaSalva: posts the ante 15
+Pedrofelix00: posts the ante 15
+Pugghwe: posts small blind 60
+JotaSalva: posts big blind 120
+*** HOLE CARDS ***
+Dealt to toppair [5c Jd]
+Pedrofelix00: calls 120
+toppair: folds 
+JCAJ03: folds 
+zetaco: folds 
+rimtis: folds 
+LILLS LUCK: calls 120
+Pugghwe: folds 
+JotaSalva: checks 
+*** FLOP *** [7h 4d 8c]
+JotaSalva: checks 
+Pedrofelix00: checks 
+LILLS LUCK: bets 960
+JotaSalva: folds 
+Pedrofelix00: folds 
+Uncalled bet (960) returned to LILLS LUCK
+LILLS LUCK collected 540 from pot
+JotaSalva said, "&-B<'))><"
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [7h 4d 8c]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 folded before Flop (didn't bet)
+Seat 3: zetaco folded before Flop (didn't bet)
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK (button) collected (540)
+Seat 6: Pugghwe (small blind) folded before Flop
+Seat 7: JotaSalva (big blind) folded on the Flop
+Seat 9: Pedrofelix00 folded on the Flop
+
+
+
+PokerStars Hand #143332991019: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2015/11/04 20:35:05 ET
+Table '1370571394 4' 9-max Seat #6 is the button
+Seat 1: toppair (1093 in chips) 
+Seat 2: JCAJ03 (2983 in chips) 
+Seat 3: zetaco (5085 in chips) 
+Seat 4: rimtis (3307 in chips) 
+Seat 5: LILLS LUCK (4989 in chips) 
+Seat 6: Pugghwe (1169 in chips) 
+Seat 7: JotaSalva (1679 in chips) 
+Seat 9: Pedrofelix00 (6559 in chips) 
+toppair: posts the ante 15
+JCAJ03: posts the ante 15
+zetaco: posts the ante 15
+rimtis: posts the ante 15
+LILLS LUCK: posts the ante 15
+Pugghwe: posts the ante 15
+JotaSalva: posts the ante 15
+Pedrofelix00: posts the ante 15
+JotaSalva: posts small blind 60
+Pedrofelix00: posts big blind 120
+*** HOLE CARDS ***
+Dealt to toppair [4h 6h]
+toppair: folds 
+JCAJ03: raises 120 to 240
+zetaco: folds 
+rimtis: folds 
+LILLS LUCK: calls 240
+Pugghwe: folds 
+JotaSalva: calls 180
+Pedrofelix00: calls 120
+*** FLOP *** [3h 6c 8h]
+JotaSalva: checks 
+Pedrofelix00: checks 
+JCAJ03: bets 600
+LILLS LUCK: calls 600
+JotaSalva: folds 
+Pedrofelix00: folds 
+*** TURN *** [3h 6c 8h] [7s]
+JCAJ03: bets 1200
+LILLS LUCK: raises 1200 to 2400
+JCAJ03: calls 928 and is all-in
+Uncalled bet (272) returned to LILLS LUCK
+*** RIVER *** [3h 6c 8h 7s] [Tc]
+*** SHOW DOWN ***
+JCAJ03: shows [Ad 8c] (a pair of Eights)
+LILLS LUCK: shows [As Ah] (a pair of Aces)
+LILLS LUCK collected 6536 from pot
+JCAJ03 finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 6536 | Rake 0 
+Board [3h 6c 8h 7s Tc]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: JCAJ03 showed [Ad 8c] and lost with a pair of Eights
+Seat 3: zetaco folded before Flop (didn't bet)
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK showed [As Ah] and won (6536) with a pair of Aces
+Seat 6: Pugghwe (button) folded before Flop (didn't bet)
+Seat 7: JotaSalva (small blind) folded on the Flop
+Seat 9: Pedrofelix00 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #143333021504: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2015/11/04 20:36:08 ET
+Table '1370571394 4' 9-max Seat #7 is the button
+Seat 1: toppair (1078 in chips) 
+Seat 3: zetaco (5070 in chips) 
+Seat 4: rimtis (3292 in chips) 
+Seat 5: LILLS LUCK (8542 in chips) 
+Seat 6: Pugghwe (1154 in chips) 
+Seat 7: JotaSalva (1424 in chips) 
+Seat 9: Pedrofelix00 (6304 in chips) 
+toppair: posts the ante 15
+zetaco: posts the ante 15
+rimtis: posts the ante 15
+LILLS LUCK: posts the ante 15
+Pugghwe: posts the ante 15
+JotaSalva: posts the ante 15
+Pedrofelix00: posts the ante 15
+Pedrofelix00: posts small blind 60
+toppair: posts big blind 120
+*** HOLE CARDS ***
+Dealt to toppair [Jh Kc]
+zetaco: folds 
+rimtis: folds 
+LILLS LUCK: folds 
+Pugghwe: folds 
+JotaSalva: folds 
+Pedrofelix00: raises 240 to 360
+toppair: calls 240
+*** FLOP *** [8d 6s 5s]
+Pedrofelix00: bets 5929 and is all-in
+toppair: calls 703 and is all-in
+Uncalled bet (5226) returned to Pedrofelix00
+*** TURN *** [8d 6s 5s] [3d]
+*** RIVER *** [8d 6s 5s 3d] [4d]
+*** SHOW DOWN ***
+Pedrofelix00: shows [As Qd] (high card Ace)
+toppair: shows [Jh Kc] (high card King)
+Pedrofelix00 collected 2231 from pot
+toppair finished the tournament in 19th place
+*** SUMMARY ***
+Total pot 2231 | Rake 0 
+Board [8d 6s 5s 3d 4d]
+Seat 1: toppair (big blind) showed [Jh Kc] and lost with high card King
+Seat 3: zetaco folded before Flop (didn't bet)
+Seat 4: rimtis folded before Flop (didn't bet)
+Seat 5: LILLS LUCK folded before Flop (didn't bet)
+Seat 6: Pugghwe folded before Flop (didn't bet)
+Seat 7: JotaSalva (button) folded before Flop (didn't bet)
+Seat 9: Pedrofelix00 (small blind) showed [As Qd] and won (2231) with high card Ace
+
+
+
