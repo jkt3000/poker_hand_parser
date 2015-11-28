@@ -5,7 +5,7 @@ require "minitest/autorun"
 
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
-require 'poker_parser'
+require 'poker_hand_parser'
 
 
 ActiveSupport.test_order = :random

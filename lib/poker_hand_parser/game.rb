@@ -1,4 +1,4 @@
-module PokerParser
+module PokerHandParser
 
   # game class
   class Game

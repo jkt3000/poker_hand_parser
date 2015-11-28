@@ -2,7 +2,7 @@ require 'test_helper'
 
 
 
-class PokerParserTest < ActiveSupport::TestCase
+class PokerHandParserTest < ActiveSupport::TestCase
     
   setup do
 
@@ -14,6 +14,6 @@ class PokerParserTest < ActiveSupport::TestCase
 
   test "import file" do
     @input_file = input_file('ps_hands.txt')
-    PokerParser.import(@input_file)
+    PokerHandParser.import(@input_file)
   end
 end

@@ -1,6 +1,6 @@
-# PokerParser
+# PokerHandParser
 
-PokerParser is a ruby gem that parses poker hand histories and converts them into Poker Markup Language (PML), a very basic JSON-based format.
+PokerHandParser is a ruby gem that parses poker hand histories and converts them into Poker Markup Language (PML), a very basic JSON-based format.
 
 The following poker hand histories can be imported:
 - pokerstars
@@ -15,7 +15,7 @@ For each valid hand found, produces JSON text of the hand
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'poker_parser'
+gem 'poker_hand_parser'
 ```
 
 And then execute:
@@ -24,7 +24,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install poker_parser
+    $ gem install poker_hand_parser
 
 ## Usage
 
@@ -32,7 +32,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/poker_parser/fork )
+1. Fork it ( https://github.com/[my-github-username]/poker_hand_parser/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

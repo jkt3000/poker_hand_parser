@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'poker_parser/version'
+require 'poker_hand_parser/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "poker_parser"
-  spec.version       = PokerParser::VERSION
+  spec.name          = "poker_hand_parser"
+  spec.version       = PokerHandParser::VERSION
   spec.authors       = ["John Tajima"]
   spec.email         = ["manjiro@gmail.com"]
-  spec.summary       = %q{PokerParser is a simple poker hand history parser}
-  spec.description   = %q{PokerParser parses poker hand histories into a simple JSON format}
+  spec.summary       = %q{PokerHandParser is a simple poker hand history parser}
+  spec.description   = %q{PokerHandParser parses poker hand histories into a simple JSON format}
   spec.homepage      = ""
   spec.license       = "MIT"
 
