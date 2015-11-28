@@ -7,11 +7,5 @@ module PokerHandParser
     end
   end
 
-  class Player
-
-    def initialize
-    end
-  end
-
 
 end
