@@ -1,0 +1,72 @@
+# sample poker hand Markup
+
+{
+  "game_id": "1234567890",
+  "played_at": "2015-05-04 10:00:00",
+  "table": {
+    "host": "Pokerstars",
+    "type": "Zoom NL Holdem ($0.25/$0.50 USD)",
+    "name": "Alarmi",
+    "currency": "$ ($/chips/...)",
+    "max_size": 9,
+    "seating": {
+      "seat1": {
+        "name": "johnsmith",
+        "stack": 10
+      },
+      "seat2": {
+        "name": "Frank the Tank",
+        "stack": 10
+      },
+      "seat3": {
+        "name": "KidPoker",
+        "stack": 10.50
+      },
+      "seat4": {
+        "name": "PhilLaak",
+        "stack": 6.43
+      }
+    }
+  },
+  "hero": "johnsmith",
+  "button": 2,
+  "action": {
+    "preflop": [
+      { "seat1": "<ante> 0.03" },
+      { "seat1": "<sb> 0.02" },
+      { "seat2": "<bb> 0.03" },
+      { "seat3": "<call> 0.03" },
+      { "seat4": "<fold>" },
+      { "seat5": "<fold>" },
+      { "seat6": "<bet> 12.00" }
+    ],
+    "flop": [
+      { "deal": "5h 4s 9d" },
+      { "seat1": "<check>" },
+      { "seat2": "<bet> 10.00" },
+      { "seat3": "<fold>" },
+      { "seat4": "<fold>" }
+    ],
+    "turn": [
+      { "deal": "Ah" },
+    ],
+    "river": [
+      { "deal": "Kh" }
+    ],
+    "showdown": [
+      { "seat1": "<mucks>" },
+      { "seat3": "<show> 5h 4d" },
+    ]
+  },
+  "winners": [
+    { "seat1": 12.00 },
+    { "seat2": 12.00 }
+  ],
+  "total_pot": 111,
+  "rake": 0,
+
+  "contributor_name": "John Smith",
+  "contributor_email": "john@poker.com",
+  "title": "How would you play AA?",
+  "description": "This is a weird hand...take a look. <markdown>"
+}
