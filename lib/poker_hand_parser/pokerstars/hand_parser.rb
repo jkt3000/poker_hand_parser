@@ -64,8 +64,8 @@ module PokerHandParser
       # Table 'ZemUU8uyOTYQAgqnaWQDUA' 6-max Seat #4 is the button
       #
       def parse_game_details
-        game_data   = events[:settings].first
-        table_data  = events[:settings][1]
+        game_data  = events[:settings].first
+        table_data = events[:settings][1]
         
         game_id, remainder = game_data.split(": ", 2)
         game_name, date = remainder.split(" - ", 2)
@@ -85,11 +85,11 @@ module PokerHandParser
       def parse_players
         seats = events[:settings].select {|entry| entry.match(/\ASeat \d+/) }
         seats.each do |entry|
-          id = entry.match(/\ASeat (\d+):/)[1].to_i
+          id         = entry.match(/\ASeat (\d+):/)[1].to_i
           name_stack = entry.split(":").last
-          name = name_stack.match(/([^(]+)/)[1].to_s.strip
-          stack = name_stack.match(/\(.(\d+.\d+) in chips\)/)[1].to_f
-          player = {name: name, seat: id, stack: stack}
+          name       = name_stack.match(/([^(]+)/)[1].to_s.strip
+          stack      = name_stack.match(/\(.(\d+.\d+) in chips\)/)[1].to_f
+          player     = {name: name, seat: id, stack: stack}
           @players << player
         end
       end
@@ -129,6 +129,7 @@ module PokerHandParser
           end
           #logger.debug("Found for event '#{event}':\n#{results}")
           @events[event] ||= results.to_s.gsub(/\n\n/,"\n").gsub(/^A\s*\n\s*^Z/,'').split("\n")
+          # remove any leading and ending blank lines
         end
       end
 

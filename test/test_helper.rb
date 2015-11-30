@@ -16,8 +16,12 @@ class ActiveSupport::TestCase
     File.join(fixture_path, filename)
   end
 
+
   def fixture_path
     File.expand_path(File.dirname(__FILE__) + "/fixtures")
+  end
+  def read_file(filename)
+    File.read(input_file(filename))
   end
 
 end

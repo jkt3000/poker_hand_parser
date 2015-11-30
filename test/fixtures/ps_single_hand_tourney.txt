@@ -1,0 +1,55 @@
+PokerStars Hand #143332391801: Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2015/11/04 20:15:23 ET
+Table '1370571394 3' 9-max Seat #2 is the button
+Seat 1: toppair (1497 in chips) 
+Seat 2: mar46cell (1487 in chips) 
+Seat 3: Duh.RAR (1237 in chips) 
+Seat 4: nick zic (1497 in chips) 
+Seat 6: RLVV30 (1497 in chips) 
+Seat 7: brantapia (1497 in chips) 
+Seat 8: Marcomxpx (1497 in chips) 
+Seat 9: ecolife (3291 in chips) 
+toppair: posts the ante 3
+mar46cell: posts the ante 3
+Duh.RAR: posts the ante 3
+nick zic: posts the ante 3
+RLVV30: posts the ante 3
+brantapia: posts the ante 3
+Marcomxpx: posts the ante 3
+ecolife: posts the ante 3
+Duh.RAR: posts small blind 10
+nick zic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to toppair [Ks 5d]
+RLVV30: folds 
+brantapia: raises 30 to 50
+Marcomxpx: folds 
+ecolife: folds 
+toppair: folds 
+mar46cell: calls 50
+Duh.RAR: calls 40
+nick zic: calls 30
+*** FLOP *** [Qc 6c 7h]
+Duh.RAR: bets 224
+nick zic: calls 224
+brantapia: folds 
+mar46cell: folds 
+*** TURN *** [Qc 6c 7h] [Td]
+Duh.RAR: bets 960 and is all-in
+nick zic: calls 960
+*** RIVER *** [Qc 6c 7h Td] [Jh]
+*** SHOW DOWN ***
+Duh.RAR: shows [6h 3d] (a pair of Sixes)
+nick zic: shows [Jc Qh] (two pair, Queens and Jacks)
+nick zic collected 2592 from pot
+Duh.RAR finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 2592 | Rake 0 
+Board [Qc 6c 7h Td Jh]
+Seat 1: toppair folded before Flop (didn't bet)
+Seat 2: mar46cell (button) folded on the Flop
+Seat 3: Duh.RAR (small blind) showed [6h 3d] and lost with a pair of Sixes
+Seat 4: nick zic (big blind) showed [Jc Qh] and won (2592) with two pair, Queens and Jacks
+Seat 6: RLVV30 folded before Flop (didn't bet)
+Seat 7: brantapia folded on the Flop
+Seat 8: Marcomxpx folded before Flop (didn't bet)
+Seat 9: ecolife folded before Flop (didn't bet)
