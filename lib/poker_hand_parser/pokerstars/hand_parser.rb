@@ -44,11 +44,7 @@ module PokerHandParser
         parse_turn
         parse_river
         summarize_results
-      end
-
-      def parse_to_json
-        parse
-        to_json
+        # return hash
       end
 
       # :game_id
@@ -128,7 +124,7 @@ module PokerHandParser
             results = remaining
           end
           #logger.debug("Found for event '#{event}':\n#{results}")
-          @events[event] ||= results.to_s.gsub(/\n\n/,"\n").gsub(/^A\s*\n\s*^Z/,'').split("\n")
+          @events[event] ||= results.to_s.gsub(/\n\n/,"\n").gsub(/^$\n/,'').split("\n")
           # remove any leading and ending blank lines
         end
       end

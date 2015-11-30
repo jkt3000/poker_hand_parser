@@ -3,13 +3,12 @@ require 'test_helper'
 class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
   setup do
-    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("ps_single_hand1.txt"))
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/hand1.txt"))
   end
 
   # create
 
   test "#create instance of Pokerstars::HandParser breaks raw events into categories" do
-    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("ps_single_hand1.txt"))
     assert @parser.events[:settings].present?
     assert @parser.events[:preflop].present?
     assert @parser.events[:flop].present?
@@ -19,7 +18,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   end
 
   test "#create breaks events into categories when missing some events" do
-    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("ps_single_hand2.txt"))
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/hand2.txt"))
     assert @parser.events[:settings].present?
     assert @parser.events[:preflop].present?
     assert @parser.events[:flop].blank?
@@ -31,7 +30,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   # parse_game_details
 
   test "#parse_game_details extracts parameters for cash game" do
-    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("ps_single_hand1.txt"))
     @parser.parse_game_details
     @game = @parser.game_details
     assert_equal "59950643732", @game[:game_id]
@@ -44,7 +42,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   end
 
   test "#parse_game_details extracts parameters for tournament game" do
-    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("ps_single_hand_tourney.txt"))
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/tourney_hand.txt"))
     @parser.parse_game_details
     @game = @parser.game_details
 
