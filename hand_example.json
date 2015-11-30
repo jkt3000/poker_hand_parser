@@ -2,34 +2,36 @@
 
 {
   "game_id": "1234567890",
+  "game_name": "Zoom NL Holdem ($0.25/$0.50 USD)",
+  "game_host": "Pokerstars",
   "played_at": "2015-05-04 10:00:00",
-  "table": {
-    "host": "Pokerstars",
-    "type": "Zoom NL Holdem ($0.25/$0.50 USD)",
-    "name": "Alarmi",
-    "currency": "$ ($/chips/...)",
-    "max_size": 9,
-    "seating": {
-      "seat1": {
-        "name": "johnsmith",
-        "stack": 10
-      },
-      "seat2": {
-        "name": "Frank the Tank",
-        "stack": 10
-      },
-      "seat3": {
-        "name": "KidPoker",
-        "stack": 10.50
-      },
-      "seat4": {
-        "name": "PhilLaak",
-        "stack": 6.43
-      }
+  "button": 2,
+  "currency": "$ ($/chips/...)",
+  "table_name": "Alarmi",
+  "table_size": 9,
+  "players": {
+    "seat1": {
+      "name": "johnsmith",
+      "seat": 1,
+      "stack": 10
+    },
+    "seat2": {
+      "name": "Frank the Tank",
+      "seat": 2,
+      "stack": 10
+    },
+    "seat3": {
+      "name": "KidPoker",
+      "seat": 3,
+      "stack": 10.50
+    },
+    "seat4": {
+      "name": "PhilLaak",
+      "seat": 4,
+      "stack": 6.43
     }
   },
-  "hero": "johnsmith",
-  "button": 2,
+
   "action": {
     "preflop": [
       { "seat1": "<ante> 0.03" },
@@ -58,15 +60,18 @@
       { "seat3": "<show> 5h 4d" },
     ]
   },
-  "winners": [
-    { "seat1": 12.00 },
-    { "seat2": 12.00 }
+  "results": [
+    "winners" : [
+      { "seat1": 12.00 },
+      { "seat2": 12.00 }
+    ],
+    "total_pot": 111,
+    "rake": 0
   ],
-  "total_pot": 111,
-  "rake": 0,
 
-  "contributor_name": "John Smith",
-  "contributor_email": "john@poker.com",
+  "creator_name": "John Smith",
+  "creator_email": "john@poker.com",
+  "created_at": "",
   "title": "How would you play AA?",
   "description": "This is a weird hand...take a look. <markdown>"
 }
