@@ -10,48 +10,43 @@ require "poker_hand_parser/pokerstars/hand_parser"
 
 module PokerHandParser
 
-  RESULTS = {
-    hands: [],
-    errors: [],
-    parsed: 0,
-    failed: 0
-  }.freeze
-
   extend self
 
-  # parses input fiile and returns hash of results
-  def parse(filehandle, json: false)
-    results         = RESULTS.dup
-    sanitized_games = process_input_file(filehandle)
-    hand_parser     = detect_parser_type(sanitized_games)
+  def parse_file(file, json: false)
+    hand_histories = process_input_file(file)
 
-    sanitized_games.inject(RESULTS.dup) do |results, hand|
-      game = hand_parser.process_game(hand)
-      if game.parsed?
-        results[:hands] << game.to_hash
+    results = { hands: [], failed: [] }
+    hand_histories.inject(results) do |results, hand|
+      if game = parse_hand(hand)
+        results[:hands] << game
       else
-        results[:errors] << game.errors
+        results[:failed] << hand
       end
       results
     end
-    results[:parsed] = results[:hands].count
-    results[:failed] = results[:errors].count
-    results
-    # convert to json format if json is set to true
+    json ? results.to_json : results
   end
 
-  # returns hash of processed hand
-  def process_game(history)
-    # determine host game (pokerstars, etc...)
-    # initialize proper parser
+  # parses a single hand history and returns hash of hand or nil if fails
+  def parse_hand(hand)
+    parser_model = detect_parser_type(hand)
+    parser       = parser_model.new(hand)
+    parser.parse
   end
 
   def process_input_file(file)
-    # split file into array of game logs
+    raise StandardError, "File not found or invalid" unless File.exists?(file)
+    contents = File.read(file)
+    hands = contents.split(/^$\n{3}|(\r\n){3}/)
+    hands = hands.map do |hand|
+      hand.gsub(/^$\n|\r\n/, '')
+    end.compact
+    hands.reject(&:blank?)
   end
 
+  # future - return the proper parser type
   def detect_parser_type(hands)
-    # determine type of parser based on format of file
+    PokerHandParser::Pokerstars::HandParser
   end
 
 
