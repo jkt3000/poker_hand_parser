@@ -1,6 +1,8 @@
 module PokerHandParser
   module Pokerstars
 
+    class ParseError < StandardError; end
+
     class HandParser
 
       PARSER_TYPE = "Pokerstars"
@@ -44,25 +46,22 @@ module PokerHandParser
         parse_turn
         parse_river
         summarize_results
-        # return hash
+        @parsed_at = Time.now.utc
+        to_hash
+      rescue ParseError => e
+        logger.debug("Error parsing hand history: #{e}")
+        nil
       end
 
-      # :game_id
-      # :game_host
-      # :game_name
-      # :table_name
-      # :table_size
-      # :button
-      # :currency
-      # :played_at
-      #
-      # PokerStars Zoom Hand #143045674297:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:45:58 ET
-      # Table 'ZemUU8uyOTYQAgqnaWQDUA' 6-max Seat #4 is the button
-      #
       def parse_game_details
+        raise ParseError, "Settings data is blank" unless events[:settings] 
+        # should fail earlier, on init?
         game_data  = events[:settings].first
         table_data = events[:settings][1]
         
+        raise ParseError, "Game data is blank" if game_data.blank? 
+        raise ParseError, "Table data is blank" if table_data.blank?
+
         game_id, remainder = game_data.split(": ", 2)
         game_name, date = remainder.split(" - ", 2)
 
@@ -77,7 +76,6 @@ module PokerHandParser
         @game_details[:button]     = table_data.match(/Seat \#(\d)/)[1].to_i
       end
 
-      # Find out everyone in which seats
       def parse_players
         seats = events[:settings].select {|entry| entry.match(/\ASeat \d+/) }
         seats.each do |entry|
@@ -129,8 +127,20 @@ module PokerHandParser
         end
       end
 
-      def to_json
-        # noop
+      def to_hash
+        {
+          game_id: game_details[:game_id],
+          game_host: game_details[:game_host],
+          game_name: game_details[:game_name],
+          table_name: game_details[:table_name],
+          table_size: game_details[:table_size],
+          button: game_details[:button],
+          played_at: game_details[:played_at],
+          players: players,
+          actions: actions,
+          results: results,
+          parsed_at: parsed_at,
+        }
       end
 
       def logger

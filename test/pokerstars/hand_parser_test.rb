@@ -27,6 +27,17 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert @parser.events[:summary].present?
   end
 
+  # parse
+
+  test "#parse returns nil if hand history cannot be parsed" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new("some garbage text")
+    assert_nil @parser.parse
+  end
+
+  test "#parse returns hash of processed hand history" do
+    p @parser.parse
+  end
+
   # parse_game_details
 
   test "#parse_game_details extracts parameters for cash game" do
@@ -37,7 +48,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal "Pokerstars", @game[:game_host]
     assert_equal Time.parse("2009/07/01 6:57:14 ET"), @game[:played_at]
     assert_equal 6, @game[:table_size]
-    assert_equal "ZemUU8uyOTYQAgqnaWQDUA", @game[:table_name]
+    assert_equal "AlphaTable", @game[:table_name]
     assert_equal 4, @game[:button]
   end
 
@@ -59,7 +70,27 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     @parser.parse_players
     assert_equal 5, @parser.players.count
     @parser.players.all? {|player| assert player[:stack] > 0 }
-    assert_equal [2,3,4,5,6], @parser.players.map {|x| x[:seat] }.sort
+    
+    player = @parser.players.first
+    assert_equal "Amy", player[:name]
+    assert_equal 2, player[:seat]
+    assert_equal 591, player[:stack].to_i
+
+    player = @parser.players[1]
+    assert_equal "Billy", player[:name]
+    assert_equal 3, player[:seat]
+
+    player = @parser.players[2]
+    assert_equal "Chris", player[:name]
+    assert_equal 4, player[:seat]
+
+    player = @parser.players[3]
+    assert_equal "Dave", player[:name]
+    assert_equal 5, player[:seat]
+
+    player = @parser.players[4]
+    assert_equal "Edwin", player[:name]
+    assert_equal 6, player[:seat]
   end
 
   # parse_preflop
