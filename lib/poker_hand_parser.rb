@@ -51,5 +51,5 @@ module PokerHandParser
 
 
   class NotImplementedError < StandardError; end
-
+  class ParseError < StandardError; end
 end

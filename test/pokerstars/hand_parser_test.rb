@@ -35,7 +35,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   end
 
   test "#parse returns hash of processed hand history" do
-    p @parser.parse
+    #p @parser.parse
   end
 
   # parse_game_details
@@ -72,7 +72,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     @parser.players.all? {|player| assert player[:stack] > 0 }
     
     player = @parser.players.first
-    assert_equal "Amy", player[:name]
+    assert_equal "Amy Adams", player[:name]
     assert_equal 2, player[:seat]
     assert_equal 591, player[:stack].to_i
 
@@ -95,6 +95,18 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
   # parse_preflop
 
+  test "#parse_preflop processes BB and SB actions" do
+
+  end
+
+  test "#parse_preflop processes ante action" do
+
+  end
+
+  test "#parse_preflop processes preflop player actions" do
+  end
+
+
   # parse_flop
 
   # parse_turn
@@ -104,6 +116,106 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   # parse_showdown
 
   # parse_summary
+
+  # parse_player_action
+
+  test "#parse_player_action parses name with space in it" do
+    @parser.parse_players
+    
+    entry = "Amy Adams: folds"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 2, action[:seat]
+    assert_equal "folds", action[:action]
+    assert_nil action[:amount]
+    assert_equal false, action[:all_in]
+  end
+
+  test "#parse_player_action parses check action" do
+    @parser.parse_players
+    
+    entry = "Billy: checks"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "checks", action[:action]
+    assert_nil action[:amount]
+    assert_equal false, action[:all_in]    
+  end
+
+  test "#parse_player_action parses bet action" do
+    @parser.parse_players
+    
+    entry = "Billy: bets $40"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "bets", action[:action]
+    assert_equal 40.0, action[:amount]
+    assert_equal false, action[:all_in]    
+  end
+
+  test "#parse_player_action parses call action" do
+    @parser.parse_players
+    
+    entry = "Billy: calls $80"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "calls", action[:action]
+    assert_equal 80.0, action[:amount]
+    assert_equal false, action[:all_in]    
+  end
+
+  test "#parse_player_action parses call action with all-in" do
+    @parser.parse_players
+    
+    entry = "Billy: calls 928 and is all-in"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "calls", action[:action]
+    assert_equal 928.0, action[:amount]
+    assert_equal true, action[:all_in] 
+  end
+
+  test "#parse_player_action parses raise action" do
+    @parser.parse_players
+    
+    entry = "Billy: raises 1200 to 2400"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "raises", action[:action]
+    assert_equal 2400.0, action[:amount]
+    assert_equal false, action[:all_in]    
+  end
+
+  test "#parse_player_action raises ParseError if action is not valid" do
+    @parser.parse_players
+    
+    entry = "Billy: does something invalid"
+    assert_raises PokerHandParser::ParseError do
+      action = @parser.parse_player_action(entry)
+    end
+  end
+
+
+  # parse_system_action
+
+  test "#parse_system_action returns disconnected hash if player is found" do
+    entry = "Chris is disconnected"
+    @parser.parse_players
+    response = @parser.parse_system_action(entry)
+    assert_equal 4, response[:seat]
+    assert_equal "disconnects", response[:action]
+  end
+
+  test "#parse_system_action returns nil if invalid entry" do
+    entry = "Chris says \"hello there\""
+    @parser.parse_players
+    assert_nil @parser.parse_system_action(entry)
+  end
 
 end
 

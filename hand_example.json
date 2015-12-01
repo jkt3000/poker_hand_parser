@@ -34,20 +34,26 @@
 
   "action": {
     "preflop": [
-      { "seat1": "<ante> 0.03" },
-      { "seat1": "<sb> 0.02" },
-      { "seat2": "<bb> 0.03" },
-      { "seat3": "<call> 0.03" },
-      { "seat4": "<fold>" },
-      { "seat5": "<fold>" },
-      { "seat6": "<bet> 12.00" }
+      { 
+        "seat": 1, 
+        "action": "bets|raises|checks|...", 
+        "amount": 0.03, 
+        "options": ["all-in", ]
+      },
+      { 
+        "seat": 2, 
+        "action": "bets|raises|checks|...", 
+        "amount": 0.03, 
+        "options": ["all-in", ]
+      },
     ],
     "flop": [
-      { "deal": "5h 4s 9d" },
-      { "seat1": "<check>" },
-      { "seat2": "<bet> 10.00" },
-      { "seat3": "<fold>" },
-      { "seat4": "<fold>" }
+      {
+        "seat" : "",
+        "action": "deal",
+        "amount": "",
+        "cards": "As Td Kc"
+      }
     ],
     "turn": [
       { "deal": "Ah" },

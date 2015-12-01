@@ -1,8 +1,6 @@
 module PokerHandParser
   module Pokerstars
 
-    class ParseError < StandardError; end
-
     class HandParser
 
       PARSER_TYPE = "Pokerstars"
@@ -18,6 +16,8 @@ module PokerHandParser
       }
 
       EVENT_ORDER = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
+
+      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks|
 
       attr_accessor :game_details, 
                     :parsed_at, 
@@ -88,28 +88,115 @@ module PokerHandParser
         end
       end
 
+      def parse_pregame
+        # parse the antes and sb/bb
+        entries = events[:settings]
+
+      end
 
       def parse_preflop
-        # noop
+        parse_actions(events[:preflop])
       end
 
       def parse_flop
-        # noop
+        parse_actions(events[:flop])
       end
 
       def parse_turn
-        # noop
+        parse_actions(events[:turn])
       end
 
       def parse_river
-        # noop
+        parse_actions(events[:river])
       end
 
       def summarize_results
         # noop
       end
 
+
+#       sp4le87: posts small blind 10
+# Kolyan0023: posts big blind 20
+# *** HOLE CARDS ***
+# Dealt to toppair [4d Qh]
+# sp4le87: folds 
+# Kolyan0023: folds 
+# *** FLOP *** [8c Jh 7s]
+# *** TURN *** [8c Jh 7s] [Ac]
+# *** RIVER *** [8c Jh 7s Ac] [3s]
+# *** SHOW DOWN ***
+
+
+
+      # {
+      #   seat: x,
+      #   action: 'bets | raises | calls | checks | folds | disconnected ',
+      #   amount: 10,
+      #   cards: [As, Kd]
+      # }
+      # break action entry into hash of possible actions
+
+
+      def parse_actions(entries)
+        entries.each do |entry|
+          if entry.include?(": ")
+            parse_player_action(entry)
+          else
+            parse_system_action(entry)
+          end
+        end
+      end
+
+      def parse_player_action(entry)
+        name, actions = entry.split(": ", 2)
+        tokens = actions.split(" ")
+        action = tokens.first
+        
+        raise ParseError, "Invalid player action: #{action}" unless VALID_PLAYER_ACTIONS.include?(action)
+
+        if tokens.count > 1
+          amt_token = action == "raises" ? tokens[3] : tokens[1]
+          amount = if m = amt_token.match(/(\d+\.\d+|\d+)/)
+            m[1]
+          end
+        end
+        
+        {
+          seat: lookup_seat_by_name(name),
+          action: action,
+          amount: amount ? amount.to_f : nil,
+          all_in: tokens.include?("all-in")
+        }
+      end
+
+      # just handle disconnection, ignore chats and everything else
+      # Paul HSV is disconnected 
+      def parse_system_action(entry)
+        return nil unless entry.include?(" is disconnected")
+        name, _ = entry.split(" is disconnected")
+
+        {
+          seat: lookup_seat_by_name(name),
+          action: "disconnects"
+        }
+      end
+
+      def small_blind_action(entry)
+
+      end
+
+
       private
+
+      def lookup_player_by_name(name)
+        players.detect {|p| p[:name] == name }
+      end
+
+      def lookup_seat_by_name(name)
+        if player = lookup_player_by_name(name)
+          player.fetch(:seat)
+        end
+      end
 
       # break events into different categories (settings, preflop, flop, turn, river, summary)
       def process_events
@@ -129,17 +216,17 @@ module PokerHandParser
 
       def to_hash
         {
-          game_id: game_details[:game_id],
-          game_host: game_details[:game_host],
-          game_name: game_details[:game_name],
+          game_id:    game_details[:game_id],
+          game_host:  game_details[:game_host],
+          game_name:  game_details[:game_name],
           table_name: game_details[:table_name],
           table_size: game_details[:table_size],
-          button: game_details[:button],
-          played_at: game_details[:played_at],
-          players: players,
-          actions: actions,
-          results: results,
-          parsed_at: parsed_at,
+          button:     game_details[:button],
+          played_at:  game_details[:played_at],
+          players:    players,
+          actions:    actions,
+          results:    results,
+          parsed_at:  parsed_at,
         }
       end
 
