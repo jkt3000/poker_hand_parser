@@ -26,3 +26,6 @@ class ActiveSupport::TestCase
   end
 
 end
+
+PokerHandParser.logger = Logger.new(File.dirname(__FILE__) + "/../log/test.log")
+PokerHandParser.logger.level = Logger::DEBUG

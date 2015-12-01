@@ -4,7 +4,6 @@ module PokerHandParser
     class HandParser
 
       PARSER_TYPE = "Pokerstars"
-      LOGGER      = Logger.new(STDOUT)
       MARKERS     = {
         settings: nil,
         preflop:  "*** HOLE CARDS ***",
@@ -231,7 +230,7 @@ module PokerHandParser
       end
 
       def logger
-        LOGGER
+        PokerHandParser.logger
       end
 
     end

@@ -49,7 +49,17 @@ module PokerHandParser
     PokerHandParser::Pokerstars::HandParser
   end
 
+  def logger=(logger)
+    @@logger = logger
+  end
 
+  def logger
+    @@logger
+  end
+
+  @@logger = Logger.new(STDOUT)
+  @@logger.level = Logger::INFO
+  
   class NotImplementedError < StandardError; end
   class ParseError < StandardError; end
 end
