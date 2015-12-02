@@ -2,6 +2,7 @@ require 'json'
 require 'active_support'
 require 'time'
 require "poker_hand_parser/version"
+require "poker_hand_parser/cards"
 require 'poker_hand_parser/game'
 require 'poker_hand_parser/table'
 require 'poker_hand_parser/player'
@@ -59,7 +60,7 @@ module PokerHandParser
 
   @@logger = Logger.new(STDOUT)
   @@logger.level = Logger::INFO
-  
+
   class NotImplementedError < StandardError; end
   class ParseError < StandardError; end
 end

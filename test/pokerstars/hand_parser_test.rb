@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'pp'
 
 class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
@@ -35,7 +36,8 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   end
 
   test "#parse returns hash of processed hand history" do
-    #p @parser.parse
+    puts
+    pp @parser.parse
   end
 
   # parse_game_details
@@ -93,29 +95,31 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 6, player[:seat]
   end
 
-  # parse_preflop
+  # parse_pregame
 
-  test "#parse_preflop processes BB and SB actions" do
+  test "#parse_pregame extracts and process blinds action" do
+    @parser.parse_players
+    response = @parser.parse_pregame
 
+    small_blind = response.first
+    assert_equal "small blind", small_blind[:description]
+    assert_equal "posts", small_blind[:action]
+    assert_equal 5, small_blind[:seat]
+    
+    big_blind = response.last
+    assert_equal "big blind", small_blind[:description]
+    assert_equal "posts", small_blind[:action]
+    assert_equal 6, small_blind[:seat]
   end
 
-  test "#parse_preflop processes ante action" do
-
+  test "#parse_pregame extracts and process ante" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/tourney_hand.txt"))
+    @parser.parse_players
+    response = @parser.parse_pregame
+    assert_equal 8, response.select {|r| r[:description] == "the ante"}.count
+    assert response.detect {|r| r[:description] == "big blind"}
+    assert response.detect {|r| r[:description] == "small blind"}
   end
-
-  test "#parse_preflop processes preflop player actions" do
-  end
-
-
-  # parse_flop
-
-  # parse_turn
-
-  # parse_river
-
-  # parse_showdown
-
-  # parse_summary
 
   # parse_player_action
 
@@ -239,7 +243,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     end
   end
 
-
   # parse_system_action
 
   test "#parse_system_action returns disconnected hash if player is found" do
@@ -254,6 +257,25 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     entry = "Chris says \"hello there\""
     @parser.parse_players
     assert_nil @parser.parse_system_action(entry)
+  end
+
+  # parse_deal_action
+
+  test "#parse_deal_action returns array of cards" do
+    @parser.parse_players
+    response = @parser.parse_deal_action("Dealt to Amy Adams [Ac Ts 5d]")
+
+    expected = ["Ac", "Ts", "5d"]
+    assert_equal expected, response[:cards]
+    assert_equal 2, response[:seat]
+    assert_equal 'deal', response[:action]
+  end
+
+  test "#parse_deal_action raises exception if entry is invalid" do
+    @parser.parse_players
+    assert_raises PokerHandParser::InvalidCardError do
+      response = @parser.parse_deal_action("Dealt to Amy Adams [Ac Ts 1c]")
+    end
   end
 
 end

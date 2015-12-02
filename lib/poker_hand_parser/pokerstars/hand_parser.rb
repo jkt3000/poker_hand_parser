@@ -44,11 +44,11 @@ module PokerHandParser
       def parse
         parse_game_details
         parse_players
-        parse_pregame
-        parse_actions(events[:preflop])
-        parse_actions(events[:flop])
-        parse_actions(events[:turn])
-        parse_actions(events[:river])
+        @actions[:deal]    = parse_pregame 
+        @actions[:preflop] = parse_actions(events[:preflop])
+        @actions[:flop]    = parse_actions(events[:flop])
+        @actions[:turn]    = parse_actions(events[:turn])
+        @actions[:river]   = parse_actions(events[:river])
         summarize_results
         @parsed_at = Time.now.utc
         to_hash
@@ -94,7 +94,13 @@ module PokerHandParser
 
       # parse antes and sb/bb
       def parse_pregame
-        entries = events[:settings]
+        index = 0
+        events[:settings].each_with_index do |entry, i|
+          index = i if entry.match(/^Seat /)
+        end
+        
+        actions = events[:settings][index+1..-1]
+        parse_actions(actions)
       end
 
       # parse hole cards and preflop action
@@ -130,9 +136,9 @@ module PokerHandParser
 # *** RIVER *** [8c Jh 7s Ac] [3s]
 # *** SHOW DOWN ***
       def parse_actions(entries)
-        entries.each do |entry|
+        entries.map do |entry|
           entry.include?(": ") ? parse_player_action(entry) : parse_system_action(entry)
-        end
+        end.compact
       end
 
       def parse_player_action(entry)
@@ -165,17 +171,38 @@ module PokerHandParser
       # just handle disconnection, ignore chats and everything else
       # Paul HSV is disconnected 
       def parse_system_action(entry)
-        return nil unless entry.include?(" is disconnected")
-        name, _ = entry.split(" is disconnected")
+        return parse_disconnect_action(entry) if entry.match(/ is disconnected$/)
+        return parse_deal_action(entry) if entry.match(/^Dealt to/)
+      end
 
+      def parse_disconnect_action(entry)
+        name, _ = entry.split(" is disconnected")
         {
           seat: lookup_seat_by_name(name),
           action: "disconnects"
         }
       end
 
+      # Dealt to toppair [Qd Tc]
+      def parse_deal_action(entry)
+        entry.gsub!(/Dealt to /,'')
+        name, card_list = entry.split(" [")
+        cards = parse_cards_array(card_list)
+        PokerHandParser::Cards.validate!(cards)
+        {
+          seat: lookup_seat_by_name(name),
+          action: 'deal',
+          cards: cards
+        }
+      end
 
       private
+
+      # converts [xx xx] into array of card strings
+      def parse_cards_array(entry)
+        list = entry.scan(/\[?(.+)\]/)
+        list.flatten.first.split(" ")
+      end
 
       def amount_from_token(token)
         return unless token
