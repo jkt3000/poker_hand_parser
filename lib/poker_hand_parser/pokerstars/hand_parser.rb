@@ -26,18 +26,15 @@ module PokerHandParser
       def initialize(events)
         @raw_events   = events
         @events       = {}
-        @type         = PARSER_TYPE.dup
         @game_details = {}
-        @players      = []
         @actions      = {}
         @results      = {}
-
         process_events        
+        parse_game_details
+        parse_players
       end
 
       def parse
-        parse_game_details
-        parse_players
         parse_pregame
         @actions[:preflop]  = parse_actions(events[:preflop])
         @actions[:flop]     = parse_actions(events[:flop])
@@ -49,18 +46,17 @@ module PokerHandParser
         to_hash
       rescue ParseError => e
         logger.info("Error parsing hand history: #{e}")
-        puts "Error parsing hand history: #{e}"
         nil
       end
 
       def parse_game_details
-        raise ParseError, "Settings data is blank" unless events[:settings] 
+        raise InvalidHandHistoryError, "Settings data is blank" unless events[:settings] 
         # should fail earlier, on init?
         game_data  = events[:settings].first
         table_data = events[:settings][1]
         
-        raise ParseError, "Game data is blank" if game_data.blank? 
-        raise ParseError, "Table data is blank" if table_data.blank?
+        raise InvalidHandHistoryError, "Game data is blank" if game_data.blank? 
+        raise InvalidHandHistoryError, "Table data is blank" if table_data.blank?
 
         game_id, remainder = game_data.split(": ", 2)
         game_name, date = remainder.split(" - ", 2)
@@ -77,15 +73,22 @@ module PokerHandParser
       end
 
       def parse_players
-        seats = events[:settings].select {|entry| entry.match(/\ASeat \d+/) }
-        seats.each do |entry|
-          id         = entry.match(/\ASeat (\d+):/)[1].to_i
-          name_stack = entry.split(":").last
-          name       = name_stack.match(/([^(]+)/)[1].to_s.strip
-          stack      = name_stack.match(/\(.(\d+.\d+) in chips\)/)[1].to_f
-          player     = {name: name, seat: id, stack: stack}
-          @players << player
+        seats = events[:settings].select {|entry| entry.match(/^Seat \d+/) }
+        @players = seats.map {|entry| extract_player_info(entry) }.compact
+      end
+
+      # Seat 4: tigriskem ($14.69 in chips)
+      def extract_player_info(entry)
+        if m = entry.match(/\ASeat (\d+):/)
+          id = m[1].to_i
         end
+
+        text = entry.gsub(/Seat \d+\: /, "")
+        if m = text.match(/(.+) \(.?(\d+\.?\d*) in chips\)/)
+          name  = m[1].to_s.strip
+          stack = m[2].to_f
+        end
+        {name: name, seat: id, stack: stack} if name && id && stack
       end
 
       # parse antes and sb/bb

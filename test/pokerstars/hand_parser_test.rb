@@ -28,16 +28,36 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert @parser.events[:summary].present?
   end
 
-  # parse
-
-  test "#parse returns nil if hand history cannot be parsed" do
-    @parser = PokerHandParser::Pokerstars::HandParser.new("some garbage text")
-    assert_nil @parser.parse
+  test "#create should raise error if input is not a valid pokerstars hand history file" do
+    assert_raises PokerHandParser::InvalidHandHistoryError do 
+      @parser = PokerHandParser::Pokerstars::HandParser.new("some invalid file")
+    end
   end
 
+  # parse
+
   test "#parse returns hash of processed hand history" do
-    #puts
-    pp @parser.parse
+    response = @parser.parse
+
+    #pp response
+
+    assert_equal game_keys.sort, response.keys.sort
+    assert_equal action_keys.sort, response[:actions].keys.sort
+    assert_equal "59950643732", response[:game_id]
+    assert_equal 6, response[:table_size]
+    assert_equal 5, response[:players].count
+    assert_equal 4, response[:button]
+    assert_equal "Pokerstars", response[:game_host]
+    assert_equal "Hold'em No Limit ($5/$10)", response[:game_name]
+    assert_equal "AlphaTable", response[:table_name]
+  end
+
+  test "#parse returns hash of processed tournament hand history" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/tourney_hand.txt"))
+    response = @parser.parse
+
+    assert_equal game_keys.sort, response.keys.sort
+    assert_equal action_keys.sort, response[:actions].keys.sort
   end
 
   # parse_game_details
@@ -94,6 +114,42 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal "Edwin", player[:name]
     assert_equal 6, player[:seat]
   end
+
+  # extract_player_info
+
+  test "#extract_player_info returns nil if name, id or amount is not parsed" do
+    text = "Seat: tigriskem ($1.00 in chips)"
+    response = @parser.extract_player_info(text)
+
+    assert_nil response
+  end
+
+  test "#extract_player_info returns hash of player info" do
+    text = "Seat 4: tigriskem ($14.69 in chips)"
+    response = @parser.extract_player_info(text)
+
+    assert_equal 4, response[:seat]
+    assert_equal "tigriskem", response[:name]
+    assert_equal 14.69, response[:stack]
+  end
+
+  test "#extract_player_info returns hash of player info when name has a space in it" do
+    text = "Seat 4: John Smith ($14.69 in chips)"
+    response = @parser.extract_player_info(text)
+
+    assert_equal 4, response[:seat]
+    assert_equal "John Smith", response[:name]
+    assert_equal 14.69, response[:stack]
+  end  
+
+  test "#extract_player_info returns hash of player info when amount has no decimals" do
+    text = "Seat 4: John Smith ($10 in chips)"
+    response = @parser.extract_player_info(text)
+
+    assert_equal 4, response[:seat]
+    assert_equal "John Smith", response[:name]
+    assert_equal 10.0, response[:stack]
+  end  
 
   # parse_pregame
 
@@ -279,6 +335,25 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_raises PokerHandParser::InvalidCardError do
       response = @parser.parse_deal("[Ac Ts 1c]")
     end
+  end
+
+  private
+
+  def game_keys
+    [
+      :game_id, :game_name, :game_host, 
+      :table_name, :table_size, 
+      :button, 
+      :played_at, 
+      :players, 
+      :actions, 
+      :results, 
+      :parsed_at
+    ]
+  end
+
+  def action_keys
+    [:deal, :preflop, :flop, :turn, :river, :showdown]  
   end
 
 end

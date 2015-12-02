@@ -15,8 +15,8 @@ class PokerHandParserTest < ActiveSupport::TestCase
 
     PokerHandParser.expects(:parse_hand).at_least_once.returns({})
     results = PokerHandParser.parse_file(@file)
-
-    assert results[:hands].count > 1
+    
+    assert 1000, results[:hands].count
     assert results[:failed].empty?
   end
 

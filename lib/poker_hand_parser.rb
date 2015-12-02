@@ -3,10 +3,6 @@ require 'active_support'
 require 'time'
 require "poker_hand_parser/version"
 require "poker_hand_parser/cards"
-require 'poker_hand_parser/game'
-require 'poker_hand_parser/table'
-require 'poker_hand_parser/player'
-require 'poker_hand_parser/hand_parser'
 require "poker_hand_parser/pokerstars/hand_parser"
 
 module PokerHandParser
@@ -63,4 +59,5 @@ module PokerHandParser
 
   class NotImplementedError < StandardError; end
   class ParseError < StandardError; end
+  class InvalidHandHistoryError < StandardError; end
 end
