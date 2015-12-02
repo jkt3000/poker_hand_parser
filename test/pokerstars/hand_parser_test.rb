@@ -36,7 +36,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
   end
 
   test "#parse returns hash of processed hand history" do
-    puts
+    #puts
     pp @parser.parse
   end
 
@@ -107,9 +107,9 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 5, small_blind[:seat]
     
     big_blind = response.last
-    assert_equal "big blind", small_blind[:description]
-    assert_equal "posts", small_blind[:action]
-    assert_equal 6, small_blind[:seat]
+    assert_equal "big blind", big_blind[:description]
+    assert_equal "posts", big_blind[:action]
+    assert_equal 6, big_blind[:seat]
   end
 
   test "#parse_pregame extracts and process ante" do
@@ -119,6 +119,17 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 8, response.select {|r| r[:description] == "the ante"}.count
     assert response.detect {|r| r[:description] == "big blind"}
     assert response.detect {|r| r[:description] == "small blind"}
+  end
+
+  # parse_actions
+  test "#parse_actions on preflop with dealt cards includes deal action" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/tourney_hand.txt"))
+    @parser.parse_players
+    response = @parser.parse_actions(@parser.events[:preflop])
+    action = response.detect {|r| r[:action] == 'deal'}
+    assert_equal 1, action[:seat]
+    assert_equal "Ks", action[:cards].first
+    assert_equal "5d", action[:cards].last
   end
 
   # parse_player_action
@@ -132,7 +143,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 2, action[:seat]
     assert_equal "folds", action[:action]
     assert_nil action[:amount]
-    assert_equal false, action[:all_in]
   end
 
   test "#parse_player_action parses check action" do
@@ -144,7 +154,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 3, action[:seat]
     assert_equal "checks", action[:action]
     assert_nil action[:amount]
-    assert_equal false, action[:all_in]    
   end
 
   test "#parse_player_action parses bet action" do
@@ -156,7 +165,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 3, action[:seat]
     assert_equal "bets", action[:action]
     assert_equal 40.0, action[:amount]
-    assert_equal false, action[:all_in]    
   end
 
   test "#parse_player_action parses call action" do
@@ -168,7 +176,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 3, action[:seat]
     assert_equal "calls", action[:action]
     assert_equal 80.0, action[:amount]
-    assert_equal false, action[:all_in]    
   end
 
   test "#parse_player_action parses call action with all-in" do
@@ -192,7 +199,6 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 3, action[:seat]
     assert_equal "raises", action[:action]
     assert_equal 2400.0, action[:amount]
-    assert_equal false, action[:all_in]    
   end
 
   test "#parse_player_action parses post the ante entry" do
@@ -203,8 +209,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
     assert_equal 3, action[:seat]
     assert_equal "posts", action[:action]
-    assert_equal 3.0, action[:amount]    
-    assert_equal false, action[:all_in]    
+    assert_equal 3.0, action[:amount]
     assert_equal "the ante", action[:description]
   end
 
@@ -216,8 +221,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
     assert_equal 3, action[:seat]
     assert_equal "posts", action[:action]
-    assert_equal 25.0, action[:amount]    
-    assert_equal false, action[:all_in]    
+    assert_equal 25.0, action[:amount]
     assert_equal "small blind", action[:description]
   end
   
@@ -229,8 +233,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
 
     assert_equal 3, action[:seat]
     assert_equal "posts", action[:action]
-    assert_equal 50.0, action[:amount]    
-    assert_equal false, action[:all_in]    
+    assert_equal 50.0, action[:amount]
     assert_equal "big blind", action[:description]
   end
   
@@ -259,11 +262,11 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_nil @parser.parse_system_action(entry)
   end
 
-  # parse_deal_action
+  # parse_deal
 
-  test "#parse_deal_action returns array of cards" do
+  test "#parse_deal returns dealt cards action hash" do
     @parser.parse_players
-    response = @parser.parse_deal_action("Dealt to Amy Adams [Ac Ts 5d]")
+    response = @parser.parse_deal("[Ac Ts 5d]", "Amy Adams")
 
     expected = ["Ac", "Ts", "5d"]
     assert_equal expected, response[:cards]
@@ -271,10 +274,10 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal 'deal', response[:action]
   end
 
-  test "#parse_deal_action raises exception if entry is invalid" do
+  test "#parse_deal raises exception if entry is invalid" do
     @parser.parse_players
     assert_raises PokerHandParser::InvalidCardError do
-      response = @parser.parse_deal_action("Dealt to Amy Adams [Ac Ts 1c]")
+      response = @parser.parse_deal("[Ac Ts 1c]")
     end
   end
 

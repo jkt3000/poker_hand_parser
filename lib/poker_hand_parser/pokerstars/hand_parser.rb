@@ -13,14 +13,8 @@ module PokerHandParser
         showdown: "*** SHOW DOWN ***",
         summary:  "*** SUMMARY ***"
       }
-      EVENT_ORDER  = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
-      POST_ACTIONS = {
-        'the ante'    => 'ante',
-        'big blind'   => 'big blind',
-        'small blind' => 'small blind'
-      }
-
-      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks posts|
+      EVENT_ORDER          = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
+      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks posts shows|
 
       attr_accessor :game_details, 
                     :parsed_at, 
@@ -44,16 +38,18 @@ module PokerHandParser
       def parse
         parse_game_details
         parse_players
-        @actions[:deal]    = parse_pregame 
-        @actions[:preflop] = parse_actions(events[:preflop])
-        @actions[:flop]    = parse_actions(events[:flop])
-        @actions[:turn]    = parse_actions(events[:turn])
-        @actions[:river]   = parse_actions(events[:river])
-        summarize_results
+        @actions[:deal]     = parse_pregame
+        @actions[:preflop]  = parse_actions(events[:preflop])
+        @actions[:flop]     = parse_actions(events[:flop])
+        @actions[:turn]     = parse_actions(events[:turn])
+        @actions[:river]    = parse_actions(events[:river])
+        @actions[:showdown] = parse_actions(events[:showdown])
+        @results = summarize_results
         @parsed_at = Time.now.utc
         to_hash
       rescue ParseError => e
         logger.info("Error parsing hand history: #{e}")
+        p e
         nil
       end
 
@@ -103,39 +99,16 @@ module PokerHandParser
         parse_actions(actions)
       end
 
-      # parse hole cards and preflop action
-      def parse_preflop
-        parse_actions(events[:preflop])
-      end
-
-      def parse_flop
-        # parse community cards
-        parse_actions(events[:flop])
-      end
-
-      def parse_turn
-        # parse community cards
-        parse_player_action(events[:turn])
-      end
-
-      def parse_river
-        # parse community cards
-        parse_player_action(events[:river])
-      end
-
       def summarize_results
-        # noop
+        pot, rake = events[:summary].first.split(" | ")
+        {
+          total_pot: amount_from_token(pot.gsub("Total pot ", '')),
+          rake: amount_from_token(rake.gsub("Rake ", ''))
+        }
       end
 
-# *** HOLE CARDS ***
-# Dealt to toppair [4d Qh]
-# sp4le87: folds 
-# Kolyan0023: folds 
-# *** FLOP *** [8c Jh 7s]
-# *** TURN *** [8c Jh 7s] [Ac]
-# *** RIVER *** [8c Jh 7s Ac] [3s]
-# *** SHOW DOWN ***
       def parse_actions(entries)
+        # first entry is cards dealt?
         entries.map do |entry|
           entry.include?(": ") ? parse_player_action(entry) : parse_system_action(entry)
         end.compact
@@ -155,24 +128,40 @@ module PokerHandParser
             description = tokens[1..2].join(' ')
           when 'raises'
             amount = amount_from_token(tokens[3])
+          when 'shows'
+            cards = parse_cards_list(tokens[1..2].join(" "))
+            description = tokens[4..-1].join(" ").gsub(/\(|\)/,'')
+            # parse end hand in description
           else
             amount = amount_from_token(tokens[1])
         end
         
-        {
+        result = {
           seat: lookup_seat_by_name(name),
           action: action,
-          amount: amount ? amount.to_f : nil,
-          description: description,
-          all_in: tokens.include?("all-in"),
+          amount: amount,
         }
+        result.merge!(all_in: true) if tokens.include?("all-in")
+        result.merge!(description: description) if description
+        result.merge!(cards: cards) if cards
+        result
       end
 
       # just handle disconnection, ignore chats and everything else
       # Paul HSV is disconnected 
       def parse_system_action(entry)
         return parse_disconnect_action(entry) if entry.match(/ is disconnected$/)
-        return parse_deal_action(entry) if entry.match(/^Dealt to/)
+        return parse_deal(entry) if entry.match(/^\[\w{2}/)
+        
+        if entry.match(/^Dealt to/)
+          entry.gsub!(/Dealt to /,'')
+          name, cards_entry = entry.split(" [")
+          return parse_deal(cards_entry, name)
+        end
+
+        if entry.match(/ collected /)
+          return parse_collected(entry)
+        end
       end
 
       def parse_disconnect_action(entry)
@@ -184,11 +173,8 @@ module PokerHandParser
       end
 
       # Dealt to toppair [Qd Tc]
-      def parse_deal_action(entry)
-        entry.gsub!(/Dealt to /,'')
-        name, card_list = entry.split(" [")
-        cards = parse_cards_array(card_list)
-        PokerHandParser::Cards.validate!(cards)
+      def parse_deal(card_list, name = nil)
+        cards = parse_cards_list(card_list)
         {
           seat: lookup_seat_by_name(name),
           action: 'deal',
@@ -196,18 +182,31 @@ module PokerHandParser
         }
       end
 
+      #Edwin collected $151.50 from pot
+      #Amy Adams collected $151.50 from pot
+      def parse_collected(entry)
+        name, list = entry.split(" collected ")
+        amount = amount_from_token(list)
+        {
+          seat: lookup_seat_by_name(name),
+          action: 'collected',
+          amount: amount_from_token(list)
+        }
+      end
+
       private
 
       # converts [xx xx] into array of card strings
-      def parse_cards_array(entry)
-        list = entry.scan(/\[?(.+)\]/)
-        list.flatten.first.split(" ")
+      def parse_cards_list(entry)
+        cards = entry.gsub(/\[|\]/,'').split(/\s+/)
+        PokerHandParser::Cards.validate!(cards)
+        cards
       end
 
       def amount_from_token(token)
         return unless token
         return unless matches = token.match(/(\d+\.\d+|\d+)/)
-        matches[1]
+        matches[1].to_f
       end
 
       def lookup_player_by_name(name)
