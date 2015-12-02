@@ -8,11 +8,13 @@ module PokerHandParser
 
     extend self
 
-    # validates that cards passed in are valid
-    def validate!(cards = [])
-      cards.each do |card|
-        raise InvalidCardError, "invalid Suit" unless SUITS.include?(card[1])
-        raise InvalidCardError, "invalid Value" unless CARDS.include?(card[0])        
+    def from_text(text)
+      cards = text.gsub(/\[|\]/,'').split(/\s+/)
+      return [] unless cards.length > 0
+      cards.map do |card|
+        raise InvalidCardError, "Card error: bad value #{card}" unless CARDS.include?(card[0])
+        raise InvalidCardError, "Card error: bad suit #{card}" unless SUITS.include?(card[1])
+        card
       end
     end
   end

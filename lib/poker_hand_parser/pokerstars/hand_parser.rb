@@ -38,18 +38,18 @@ module PokerHandParser
       def parse
         parse_game_details
         parse_players
-        @actions[:deal]     = parse_pregame
+        parse_pregame
         @actions[:preflop]  = parse_actions(events[:preflop])
         @actions[:flop]     = parse_actions(events[:flop])
         @actions[:turn]     = parse_actions(events[:turn])
         @actions[:river]    = parse_actions(events[:river])
         @actions[:showdown] = parse_actions(events[:showdown])
-        @results = summarize_results
-        @parsed_at = Time.now.utc
+        @results            = summarize_results
+        @parsed_at          = Time.now.utc
         to_hash
       rescue ParseError => e
         logger.info("Error parsing hand history: #{e}")
-        p e
+        puts "Error parsing hand history: #{e}"
         nil
       end
 
@@ -89,6 +89,8 @@ module PokerHandParser
       end
 
       # parse antes and sb/bb
+      # Dave: posts small blind $5
+      # Edwin: posts big blind $10
       def parse_pregame
         index = 0
         events[:settings].each_with_index do |entry, i|
@@ -96,10 +98,13 @@ module PokerHandParser
         end
         
         actions = events[:settings][index+1..-1]
-        parse_actions(actions)
+        @actions[:deal] = parse_actions(actions)
       end
 
+      # parse pot and rake size, ignore remaining entries
+      # Total pot $305 | Rake $2
       def summarize_results
+        raise ParseError, "missing summary entries" if events.fetch(:summary, []).empty?
         pot, rake = events[:summary].first.split(" | ")
         {
           total_pot: amount_from_token(pot.gsub("Total pot ", '')),
@@ -108,12 +113,12 @@ module PokerHandParser
       end
 
       def parse_actions(entries)
-        # first entry is cards dealt?
         entries.map do |entry|
           entry.include?(": ") ? parse_player_action(entry) : parse_system_action(entry)
         end.compact
       end
 
+      # eg: Edwin: bets $20
       def parse_player_action(entry)
         name, actions = entry.split(": ", 2)
         tokens        = actions.split(" ")
@@ -129,9 +134,8 @@ module PokerHandParser
           when 'raises'
             amount = amount_from_token(tokens[3])
           when 'shows'
-            cards = parse_cards_list(tokens[1..2].join(" "))
+            cards       = PokerHandParser::Cards.from_text(tokens[1..2].join(" "))
             description = tokens[4..-1].join(" ").gsub(/\(|\)/,'')
-            # parse end hand in description
           else
             amount = amount_from_token(tokens[1])
         end
@@ -147,23 +151,25 @@ module PokerHandParser
         result
       end
 
-      # just handle disconnection, ignore chats and everything else
-      # Paul HSV is disconnected 
       def parse_system_action(entry)
+        # disconnection
         return parse_disconnect_action(entry) if entry.match(/ is disconnected$/)
+
+        # flop,turn.river cards
         return parse_deal(entry) if entry.match(/^\[\w{2}/)
         
+        # collecting pot
+        return parse_collected(entry) if entry.match(/ collected /)
+          
+        # dealt hole cards
         if entry.match(/^Dealt to/)
           entry.gsub!(/Dealt to /,'')
           name, cards_entry = entry.split(" [")
           return parse_deal(cards_entry, name)
         end
-
-        if entry.match(/ collected /)
-          return parse_collected(entry)
-        end
       end
 
+      # eg: Paul HSV is disconnected 
       def parse_disconnect_action(entry)
         name, _ = entry.split(" is disconnected")
         {
@@ -174,7 +180,7 @@ module PokerHandParser
 
       # Dealt to toppair [Qd Tc]
       def parse_deal(card_list, name = nil)
-        cards = parse_cards_list(card_list)
+        cards = PokerHandParser::Cards.from_text(card_list)
         {
           seat: lookup_seat_by_name(name),
           action: 'deal',
@@ -182,8 +188,7 @@ module PokerHandParser
         }
       end
 
-      #Edwin collected $151.50 from pot
-      #Amy Adams collected $151.50 from pot
+      # Edwin collected $151.50 from pot
       def parse_collected(entry)
         name, list = entry.split(" collected ")
         amount = amount_from_token(list)
@@ -195,13 +200,6 @@ module PokerHandParser
       end
 
       private
-
-      # converts [xx xx] into array of card strings
-      def parse_cards_list(entry)
-        cards = entry.gsub(/\[|\]/,'').split(/\s+/)
-        PokerHandParser::Cards.validate!(cards)
-        cards
-      end
 
       def amount_from_token(token)
         return unless token
