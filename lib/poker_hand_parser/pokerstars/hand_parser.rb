@@ -13,10 +13,14 @@ module PokerHandParser
         showdown: "*** SHOW DOWN ***",
         summary:  "*** SUMMARY ***"
       }
+      EVENT_ORDER  = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
+      POST_ACTIONS = {
+        'the ante'    => 'ante',
+        'big blind'   => 'big blind',
+        'small blind' => 'small blind'
+      }
 
-      EVENT_ORDER = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
-
-      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks|
+      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks posts|
 
       attr_accessor :game_details, 
                     :parsed_at, 
@@ -40,15 +44,16 @@ module PokerHandParser
       def parse
         parse_game_details
         parse_players
-        parse_preflop
-        parse_flop
-        parse_turn
-        parse_river
+        parse_pregame
+        parse_actions(events[:preflop])
+        parse_actions(events[:flop])
+        parse_actions(events[:turn])
+        parse_actions(events[:river])
         summarize_results
         @parsed_at = Time.now.utc
         to_hash
       rescue ParseError => e
-        logger.debug("Error parsing hand history: #{e}")
+        logger.info("Error parsing hand history: #{e}")
         nil
       end
 
@@ -87,35 +92,35 @@ module PokerHandParser
         end
       end
 
+      # parse antes and sb/bb
       def parse_pregame
-        # parse the antes and sb/bb
         entries = events[:settings]
-
       end
 
+      # parse hole cards and preflop action
       def parse_preflop
         parse_actions(events[:preflop])
       end
 
       def parse_flop
+        # parse community cards
         parse_actions(events[:flop])
       end
 
       def parse_turn
-        parse_actions(events[:turn])
+        # parse community cards
+        parse_player_action(events[:turn])
       end
 
       def parse_river
-        parse_actions(events[:river])
+        # parse community cards
+        parse_player_action(events[:river])
       end
 
       def summarize_results
         # noop
       end
 
-
-#       sp4le87: posts small blind 10
-# Kolyan0023: posts big blind 20
 # *** HOLE CARDS ***
 # Dealt to toppair [4d Qh]
 # sp4le87: folds 
@@ -124,47 +129,36 @@ module PokerHandParser
 # *** TURN *** [8c Jh 7s] [Ac]
 # *** RIVER *** [8c Jh 7s Ac] [3s]
 # *** SHOW DOWN ***
-
-
-
-      # {
-      #   seat: x,
-      #   action: 'bets | raises | calls | checks | folds | disconnected ',
-      #   amount: 10,
-      #   cards: [As, Kd]
-      # }
-      # break action entry into hash of possible actions
-
-
       def parse_actions(entries)
         entries.each do |entry|
-          if entry.include?(": ")
-            parse_player_action(entry)
-          else
-            parse_system_action(entry)
-          end
+          entry.include?(": ") ? parse_player_action(entry) : parse_system_action(entry)
         end
       end
 
       def parse_player_action(entry)
         name, actions = entry.split(": ", 2)
-        tokens = actions.split(" ")
-        action = tokens.first
-        
+        tokens        = actions.split(" ")
+        action        = tokens.first
+        amount        = nil
+        description   = nil        
         raise ParseError, "Invalid player action: #{action}" unless VALID_PLAYER_ACTIONS.include?(action)
 
-        if tokens.count > 1
-          amt_token = action == "raises" ? tokens[3] : tokens[1]
-          amount = if m = amt_token.match(/(\d+\.\d+|\d+)/)
-            m[1]
-          end
+        case action
+          when 'posts'
+            amount      = amount_from_token(tokens[3])
+            description = tokens[1..2].join(' ')
+          when 'raises'
+            amount = amount_from_token(tokens[3])
+          else
+            amount = amount_from_token(tokens[1])
         end
         
         {
           seat: lookup_seat_by_name(name),
           action: action,
           amount: amount ? amount.to_f : nil,
-          all_in: tokens.include?("all-in")
+          description: description,
+          all_in: tokens.include?("all-in"),
         }
       end
 
@@ -180,12 +174,14 @@ module PokerHandParser
         }
       end
 
-      def small_blind_action(entry)
-
-      end
-
 
       private
+
+      def amount_from_token(token)
+        return unless token
+        return unless matches = token.match(/(\d+\.\d+|\d+)/)
+        matches[1]
+      end
 
       def lookup_player_by_name(name)
         players.detect {|p| p[:name] == name }
@@ -207,9 +203,13 @@ module PokerHandParser
           else
             results = remaining
           end
-          #logger.debug("Found for event '#{event}':\n#{results}")
-          @events[event] ||= results.to_s.gsub(/\n\n/,"\n").gsub(/^$\n/,'').split("\n")
-          # remove any leading and ending blank lines
+          logger.debug("Found for event '#{event}':\n#{results}")
+          @events[event] ||= begin
+            # remove blank lines and split by new lines
+            events = results.to_s.gsub(/\n\n/,"\n").gsub(/^$\n/,'').split("\n") 
+            events.map {|e| e.strip! }  # strip leading and ending whitespaces
+            events
+          end
         end
       end
 

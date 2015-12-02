@@ -191,6 +191,45 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     assert_equal false, action[:all_in]    
   end
 
+  test "#parse_player_action parses post the ante entry" do
+    @parser.parse_players
+    
+    entry = "Billy: posts the ante 3"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "posts", action[:action]
+    assert_equal 3.0, action[:amount]    
+    assert_equal false, action[:all_in]    
+    assert_equal "the ante", action[:description]
+  end
+
+  test "#parse_player_action parses post big blind entry" do
+    @parser.parse_players
+    
+    entry = "Billy: posts small blind 25"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "posts", action[:action]
+    assert_equal 25.0, action[:amount]    
+    assert_equal false, action[:all_in]    
+    assert_equal "small blind", action[:description]
+  end
+  
+  test "#parse_player_action parses post small blind entry" do
+    @parser.parse_players
+    
+    entry = "Billy: posts big blind 50"
+    action = @parser.parse_player_action(entry)
+
+    assert_equal 3, action[:seat]
+    assert_equal "posts", action[:action]
+    assert_equal 50.0, action[:amount]    
+    assert_equal false, action[:all_in]    
+    assert_equal "big blind", action[:description]
+  end
+  
   test "#parse_player_action raises ParseError if action is not valid" do
     @parser.parse_players
     
