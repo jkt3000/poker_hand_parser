@@ -1,13 +1,10 @@
 # PokerHandParser
 
-PokerHandParser is a ruby gem that parses poker hand histories and converts them into Poker Markup Language (PML), a very basic JSON-based format.
+PokerHandParser is a ruby gem that parses poker hand histories and converts them into a generic hash format (and easily into JSON format) so that it can be easily consumed downstream.
 
-The following poker hand histories can be imported:
-- pokerstars
-- others coming soon
+Currently it only parses Pokerstars hand histories from cash games and tournaments, but it would be easy enough to write other parsers for other popular formats.
 
-Take in a hand history file in text format.
-For each valid hand found, produces JSON text of the hand
+The resulting hash returned from the parse contains :hands => array of parsed hands, and :failed => array of hands that couldn't be parsed. Failed entries have an :error => the error message, and :hand => original hand history it was trying to parse. See below for example output of the results hash.
 
 
 ## Installation
@@ -31,18 +28,21 @@ Or install it yourself as:
 To use,
 
 ```ruby
+
+  require 'poker_hand_parser'
+
   results = PokerHandParser.parse_file(file)
 ```
 
 will return a hash of :hands and :failed. An example output is shown below.
 
+### Using via command line to test a file
 
 There is a rake task you can run to manually test via command line a hand history file.
 
     $ rake parse FILE=<name of file>
 
-This will run the parser and attempt to parse the file if it can find it. Once finished parsing,
-it will spit out output of the # of hands imported, # of hands failed, and a prettyprint output of the entire results hash (this could be very big depending on the number of hands your hand history file contains)
+This will run the parser and attempt to parse the file. Once finished parsing, it will spit out output of the # of hands imported, # of hands failed, and a prettyprint output of the entire results hash (this could be very big depending on the number of hands your hand history file contains)
 
 For example:
 
