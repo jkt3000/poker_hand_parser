@@ -17,19 +17,19 @@ end
 task :default => :test
 
 desc "Import a hand history file"
-task :import do 
+task :parse do 
   raise "Need FILE to run" unless file = ENV['FILE']
-  puts "importing #{File.expand_path(file)}"
+  puts "Parsing #{File.expand_path(file)}"
   
   results = PokerHandParser.parse_file(File.expand_path(file))
   puts "-"*80
-  puts "Imported #{results[:hands].count} failed: #{results[:failed].count}"
+  puts "Parsed #{results[:hands].count} Failed: #{results[:failed].count}"
   puts "-"*80
   
   pp results
 
   puts "-"*80
-  puts "Imported #{results[:hands].count} failed: #{results[:failed].count}"
+  puts "Parsed #{results[:hands].count} Failed: #{results[:failed].count}"
   puts "-"*80
 
 end
