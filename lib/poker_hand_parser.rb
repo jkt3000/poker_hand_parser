@@ -1,5 +1,5 @@
 require 'json'
-require 'active_support'
+require 'active_support/all'
 require 'time'
 require "poker_hand_parser/version"
 require "poker_hand_parser/cards"
