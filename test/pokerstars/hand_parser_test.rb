@@ -97,7 +97,7 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     @game = @parser.game_details
 
     assert_equal "143332391801", @game[:game_id]
-    assert_equal "Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit",  @game[:game_name]
+    assert_equal "Tournament #1370571394, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20)",  @game[:game_name]
     assert_equal 9, @game[:table_size]
     assert_equal "1370571394 3", @game[:table_name]
     assert_equal 2, @game[:button]
