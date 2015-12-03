@@ -14,7 +14,14 @@ module PokerHandParser
         summary:  "*** SUMMARY ***"
       }
       EVENT_ORDER          = [:settings, :preflop, :flop, :turn, :river, :showdown, :summary]
-      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks posts shows|
+      VALID_PLAYER_ACTIONS = %w|calls folds bets raises checks posts shows mucks|
+      IGNORABLE_ACTIONS    = [
+        "has timed out",
+        "is sitting out",
+        "has returned",
+        "doesn't show hand",
+        "sits out"
+      ]
 
       attr_accessor :game_details, 
                     :parsed_at, 
@@ -44,9 +51,6 @@ module PokerHandParser
         @results            = summarize_results
         @parsed_at          = Time.now.utc
         to_hash
-      rescue ParseError => e
-        logger.info("Error parsing hand history: #{e}")
-        nil
       end
 
       def parse_game_details
@@ -59,11 +63,12 @@ module PokerHandParser
         raise InvalidHandHistoryError, "Table data is blank" if table_data.blank?
 
         game_id, remainder = game_data.split(": ", 2)
-        game_name, date = remainder.split(" - ", 2)
+        game_name, _, date = remainder.rpartition(" - ")
 
         if m = game_id.match(/\#(\d{5,14})/)
           @game_details[:game_id] = m[1].strip
         end
+        
         @game_details[:played_at]  = Time.parse(date)
         @game_details[:game_name]  = game_name.strip
         @game_details[:game_host]  = PARSER_TYPE
@@ -117,7 +122,8 @@ module PokerHandParser
 
       def parse_actions(entries)
         entries.map do |entry|
-          entry.include?(": ") ? parse_player_action(entry) : parse_system_action(entry)
+          player_action = players.any? {|player| entry.include?("#{player[:name]}: ")}
+          player_action ? parse_player_action(entry) : parse_system_action(entry)
         end.compact
       end
 
@@ -127,7 +133,10 @@ module PokerHandParser
         tokens        = actions.split(" ")
         action        = tokens.first
         amount        = nil
-        description   = nil        
+        description   = nil
+
+        return if IGNORABLE_ACTIONS.include?(actions)
+
         raise ParseError, "Invalid player action: #{action}" unless VALID_PLAYER_ACTIONS.include?(action)
 
         case action
@@ -202,24 +211,6 @@ module PokerHandParser
         }
       end
 
-      private
-
-      def amount_from_token(token)
-        return unless token
-        return unless matches = token.match(/(\d+\.\d+|\d+)/)
-        matches[1].to_f
-      end
-
-      def lookup_player_by_name(name)
-        players.detect {|p| p[:name] == name }
-      end
-
-      def lookup_seat_by_name(name)
-        if player = lookup_player_by_name(name)
-          player.fetch(:seat)
-        end
-      end
-
       # break events into different categories (settings, preflop, flop, turn, river, summary)
       def process_events
         remaining = raw_events
@@ -235,8 +226,27 @@ module PokerHandParser
             # remove blank lines and split by new lines
             events = results.to_s.gsub(/\n\n/,"\n").gsub(/^$\n/,'').split("\n") 
             events.map {|e| e.strip! }  # strip leading and ending whitespaces
+            events.reject(&:blank?)
             events
           end
+        end
+      end
+
+      private
+
+      def amount_from_token(token)
+        return unless token
+        return unless matches = token.match(/(\d+\.\d+|\d+)/)
+        matches[1].to_f
+      end
+
+      def lookup_player_by_name(name)
+        players.detect {|p| p[:name] == name }
+      end
+
+      def lookup_seat_by_name(name)
+        if player = lookup_player_by_name(name)
+          player.fetch(:seat)
         end
       end
 

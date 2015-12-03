@@ -1,0 +1,38 @@
+PokerStars Zoom Hand #143045517975:  Hold'em No Limit ($0.02/$0.05) - 2015/10/30 13:43:04 ET
+Table 'Hyakutake' 9-max Seat #1 is the button
+Seat 1: galldam ($2.35 in chips) 
+Seat 2: toppair ($4.80 in chips) 
+Seat 3: kosakpoker ($5 in chips) 
+Seat 4: tigriskem ($14.69 in chips) 
+Seat 5: Olga19857777 ($5 in chips) 
+Seat 6: Los Mashka ($4.78 in chips) 
+Seat 7: alex2-a.a ($4.73 in chips) 
+Seat 8: KRITAYA ($7.70 in chips) 
+Seat 9: AndronDJ ($5 in chips) 
+toppair: posts small blind $0.02
+kosakpoker: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to toppair [2h Ks]
+tigriskem: unknown 
+Olga19857777: folds 
+Los Mashka: folds 
+alex2-a.a: folds 
+KRITAYA: folds 
+AndronDJ: folds 
+galldam: raises $0.25 to $0.30
+toppair: folds 
+kosakpoker: folds 
+Uncalled bet ($0.25) returned to galldam
+galldam collected $0.12 from pot
+galldam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: galldam (button) collected ($0.12)
+Seat 2: toppair (small blind) folded before Flop
+Seat 3: kosakpoker (big blind) folded before Flop
+Seat 4: tigriskem folded before Flop (didn't bet)
+Seat 5: Olga19857777 folded before Flop (didn't bet)
+Seat 6: Los Mashka folded before Flop (didn't bet)
+Seat 7: alex2-a.a folded before Flop (didn't bet)
+Seat 8: KRITAYA folded before Flop (didn't bet)
+Seat 9: AndronDJ folded before Flop (didn't bet)

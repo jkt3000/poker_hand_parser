@@ -34,6 +34,23 @@ class PokerHandParser::Pokerstars::HandParserTest < ActiveSupport::TestCase
     end
   end
 
+  # process_events
+
+  test "#process_events breaks history into array of events" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/hand2.txt"))
+    assert @parser.events[:settings].present?
+    assert @parser.events[:preflop].present?
+    assert @parser.events[:flop].blank?
+    assert @parser.events[:turn].blank?
+    assert @parser.events[:river].blank?
+    assert @parser.events[:summary].present?  
+  end
+
+  test "#process_events removes blank lines hand history" do
+    @parser = PokerHandParser::Pokerstars::HandParser.new(read_file("pokerstars/hand_with_blanks.txt"))
+    assert @parser.events.all? {|e| !e.any?(&:blank?) }
+  end
+  
   # parse
 
   test "#parse returns hash of processed hand history" do

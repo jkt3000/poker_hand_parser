@@ -1,0 +1,49 @@
+
+PokerStars Hand #143320932521: Tournament #1364593500, 20FPP Hold'em No Limit - Level I (10/20) - 2015/11/04 16:05:02 ET
+Table '1364593500 39' 9-max Seat #1 is the button
+Seat 1: edis1982 (2000 in chips) 
+Seat 2: sp4le87 (2000 in chips) 
+Seat 3: Kolyan0023 (2000 in chips) 
+Seat 4: Irishka322 (2000 in chips) 
+Seat 5: Grey250 (2000 in chips) 
+Seat 6: ProximoPLS (2000 in chips) 
+Seat 7: pjotter007 (2000 in chips) 
+Seat 8: UnluckyPS (2000 in chips) 
+Seat 9: toppair (2000 in chips) 
+sp4le87: posts small blind 10
+Kolyan0023: posts big blind 20
+
+*** HOLE CARDS ***
+
+Dealt to toppair [4d Qh]
+Irishka322: raises 1980 to 2000 and is all-in
+Grey250: folds 
+ProximoPLS: folds 
+pjotter007: folds 
+UnluckyPS: folds 
+toppair: folds 
+edis1982: calls 2000 and is all-in
+sp4le87: folds 
+Kolyan0023: folds 
+*** FLOP *** [8c Jh 7s]
+*** TURN *** [8c Jh 7s] [Ac]
+*** RIVER *** [8c Jh 7s Ac] [3s]
+*** SHOW DOWN ***
+Irishka322: shows [As 6h] (a pair of Aces)
+edis1982: shows [Ah 9c] (a pair of Aces - Jack+Nine kicker)
+Irishka322 is sitting out
+edis1982 collected 4030 from pot
+Irishka322 finished the tournament in 955th place
+*** SUMMARY ***
+Total pot 4030 | Rake 0 
+Board [8c Jh 7s Ac 3s]
+Seat 1: edis1982 (button) showed [Ah 9c] and won (4030) with a pair of Aces
+Seat 2: sp4le87 (small blind) folded before Flop
+Seat 3: Kolyan0023 (big blind) folded before Flop
+Seat 4: Irishka322 showed [As 6h] and lost with a pair of Aces
+Seat 5: Grey250 folded before Flop (didn't bet)
+Seat 6: ProximoPLS folded before Flop (didn't bet)
+Seat 7: pjotter007 folded before Flop (didn't bet)
+Seat 8: UnluckyPS folded before Flop (didn't bet)
+Seat 9: toppair folded before Flop (didn't bet)
+

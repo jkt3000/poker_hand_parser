@@ -9,34 +9,41 @@ module PokerHandParser
 
   extend self
 
-  def parse_file(file, json: false)
+  def parse_file(file)
     hand_histories = process_input_file(file)
 
     results = { hands: [], failed: [] }
     hand_histories.inject(results) do |results, hand|
-      if game = parse_hand(hand)
-        results[:hands] << game
-      else
-        results[:failed] << hand
-      end
+      game = parse_hand(hand)
+      key = game.key?(:game_id) ? :hands : :failed
+      results[key] << game
       results
     end
-    json ? results.to_json : results
+    results
   end
 
-  # parses a single hand history and returns hash of hand or nil if fails
   def parse_hand(hand)
     parser_model = detect_parser_type(hand)
     parser       = parser_model.new(hand)
     parser.parse
+  rescue StandardError => e
+    logger.debug("[Parse Hand] Error: #{e} #{e.backtrace[0]}")
+    logger.debug("Hand content:\n#{hand}")
+    {
+      error: "#{e} #{e.backtrace[0]}",
+      hand: hand
+    }
   end
 
   def process_input_file(file)
     raise StandardError, "File not found or invalid" unless File.exists?(file)
     contents = File.read(file)
-    hands = contents.split(/^$\n{3}|(\r\n){3}/)
+    contents = contents.gsub(/\r\n?/, "\n")
+    contents = contents.gsub(/\r/, "\n")
+    hands = contents.split(/^$\n{3}/)
     hands = hands.map do |hand|
-      hand.gsub(/^$\n|\r\n/, '')
+      next if hand.blank?
+      hand
     end.compact
     hands.reject(&:blank?)
   end

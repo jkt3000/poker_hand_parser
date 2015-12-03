@@ -10,27 +10,35 @@ class PokerHandParserTest < ActiveSupport::TestCase
 
   # parse_file
 
-  test "#parse_file will parse all hand histories in a given file" do
+  test "#parse_file will parse all hand histories in a given files" do
     @file = input_file("pokerstars/hands1.txt")
-
-    PokerHandParser.expects(:parse_hand).at_least_once.returns({})
     results = PokerHandParser.parse_file(@file)
-    
-    assert 1000, results[:hands].count
-    assert results[:failed].empty?
+    assert_equal 1000, results[:hands].count
+    assert_equal 0, results[:failed].count
+
+    @file = input_file("pokerstars/hands2.txt")
+    results = PokerHandParser.parse_file(@file)
+    assert_equal 84, results[:hands].count
+    assert_equal 0, results[:failed].count
+
+    @file = input_file("pokerstars/tourneys.txt")
+    results = PokerHandParser.parse_file(@file)
+    assert_equal 20, results[:hands].count
+    assert_equal 0, results[:failed].count
+
+    @file = input_file("pokerstars/tourney_freerolls.txt")
+    results = PokerHandParser.parse_file(@file)
+    assert_equal 4, results[:hands].count
+    assert_equal 0, results[:failed].count
+
   end
 
   test "#parse_file with invalid hand will record as an error" do
-    @file = input_file("pokerstars/hands1.txt")
+    @file = input_file("pokerstars/invalid_hand.txt")
 
-    PokerHandParser.expects(:parse_hand).at_least_once.returns(nil)
     results = PokerHandParser.parse_file(@file)
-
-    assert results[:failed].count > 1
-    assert results[:failed].first.include?("PokerStars Game")
-  end
-
-  test "#parse_file with :json => true returns response in JSON format" do
+    assert_equal 1, results[:failed].count
+    assert_equal 0, results[:hands].count
   end
 
   # process_input_file
@@ -41,18 +49,8 @@ class PokerHandParserTest < ActiveSupport::TestCase
     end
   end
 
-  test "#process_input_file returns array of entries that are separated by 3 line breaks" do
-    results = PokerHandParser.process_input_file(@file)
-    assert_equal 4, results.count
-
-    results.all? {|r| refute r.blank? }
-    results.all? {|r| refute r.start_with?("\n") }
-  end
-
-  test "#process_input_file removes blank lines between data, but keeps as single hand history" do
-    results = PokerHandParser.process_input_file(File.join(fixture_path, "sample_input.txt"))
-    assert_equal 2, results.count
-    refute results.first.match(/\n{2,}/)
-    refute results.last.match(/\n{2,}/)
+  test "#process_input_file breaks large history file into array of hands" do
+    results = PokerHandParser.process_input_file(File.join(fixture_path, "pokerstars/three_hands.txt"))
+    assert_equal 3, results.count
   end
 end
